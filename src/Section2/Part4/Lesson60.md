@@ -1,91 +1,93 @@
-# Expectation with わけ, はず, べき, ものだ, and かもしれない
 
-わけ is a noun meaning "reason" (as in "why"). It can be used in many different set expressions. It is not possible to list all of them here but just a few common ones.
+# Kỳ vọng và suy đoán với わけ, はず, べき, ものだ, và かもしれない
 
-At the core わけ(だ) states a reason, explanation, fact, logical restatement, or conclusion. This usage can occasionally be replaced with のだ.
+わけ là một danh từ mang nghĩa “lý do” (theo nghĩa “tại sao”). Nó xuất hiện trong rất nhiều cụm cố định. Không thể liệt kê hết ở đây, nên chỉ giới thiệu một vài cách dùng phổ biến.
+
+Về cốt lõi, わけ(だ) dùng để nêu lý do, lời giải thích, sự thật, cách diễn đạt lại mang tính logic, hoặc kết luận. Trong một số trường hợp, có thể thay bằng のだ.
 
 <pre>
 なるほど、そういう可能性もある<b>わけだ</b>。
-I see, so that possibility also exists.
+À ra vậy, hóa ra cũng có khả năng như thế.
 
 それならいくら探しても見つからない<b>わけだ</b>。
-If that's the case, no matter how hard they search, she won't be found.
+Nếu vậy thì dù tìm bao nhiêu đi nữa cũng không thể tìm ra cô ấy.
 </pre>
 
-わけがない means "there is no way" and implies that something is not even remotely thinkable by the speaker
+わけがない có nghĩa là “không đời nào / không thể nào”, ám chỉ người nói cho rằng điều đó hoàn toàn không thể xảy ra.
 
 <pre>
 そんな馬鹿なことがある<b>わけがない</b>。
-<b>There's no way</b> such a ridiculous thing would exist.
+<b>Không thể nào</b> có chuyện ngớ ngẩn như thế.
 </pre>
 
-わけじゃない on the other hand is a roundabout way to negate a situation, circumstance, or logical conclusion.
+わけじゃない là cách phủ định vòng vo một tình huống, hoàn cảnh, hoặc kết luận logic.
 
 <pre>
 可能性がない<b>わけじゃない</b>。
-<b>It's not like</b> there's no chance.
+<b>Không phải là</b> không có khả năng.
 </pre>
 
-わけにはいかない means that something is not possible according to general knowledge or social expectations.
+わけにはいかない diễn tả rằng một việc gì đó là không thể làm được do lẽ thường hoặc do chuẩn mực xã hội.
 
 <pre>
 このチャンスを逃す<b>わけにはいかない</b>。
-<b>I cannot possibly</b> let this chance go.
+<b>Tôi không thể</b> bỏ lỡ cơ hội này được.
 </pre>
 
-Since わけ is a very strong statement, it is often paired with という in the form of というわけ to soften the impact of the expression.
+Vì わけ là một cách nói khá mạnh, nên thường được kết hợp với という thành というわけ để làm mềm sắc thái.
 
-はず expresses that the speaker expects something to factually be true or come true. It can be similar to the English "should" but it does not cover the entire same range of situations. はず also implies that the expectation is based on reasoning and is not pure conjecture.
+はず diễn tả rằng người nói mong đợi một điều gì đó là đúng hoặc sẽ trở thành sự thật. Gần với “should” trong tiếng Anh, nhưng không hoàn toàn giống. はず ngụ ý rằng sự kỳ vọng này dựa trên suy luận, chứ không phải đoán mò.
 
 <pre>
 こんな<b>はず</b>じゃなかった、こんな<b>はず</b>じゃなかった
-It <b>shouldn't</b> have been like this, it <b>shouldn't</b> have been like this
+Lẽ ra <b>không nên</b> như thế này, lẽ ra <b>không nên</b> như thế này.
 
 さっきまで自分の部屋にいた<b>はず</b>なのに。
-But she <b>should</b>'ve been in her room until a moment ago...
+Nhưng lẽ ra cô ấy <b>phải</b> ở trong phòng mình cho đến lúc nãy...
 
 その場にいた全員がそう思った<b>はず</b>だ。
-Everybody standing there <b>must</b> have thought that.
+Tất cả những người có mặt ở đó <b>chắc hẳn</b> đều đã nghĩ như vậy.
 </pre>
 
-べき states that the speaker expects a certain behaviour or state to be upheld, because not doing so would be bad, irresponsible, etc.
+べき diễn tả rằng người nói cho rằng một hành vi hoặc trạng thái nào đó nên được thực hiện, vì nếu không thì sẽ là xấu, thiếu trách nhiệm, v.v.
 
 <pre>
 この場から立ち去る<b>べきだ</b>。
-<b>It would be good to</b> leave this place.
+<b>Nên</b> rời khỏi chỗ này.
 
 わからないことは聞く<b>べきだ</b>。
-<b>You should</b> ask about the things you don't understand.
+<b>Bạn nên</b> hỏi những điều mình không hiểu.
 </pre>
 
-There are however some situations where using べき isn't always so heavy, especially in questions when asking for someone's wisdom or advice.
+Tuy nhiên, trong một số tình huống (đặc biệt là câu hỏi xin lời khuyên), べき không nhất thiết mang sắc thái nặng nề.
 
 <pre>
 どこに行く<b>べき</b>だと思う？
-Where do you think we <b>should</b> go?
+Bạn nghĩ chúng ta <b>nên</b> đi đâu?
 </pre>
 
-When in the past tense like べきだった, it says that an action or state "was" or "would have been" right, usually the latter.
+Khi dùng ở quá khứ như べきだった, nó mang nghĩa “đáng lẽ nên…”, thường là để nói về điều lẽ ra nên làm.
 
 <pre>
 もっと気を付ける<b>べきだった</b>。
-We <b>should have been</b> more careful.
+Chúng ta <b>đáng lẽ nên</b> cẩn thận hơn.
 </pre>
 
-べし is an archaic version of べき. Just be aware it exists.
+べし là dạng cổ của べき. Chỉ cần biết là nó tồn tại.
 
-ものだ can also express "should" with the nuance that it's a general "should" that applies to a lot of people, not just a specific person or a group. It is often used to state the nature of "how things are".
+ものだ cũng có thể diễn tả nghĩa “nên”, nhưng với sắc thái chung chung, áp dụng cho nhiều người, như một lẽ thường trong cuộc sống.
 
 <pre>
 子供は親の言う事を聞く<b>ものだ</b>。
-Children <b>should</b> listen to what their parents say.
+Trẻ con <b>nên</b> nghe lời cha mẹ.
 </pre>
 
-かもしれない is a compound sentence-ender. It attaches the same way as か alone does. It expresses that the speaker thinks the statement is a possibility. Sometimes people attach this to things they know are true for politeness's sake.
+かもしれない là một cụm kết câu, gắn vào câu giống như か. Nó diễn tả rằng người nói cho rằng điều đó là một khả năng. Đôi khi người ta dùng nó ngay cả với điều họ biết là đúng, để nói cho lịch sự.
 
 <pre>
 まだ寝ぼけている<b>かもしれない</b>。
-<b>Maybe</b> she's still half asleep.
+<b>Có lẽ</b> cô ấy vẫn còn ngái ngủ.
 </pre>
 
-かもしれない is often shortened to just かも in casual conversation.
+Trong văn nói thân mật, かもしれない thường được rút gọn thành かも.
+

@@ -1,53 +1,55 @@
-# Directionality with ていく and てくる
 
-We already touched briefly on the concept of directionality in [Lesson 11](../../Section1/Part1/Lesson11.md) with the giving auxiliary verbs てあげる, てもらう, and てくれる. Let's now dig a bit deeper into this concept and introduce two more auxiliaries: ていく and てくる.
+# Tính định hướng với ていく và てくる
 
-When not used with an auxiliary sense, Vていく and Vてくる simply mean what they spell: "To do V, and then go/come somewhere". However, when used as auxiliaries, their meaning deepens and becomes more than the sum of its parts.
+Chúng ta đã nhắc sơ qua về khái niệm “tính định hướng” trong [Lesson 11](../../Section1/Part1/Lesson11.md) thông qua các trợ động từ cho – nhận như てあげる, てもらう và てくれる. Bây giờ ta sẽ đi sâu hơn một chút và giới thiệu thêm hai trợ động từ nữa: ていく và てくる.
 
-Auxiliary ていく roughly means that some event is ongoing and will "keep going" in a direction away from the speaker, either in place or time (present \-\> future). ていく can be contracted as てく.
+Khi không dùng với tư cách trợ động từ, Vていく và Vてくる đơn giản mang nghĩa đúng như mặt chữ: “làm V rồi đi đâu đó” hoặc “làm V rồi đến đâu đó”. Tuy nhiên, khi dùng như trợ động từ, ý nghĩa của chúng trở nên sâu hơn và không chỉ là phép cộng đơn giản của từng phần.
+
+Trợ động từ ていく diễn tả một sự việc đang diễn ra và sẽ “tiếp tục diễn tiến” theo hướng rời xa người nói, về mặt không gian hoặc thời gian (hiện tại → tương lai). ていく trong văn nói đôi khi được rút gọn thành てく.
 
 <pre>
 それはどんどんと大きくなっ<b>ていく</b>。
-That <b>keeps</b> gradually getting larg<b>er and</b> larg<b>er</b>
+Nó <b>cứ</b> lớn dần lên.
 </pre>
 
-Likewise, auxiliary てくる means that some event was ongoing and has continued approaching from away towards the speaker, either in place or time (past \-\> present), and might even go further.
+Tương tự, trợ động từ てくる diễn tả một sự việc đã bắt đầu ở đâu đó xa và đang tiếp diễn theo hướng tiến lại gần người nói, về mặt không gian hoặc thời gian (quá khứ → hiện tại), và có thể còn tiếp tục nữa.
 
 <pre>
 声が背後から聞こえ<b>てくる</b>。
-I heard a voice <b>coming</b> from behind.
+Tôi nghe thấy một giọng nói <b>vọng lại</b> từ phía sau.
 </pre>
 
-Both ていく and てくる are incredibly nuanced in usage and this lesson doesn't even begin to scratch the surface of the complexity of it, especially when you throw different tenses into the mix.
+Cách dùng của ていく và てくる rất tinh tế và phức tạp, và bài này chỉ mới chạm tới bề mặt của vấn đề, đặc biệt khi kết hợp với các thì khác nhau.
 
-Let's just look at examples and then we can move on. You will pick up some of the nuances and common phrasings with more experience.
+Trước mắt, hãy xem các ví dụ sau. Theo thời gian và trải nghiệm, bạn sẽ dần quen với các sắc thái và cách dùng phổ biến.
 
 <pre>
 これまで見えなかったものが見えるようになっ<b>てきた</b>。
-The things that up to this point were not visible have started to become visible.
+Những thứ trước giờ không thấy được đã bắt đầu trở nên nhìn thấy.
 
 周囲が騒がしくなっ<b>てきた</b>。
-The surroundings have started to become noisy.
+Xung quanh bắt đầu trở nên ồn ào.
 
 顔色がだんだん悪くなっ<b>てきている</b>。
-Her face has been progressively getting paler.
+Sắc mặt cô ấy đang dần dần trở nên tệ hơn.
 
 時間はあっという間に過ぎ<b>ていった</b>。
-Time went by in a flash.
+Thời gian trôi qua trong chớp mắt.
 
 この世界は、少しずつ変わっ<b>ていっている</b>。
-This world is continuously changing little by little.
+Thế giới này đang từng chút một thay đổi.
 </pre>
 
-Some verbs **require** to be paired with an auxiliary verb of directionality to make some of the sentences grammatical. For example the verb 引っ越す means "to move (house/residence)", but unlike English it doesn't have an actual connotation of "movement" or dynamism to it. When you want to use it in the sense of "I just moved here" and highlight a state transition, you must use an auxiliary verb of direction. Other verbs like 送る and 歩く work in a similar way.
+Một số động từ **bắt buộc** phải đi kèm với trợ động từ chỉ hướng thì câu mới tự nhiên hoặc đúng nghĩa. Ví dụ, động từ 引っ越す nghĩa là “chuyển nhà”, nhưng trong tiếng Nhật bản thân nó không mang rõ sắc thái “di chuyển” hay “chuyển dịch trạng thái” như trong tiếng Anh. Khi muốn nói “tôi vừa chuyển đến đây” và nhấn mạnh sự thay đổi trạng thái, ta cần dùng thêm trợ động từ chỉ hướng. Các động từ như 送る (gửi) hay 歩く (đi bộ) cũng có cách dùng tương tự.
 
 <pre>
 親の都合で、この街に引っ越し<b>てきた</b>
-Because of circumstances with his parents, he moved to this town.
+Vì hoàn cảnh của bố mẹ, tôi đã chuyển đến thị trấn này.
 
 メールを送っ<b>てきた</b>人物は、結局何者だったのか。
-Who exactly was the person who sent the email in the end?
+Rốt cuộc người đã gửi email đó là ai?
 
 一人の少女がこちらに歩い<b>てきた</b>。
-A lone girl walked towards me.
+Một cô gái đi bộ về phía tôi.
 </pre>
+

@@ -1,63 +1,65 @@
-# Making and becoming with なる and する
 
-We have already seen なる in some examples from past lessons. Let's now take a deeper look at how it works.
+# Tạo ra và trở thành với なる và する
 
-なる is a verb meaning something like "become" or "ending up being". In addition to just "become", it can be used for all sorts of indirect states, like a team ending up being its members, or a rumor turning out to be true.
+Chúng ta đã gặp なる trong một số ví dụ ở các bài trước. Bây giờ hãy xem kỹ hơn cách nó hoạt động.
+
+なる là một động từ mang nghĩa "trở thành" hoặc "kết cục là". Ngoài nghĩa đơn thuần là "trở thành", nó còn dùng để diễn tả nhiều trạng thái gián tiếp, như một nhóm cuối cùng trở thành một tập thể nào đó, hoặc một tin đồn hóa ra là sự thật.
 
 <pre>
 海賊王<b>に</b>俺は<b>なる</b>！
-I will <b>become</b> the pirate king!
+Tôi sẽ <b>trở thành</b> vua hải tặc!
 
 1500円<b>になります</b>
-It will <b>be</b> 1500 yen.
+Sẽ là <b>1500 yên</b>.
 </pre>
 
-に is used as the particle to mark the noun (or thing) that the subject "becomes". As always, the order of particles can change the emphasis, as we can see in the first example sentence above.
+Trợ từ に được dùng để đánh dấu danh từ (hoặc đối tượng) mà chủ ngữ "trở thành". Như thường lệ, thứ tự các thành phần trong câu có thể thay đổi để tạo trọng tâm khác nhau, như ví dụ đầu tiên.
 
-In reality, though, なる actually takes an adverb and not just nouns marked with に. It just happens to be that nouns (and な adjectives) can become adverbial when に is used.
+Thực ra, なる kết hợp với trạng từ, chứ không chỉ với danh từ gắn に. Chỉ là danh từ (và tính từ な) có thể biến thành trạng từ khi đi với に.
 
-We can confirm this when we try to use なる with い adjectives. To do so, we need to turn them into adverbs like this:
+Điều này thể hiện rõ khi dùng なる với tính từ い. Ta cần chuyển tính từ い sang dạng trạng từ:
 
 <pre>
 これからもっともっと強<b>くなる</b>。
-From this moment on, I will <b>become</b> much much stronger.
+Từ bây giờ tôi sẽ <b>trở nên</b> mạnh hơn rất nhiều.
 </pre>
 
-Likewise for the negative (ない) forms:
+Tương tự với dạng phủ định (ない):
 
 <pre>
 食事が美味しく<b>なくなる</b>
-The meal <b>becomes not</b> good
+Món ăn <b>trở nên không ngon</b>.
 </pre>
 
-Even verbs can be paired with なる. Verbs in the negative form conjugate like い adjectives, and the same goes for verbs in たい form. Meanwhile, verbs in plain/non-negative form require an extra helper noun like よう which roughly means "in the manner of" (same よう we have already seen in [Lesson 42](../Part3/Lesson42.md)). 
+Ngay cả động từ cũng có thể kết hợp với なる. Động từ ở dạng phủ định biến đổi giống tính từ い, và động từ ở dạng たい cũng vậy. Trong khi đó, động từ ở dạng khẳng định thông thường cần thêm danh từ bổ trợ như よう, mang nghĩa gần giống "theo cách" hoặc "theo hướng" (chính là よう đã học trong [Lesson 42](../Part3/Lesson42.md)).
 
 <pre>
 たこ焼き食べた<b>くなった</b>。
-I <b>became</b> to crave for takoyaki
+Tôi <b>tự dưng thèm</b> ăn takoyaki.
 
 ここで下がれば本当に道がわから<b>なくなる</b>。
-If we go down from here, it will <b>become</b> impossible to find the way.
+Nếu đi xuống từ đây thì sẽ <b>không còn biết đường nữa</b>.
 
 見えなかったものが見える<b>ようになる</b>。
-The stuff that was not visible <b>became</b> visible
+Những thứ trước đây không thấy được thì <b>trở nên nhìn thấy được</b>.
 </pre>
 
-It is common for the structure ようになる to have the verb in potential form to mean "become able to do" something.
+Cấu trúc ようになる thường đi kèm động từ ở dạng khả năng để diễn tả "trở nên có thể làm được" điều gì đó.
 
-As a parallel of \<adverb\> + なる, we will now look at \<adverb\> + する. 
+Song song với \<trạng từ\> + なる, ta có cấu trúc \<trạng từ\> + する.
 
-You can consider する to be the "active" version of なる. While \<adverb\> + なる means "to **become** \<adverb\>", \<adverb\> + する means "to **make** (something) into \<adverb\>".
+Có thể xem する là phiên bản "chủ động" của なる. Nếu \<trạng từ\> + なる nghĩa là "trở nên \<trạng từ\>", thì \<trạng từ\> + する nghĩa là "làm cho (thứ gì đó) trở thành \<trạng từ\>".
 
-The sentence structure works exactly the same as なる, except we mark the thing that is being "made" with を.
+Cấu trúc câu giống hệt なる, chỉ khác là đối tượng bị "làm cho" sẽ được đánh dấu bằng を.
 
 <pre>
 みんなが目を丸<b>くする</b>。
-Everyone stared in wonder (lit: "made their eyes a circle")
+Mọi người tròn mắt kinh ngạc. (nghĩa đen: làm cho mắt thành hình tròn)
 
 彼女は笑みを深<b>くする</b>。
-She deepened her smile (lit: "made her smile deeper")
+Cô ấy nở nụ cười sâu hơn. (nghĩa đen: làm cho nụ cười sâu thêm)
 
 美味しいものは人を幸せ<b>にする</b>。
-Tasty things make people happy (lit: "turn people into happiness")
+Đồ ăn ngon làm cho con người hạnh phúc. (nghĩa đen: biến con người thành hạnh phúc)
 </pre>
+

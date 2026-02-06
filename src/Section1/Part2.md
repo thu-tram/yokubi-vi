@@ -1,5 +1,5 @@
-# Part 2: Getting Going
+# Phần 2: Tiếp tục tiến lên
 
-We're making great progress. Don't stop here, keep going. Okay, actually you can take a little break, you deserve it.
+Chúng ta đang tiến bộ rất tốt. Đừng dừng lại ở đây, hãy tiếp tục. Thôi được, thực ra bạn có thể nghỉ giải lao một chút, bạn xứng đáng với điều đó.
 
-But don't **stop**. We still got a lot to cover.
+Nhưng đừng **dừng hẳn**. Chúng ta vẫn còn rất nhiều thứ phải học.

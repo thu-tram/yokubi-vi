@@ -1,6 +1,7 @@
-# Closing Words
 
-**Congratulations**. You have reached the end of the main guide. I knew you would make it.
+# Lời kết
+
+**Chúc mừng bạn**. Bạn đã đi hết phần nội dung chính của hướng dẫn. Tôi biết bạn sẽ làm được.
 
 <center>
 <font size=50>
@@ -8,10 +9,11 @@
 </font>
 </center>
 
-The main content may be finished, but there is still a lot to learn. Every single lesson in this guide has been nothing but a tiny drop in the sea of Japanese grammar and constructions that you will encounter as you continue to immerse and experience natural language in context.
+Phần cốt lõi có thể đã kết thúc, nhưng hành trình học vẫn còn rất dài. Mỗi bài học trong hướng dẫn này thực chất chỉ là một giọt nước nhỏ trong đại dương rộng lớn của ngữ pháp và cấu trúc tiếng Nhật mà bạn sẽ còn gặp khi tiếp tục tiếp xúc với ngôn ngữ tự nhiên trong bối cảnh thực tế.
 
-These are simply foundations, and to tell you the truth, they aren't even **all** of the foundations. There will still be a lot of basic stuff that you will miss, that you will look up, and that you will learn via exposure. As long as you keep moving forward, you will learn it.
+Đây chỉ là những nền tảng ban đầu, và nói thật thì chúng thậm chí còn chưa phải là **tất cả** nền tảng. Vẫn sẽ có rất nhiều kiến thức cơ bản mà bạn chưa gặp, chưa biết, rồi sẽ phải tra cứu, và cuối cùng học được thông qua việc tiếp xúc thường xuyên. Chỉ cần bạn tiếp tục tiến về phía trước, bạn sẽ dần nắm được chúng.
 
 <div class="warning">
-While the <b>main</b> guide is finished, not all content that was in <a href=https://sakubi.neocities.org/>sakubi</a> has yet been ported over. We are still missing a lot of extra/hidden/optional lessons and intermissions. We plan to keep adding more and more content as we go. If you want to help, you can also join <a href=https://discord.gg/KZj4dVFDzu>our discord community</a>. Any feedback is welcome.
+Mặc dù phần hướng dẫn <b>chính</b> đã hoàn thành, nhưng không phải toàn bộ nội dung từng có trong <a href=https://sakubi.neocities.org/>sakubi</a> đã được chuyển sang. Chúng tôi vẫn còn thiếu khá nhiều bài học bổ sung/ẩn/tùy chọn và các phần xen kẽ. Chúng tôi dự định sẽ tiếp tục bổ sung thêm nội dung theo thời gian. Nếu bạn muốn giúp đỡ, bạn có thể tham gia <a href=https://discord.gg/KZj4dVFDzu>cộng đồng discord</a> của chúng tôi. Mọi phản hồi đều được hoan nghênh.
 </div>
+

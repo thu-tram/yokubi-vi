@@ -1,10 +1,11 @@
-# Past verbs
 
-You form the past tense of a verb by attaching た or だ to a specific "stem".
+# Động từ quá khứ
 
-Stems are important for godan verbs because godan verbs have many stems and often present irregularities.
+Để tạo dạng quá khứ của động từ, bạn gắn た hoặc だ vào một “thân” (stem) nhất định.
 
-90% of the time, you only use three stems. Here's an example:
+Khái niệm thân đặc biệt quan trọng với động từ godan, vì nhóm này có nhiều thân khác nhau và thường có những điểm không hoàn toàn đều.
+
+Trong khoảng 90% trường hợp, bạn chỉ cần quan tâm đến ba thân chính. Ví dụ:
 
 | Plain form | "a" form | "i" form |
 |------------|----------|----------|
@@ -12,50 +13,56 @@ Stems are important for godan verbs because godan verbs have many stems and ofte
 | 死ぬ       | 死な     | 死に/死ん|
 | 書く       | 書か     | 書き/書い|
 
-Note: "a" form and "i" form aren't real terms, it's just an example to show the sound vowel these stem end as. We don't need to know the Japanese linguistic names of these forms now, but you can look them up if you want. 
+Lưu ý: “a form” và “i form” không phải là thuật ngữ chính thức, chỉ là cách gọi tạm để chỉ nguyên âm mà thân kết thúc. Hiện tại bạn chưa cần biết tên học thuật của các dạng này.
 
-Here's an example of these stems in use:
+Ví dụ cách dùng các thân:
 
 <pre>
-殺<b>す</b>
-He kills
+殺<b>す</b>  
+He kills  
+Anh ấy giết.
 
-殺<b>さ</b>ない
-He doesn't kill
+殺<b>さ</b>ない  
+He doesn't kill  
+Anh ấy không giết.
 
-殺<b>し</b>た
-He killed
+殺<b>し</b>た  
+He killed  
+Anh ấy đã giết.
 </pre>
 
-That's right. Basic stuff like tense and negation uses only three stems. There are more stems, but they show up less often. We'll cover them later.
+Đúng vậy, những thứ cơ bản như thì và phủ định chỉ cần ba thân này. Còn những thân khác tồn tại, nhưng ít gặp hơn và sẽ học sau.
 
-With that out of the way, we can introduce the past tense properly. We've seen the past tense forms of だ and です already, which are だった and でした. We also saw 殺した in the stem example above.
+Bây giờ chúng ta có thể học dạng quá khứ một cách chính thức. Trước đó, chúng ta đã thấy dạng quá khứ của だ và です là だった và でした. Chúng ta cũng vừa thấy 殺した trong ví dụ ở trên.
 
-You'd be right to assume that the た is what makes it the past tense. The hard part is that the stem for the past tense of godan verbs isn't as regular as the stem for the negative form. It depends on the original syllable ending of the plain form. Here are all possibilities:
+Bạn có thể đoán đúng rằng chính た là yếu tố tạo nên thì quá khứ. Phần khó là: với động từ godan, thân dùng cho quá khứ không đều như thân dùng cho phủ định. Nó phụ thuộc vào âm tiết kết thúc của dạng từ điển.
+
+Dưới đây là tất cả các khả năng:
 
 <pre>
-切<b>る</b>	殺<b>す</b>	死<b>ぬ</b>	選<b>ぶ</b>	読<b>む</b>	買<b>う</b>	動<b>く</b>	急<b>ぐ</b>	持<b>つ</b>
+切<b>る</b>	殺<b>す</b>	死<b>ぬ</b>	選<b>ぶ</b>	読<b>む</b>	買<b>う</b>	動<b>く</b>	急<b>ぐ</b>	持<b>つ</b>  
 切<b>った</b>	殺<b>した</b>	死<b>んだ</b>	選<b>んだ</b>	読<b>んだ</b>	買<b>った</b>	動<b>いた</b>	急<b>いだ</b>	持<b>った</b>
 </pre>
 
-Don't memorize this table. There are some rules based on what kana row the verb belongs to:
+Bạn không cần học thuộc bảng này. Chỉ cần nhớ một số quy tắc chung dựa trên hàng kana mà động từ thuộc về:
 
-- う, つ, or る become った
-- す becomes した
-- ぶ, む, or ぬ become んだ
-- く and ぐ become respectively いた and いだ
+- う, つ, hoặc る → った  
+- す → した  
+- ぶ, む, hoặc ぬ → んだ  
+- く → いた, ぐ → いだ  
 
-There are also a couple of verbs with a funny irregular conjugation, for example 問う becomes 問うた. There are only a few of them that behave like this (乞う \-\> 乞うた being another one). You don't need to memorize these, just be aware they exist, they are not very common.
+Ngoài ra còn một vài động từ có cách chia hơi “kỳ lạ”, ví dụ 問う → 問うた. Chỉ có rất ít động từ như vậy (một ví dụ khác là 乞う → 乞うた). Bạn không cần ghi nhớ, chỉ cần biết là chúng tồn tại và không quá phổ biến.
 
-Japanese speakers don't go through this mental process whenever they conjugate something. This process is second nature to them. At the very least, if you do a little reading and listening in Japanese, you will be able to recognize the past tense at a glance. Exposure is more powerful than memorization.
+Người Nhật không phải suy nghĩ theo từng bước quy tắc này mỗi khi chia động từ. Với họ, đó là phản xạ tự nhiên. Ít nhất, khi bạn đọc và nghe tiếng Nhật đủ nhiều, bạn sẽ có thể nhận ra dạng quá khứ ngay lập tức. Tiếp xúc thực tế quan trọng hơn học thuộc.
 
-The past tense of ichidan verbs is easy. Just replace the る with a た.
+Dạng quá khứ của động từ ichidan thì rất đơn giản: chỉ cần thay る bằng た.
 
 | Non-past | Past        |
 |----------|-------------|
 |見**る**  | 見**た**    |
 |食べ**る** | 食べ**た** |
 
-We will learn another use of this stem, in Lesson 12.
+Chúng ta sẽ học thêm một cách dùng khác của thân này trong Lesson 12.
 
-The rules of verb conjugations are more complicated than this, but take this one step at a time.  
+Quy tắc chia động từ còn phức tạp hơn thế này, nhưng hãy tiếp cận từng bước một.
+

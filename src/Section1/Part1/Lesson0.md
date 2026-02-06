@@ -1,28 +1,33 @@
-# The anatomy of Japanese sentences
+# Cấu trúc cơ bản của câu tiếng Nhật
 
-When you approach the study of a new language, especially one like Japanese that does not use spaces to show word boundaries, your biggest source of confusion is going to be how to correctly separate the different parts of each sentence to more easily digest and understand them. We call this activity "parsing".
+Khi bạn bắt đầu học một ngôn ngữ mới — đặc biệt là một ngôn ngữ như tiếng Nhật, vốn không dùng khoảng trắng để phân tách từ — thì nguồn gây rối lớn nhất sẽ là việc làm sao chia câu thành các phần nhỏ một cách chính xác để dễ đọc và dễ hiểu. Hoạt động này được gọi là “phân tích câu” (parsing).
 
-No matter what, if you cannot "parse" a sentence, you will not understand its meaning. If you do not understand its meaning, you cannot acquire the language used in it. This lesson will give you a very brief and quick rundown of what to expect to achieve basic "parsing" abilities.
+Nếu bạn không thể phân tích được một câu, bạn sẽ không hiểu được ý nghĩa của nó. Và nếu không hiểu được ý nghĩa, bạn sẽ không thể tiếp thu ngôn ngữ xuất hiện trong câu đó. Bài học này sẽ cung cấp cho bạn một cái nhìn nhanh và ngắn gọn về những điều cần biết để bắt đầu có khả năng “phân tích câu” cơ bản.
 
-Japanese is an SOV language (Subject-Object-Verb), unlike English which is an SVO (Subject-Verb-Object) one. 
+Tiếng Nhật là một ngôn ngữ có trật tự SOV (Chủ ngữ – Tân ngữ – Động từ), khác với tiếng Anh là SVO (Chủ ngữ – Động từ – Tân ngữ).
 
-<pre>
+Ví dụ:
+
 English: I eat (an) apple
+
 Japanese: I apple eat
-</pre>
 
-It may seem weird at first, but you will get used to this "backwards" structure in no time as you get exposed to more and more language. Also, plenty of exceptions exist, this order is not a rule but a general recommendation. 
+Ban đầu bạn có thể thấy cách sắp xếp này khá kỳ lạ, nhưng bạn sẽ quen rất nhanh khi tiếp xúc với tiếng Nhật nhiều hơn. Ngoài ra, có khá nhiều ngoại lệ — trật tự này không phải là luật cứng, mà chỉ là xu hướng chung.
 
-Japanese has two general formations. Almost every sentence will be in the shape of "A is B" or "A does B". Or, following Japanese order, "A B is" and "A B does". We will see in the next lesson how to make "A B is" type sentences, and later we will learn "A B does" ones too. Then, we will learn how to connect and chain them together.
+Tiếng Nhật có hai dạng câu cơ bản. Hầu hết các câu sẽ có dạng “A là B” hoặc “A làm B”. Theo trật tự tiếng Nhật, chúng tương ứng với “A B là” và “A B làm”. Trong bài học tiếp theo, chúng ta sẽ học cách tạo câu dạng “A B là”, và sau đó sẽ học đến dạng “A B làm”. Rồi sau đó, chúng ta sẽ học cách nối và kết hợp các câu này với nhau.
 
-Another specific aspect of Japanese is that it is a pro-drop language. What this means is that anything that can be implied or understood from the context can be omitted. For example, if it is obvious who the subject is, we don't need to state it again. "Apple eat" is a completely fine sentence, as long as we know the subject it refers to is "I".
+Một đặc điểm quan trọng khác của tiếng Nhật là đây là ngôn ngữ có hiện tượng lược bỏ thành phần (pro-drop). Nghĩa là những gì có thể suy ra từ ngữ cảnh thì không cần nói ra. Ví dụ, nếu chủ ngữ đã rõ ràng, ta không cần nhắc lại. Câu “Apple eat” (Ăn táo) vẫn hoàn toàn chấp nhận được, miễn là người nghe hiểu chủ ngữ ở đây là “tôi”.
 
+Lý do là vì tiếng Nhật là một ngôn ngữ vận hành theo “chủ đề”. Phần lớn các cuộc hội thoại trong tiếng Nhật sẽ bắt đầu bằng việc xác định chủ đề đang được nói đến, rồi sau đó bổ sung thêm thông tin liên quan đến chủ đề đó. Khi trọng tâm thay đổi, người nói sẽ đưa ra một chủ đề mới. Việc nhận ra và theo dõi sự thay đổi chủ đề là yếu tố then chốt để phân tích câu chính xác.
 
-This is because Japanese is a "topic" driven language. Most Japanese conversations begin by setting the stage of what is being talked about, and then add more details with every new statement that relates back to the topic. When the focus shifts, we change the topic by raising a new one. Being able to identify and keep track of how the topic changes is fundamental to get a good "parse" on a sentence. 
+Ví dụ:
 
-<pre>
-English: "I ate an apple then drank some water. What did you do?"
-Japanese: "<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?"
-</pre>
+English: “I ate an apple then drank some water. What did you do?”
 
-It sounds like backwards caveman speak, but that's just because representing Japanese structure in English is incredibly silly. This is the only example in the entire guide where we'll be writing unnatural English as a comparison with Japanese. You should not think about Japanese this way. You need to think of Japanese in Japanese, because Japanese is not English. 
+Japanese: “<b>Nói về tôi</b>, ăn táo. Sau đó, uống nước. <b>Nói về bạn</b>?”
+
+Nghe có vẻ giống cách nói ngược đời hoặc kiểu “người nguyên thủy”, nhưng đó chỉ là vì việc ép cấu trúc tiếng Nhật sang tiếng Anh trông rất buồn cười. Đây là ví dụ duy nhất trong toàn bộ hướng dẫn mà chúng tôi cố tình viết tiếng Anh một cách không tự nhiên để so sánh với tiếng Nhật. Bạn không nên suy nghĩ về tiếng Nhật theo kiểu này. Bạn cần học cách suy nghĩ bằng tiếng Nhật, bởi vì tiếng Nhật không phải là tiếng Anh.
+
+---
+
+Nếu bạn muốn, mình có thể tiếp tục dịch các chương tiếp theo theo cùng phong cách này.

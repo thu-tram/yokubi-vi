@@ -1,64 +1,78 @@
+
 # な-adjectives
 
-Now let's look at な-adjectives, named after the な that comes after them. な adjectives are simple words that look like nouns, but they can be used attributively to describe other nouns by connecting them with the な "particle".
+Bây giờ chúng ta sẽ xem xét な-adjectives, được gọi tên theo chữ な đứng sau chúng. な-adjectives là những từ đơn giản, hình thức giống như danh từ, nhưng có thể dùng để bổ nghĩa cho danh từ khác bằng cách nối với chữ な.
 
 <pre>
-バカ<b>な</b>子供
-Stupid kid
+バカ<b>な</b>子供  
+Stupid kid  
+Đứa trẻ ngu ngốc
 
-大好き<b>な</b>人
-Beloved person
+大好き<b>な</b>人  
+Beloved person  
+Người mà (tôi) rất yêu quý
 </pre>
 
-Now that we learned what relative clauses are, it's good to learn that the term "attributively" basically means "as a relative clause".
+Giờ bạn đã biết mệnh đề quan hệ là gì, thì có thể hiểu rằng từ “attributively” về cơ bản có nghĩa là “dùng như một mệnh đề quan hệ”.
 
-At the end of sentences, な-adjectives can look like nouns, and just like nouns they can end sentences with だ
+Ở cuối câu, な-adjectives có thể trông giống như danh từ, và cũng giống danh từ, chúng có thể kết thúc câu với だ.
 
 <pre>
-この部屋は静か<b>だ</b>
-This room is quiet.
+この部屋は静か<b>だ</b>  
+This room is quiet.  
+Căn phòng này yên tĩnh.
 </pre>
 
 <div class="warning">
-Reminder: In normal colloquial Japanese, sentences that end with nouns or な adjectives do not need to end with だ, despite this being what is traditionally taught in school. この部屋は静か is already a complete, standalone, and valid sentence.
+Nhắc lại: Trong tiếng Nhật giao tiếp thông thường, câu kết thúc bằng danh từ hoặc な-adjective không nhất thiết phải có だ, dù trong trường học thường dạy như vậy.  
+この部屋は静か đã là một câu hoàn chỉnh và đúng.
 </div>
 
-The な "suffix" is basically what allows な adjectives to work attributively in a sentence. You might have noticed this \<adj\>な\<noun\> structure looks very similar to \<noun\>の\<noun\> structure we've already seen in [Lesson 5](./Lesson5.md). な can even be used this way with some normal nouns, not just な-adjectives, but it is a bit of an exceptional usage with some specific nuance that we don't need to worry about now. 
+Chữ な về cơ bản là thứ cho phép な-adjectives hoạt động như thành phần bổ nghĩa trong câu. Bạn có thể đã nhận ra cấu trúc \<adj\>な\<noun\> trông rất giống với cấu trúc \<noun\>の\<noun\> đã học trong [Lesson 5](./Lesson5.md). な thậm chí đôi khi cũng có thể dùng với một số danh từ thường, không chỉ với な-adjectives, nhưng đây là cách dùng hơi đặc biệt với sắc thái riêng, nên chưa cần quan tâm lúc này.
 
 <pre>
-魔法の世界
-World of magic
+魔法の世界  
+World of magic  
+Thế giới của phép thuật
 
-魔法な世界
-Magic-ish world
+魔法な世界  
+Magic-ish world  
+Thế giới mang cảm giác “ma thuật”
 </pre>
 
-魔法 is a noun (magic), and does not normally take な like this, but some authors might write something like this to give it a special vibe.
+魔法 là một danh từ (phép thuật), và bình thường không đi với な, nhưng một số tác giả có thể viết như vậy để tạo cảm giác đặc biệt.
 
-Going back to normal な-adjectives, they should be considered separate from nouns, and dictionaries do keep them as such. They clearly distinguish nouns (名詞) and な-adjective (形容動詞) as different categories. While a lot, if not most, of な-adjectives are also nouns, some of them aren't, and cannot be used that way. For example, you cannot attach case marking particles directly to them.
+Quay lại với な-adjectives thông thường, chúng nên được xem là một loại từ riêng biệt với danh từ, và từ điển cũng phân loại như vậy. Danh từ (名詞) và な-adjective (形容動詞) là hai loại khác nhau. Dù rất nhiều な-adjectives cũng có thể dùng như danh từ, nhưng không phải tất cả đều làm được. Ví dụ, có những từ không thể gắn trực tiếp trợ từ chỉ cách (case particles).
 
 <pre>
-元気<b>な</b>人
-An energetic person
+元気<b>な</b>人  
+An energetic person  
+Người tràn đầy năng lượng
 
-元気<b>が</b>出る
-To feel energized (lit. energy comes out)
+元気<b>が</b>出る  
+To feel energized (lit. energy comes out)  
+Cảm thấy có sức sống
 
-静か<b>な</b>人
-A quiet person
+静か<b>な</b>人  
+A quiet person  
+Người yên lặng
 
-*静か<b>が</b>？？？
-(ungrammatical sentence fragment)
+*静か<b>が</b>？？？  
+(ungrammatical sentence fragment)  
+(mảnh câu sai ngữ pháp)
 </pre>
 
-In the example above, 元気 works both as a な-adjective and as a noun, but 静か can only work as a な-adjective. 
+Trong ví dụ trên, 元気 vừa có thể là な-adjective vừa có thể là danh từ, còn 静か chỉ có thể dùng như な-adjective.
 
-Some resources also recognize so-called の-adjectives, which are just nouns that are a bit special because they can turn into having an adjective-like meaning using の instead of な. 
+Một số hướng dẫn cũng nói đến cái gọi là の-adjectives, thực chất chỉ là những danh từ đặc biệt có thể mang nghĩa giống tính từ khi đi với の thay vì な.
 
 <pre>
-英語の本
-English-language books. (NOT "books of english")
+英語の本  
+English-language books. (NOT "books of english")  
+Sách tiếng Anh
 
-普通<b>の</b>人
-A normal person.
+普通<b>の</b>人  
+A normal person.  
+Người bình thường
 </pre>
+

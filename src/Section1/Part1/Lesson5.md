@@ -1,41 +1,51 @@
-# Possession and attributes with の
 
-の is a particle. It's a possessive marker and an attributive marker. "Attributive" here means that something is an attribute of something else, like an attribute in a video game, like the "flame" in "flame sword". The relationship is always straightforward.
+# Sở hữu và thuộc tính với の
 
-<pre>
-私<b>の</b>ネコ
-My cat
-
-君<b>の</b>X
-Your X.
-
-ネコ<b>の</b>先
-Ahead of the cat
-
-男<b>の</b>子
-Boy (metaphorically, male child)
-</pre>
-
-If you get lost, the easiest way to remember の is: It's like "of", but it applies backwards.
+の là một trợ từ. Nó vừa dùng để biểu thị sở hữu, vừa dùng để biểu thị quan hệ thuộc tính. “Thuộc tính” ở đây có nghĩa là một thứ đóng vai trò như đặc điểm của một thứ khác, giống như thuộc tính trong trò chơi điện tử, ví dụ “lửa” trong “kiếm lửa”. Mối quan hệ mà の thể hiện thường khá trực tiếp và rõ ràng.
 
 <pre>
-夜<b>の</b>人
-Person of the night
+私<b>の</b>ネコ  
+My cat  
+Con mèo của tôi
+
+君<b>の</b>X  
+Your X.  
+X của bạn
+
+ネコ<b>の</b>先  
+Ahead of the cat  
+Phía trước con mèo
+
+男<b>の</b>子  
+Boy (metaphorically, male child)  
+Cậu bé (nghĩa đen: đứa trẻ nam)
 </pre>
 
-Sometimes "of" gets confusing, and you have to remember the idea of "attribute".
+Nếu bạn cảm thấy rối, cách đơn giản nhất để ghi nhớ の là: nó giống như “of” trong tiếng Anh, nhưng áp dụng theo chiều ngược lại.
 
 <pre>
-夜<b>の</b>海   
-The night sea
-
-海<b>の</b>夜   
-Night on the sea (NOT "night of the sea")
+夜<b>の</b>人  
+Person of the night  
+Người của màn đêm / người hoạt động về đêm
 </pre>
 
-の is literally the single most common word in all of japanese, so make sure you remember it well!
+Đôi khi “of” vẫn gây khó hiểu, lúc này bạn nên quay lại với ý tưởng về “thuộc tính”.
 
 <pre>
-彼女<b>の</b>子供<b>の</b>名前だ。
-It is her child's name.
+夜<b>の</b>海  
+The night sea  
+Biển ban đêm
+
+海<b>の</b>夜  
+Night on the sea (NOT "night of the sea")  
+Đêm trên biển (KHÔNG phải “đêm của biển”)
 </pre>
+
+の thực tế là từ xuất hiện nhiều nhất trong toàn bộ tiếng Nhật, vì vậy hãy chắc chắn rằng bạn nhớ thật kỹ cách dùng của nó!
+
+<pre>
+彼女<b>の</b>子供<b>の</b>名前だ。  
+It is her child's name.  
+Đó là tên của con cô ấy.
+</pre>
+

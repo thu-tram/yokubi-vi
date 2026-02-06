@@ -1,55 +1,76 @@
-# The て form as auxiliary and giving verbs
 
-On top of just connecting two statements into a single sentence, the て form can also act as an auxiliary. When \<verb1\>て\<verb2\> is used this way, the second verb modifies the core meaning of the first. Usually the second verb has an abstract and often purely grammatical meaning. 
+# Dạng て làm trợ động từ và các động từ cho / nhận
 
-<pre>
-殺し<b>てあげる</b>
-I'll do you the favor of killing you
-</pre>
-
-In this example, the verb あげる attaches to the て form of 殺す. あげる has a few meanings, two of them being "to raise (something)" and "to give (something to someone)". Because it is used in this pattern, it assumes the meaning of "giving" the action 殺す to someone else. It can have the nuance of doing it as some kind of favor, sometimes ironically or sarcastically (as in the example above).
+Ngoài việc nối hai mệnh đề thành một câu, dạng て còn có thể hoạt động như một **trợ động từ**. Khi dùng theo mẫu \<động từ 1\>て\<động từ 2\>, động từ thứ hai sẽ bổ sung hoặc điều chỉnh ý nghĩa cốt lõi của động từ thứ nhất. Thông thường, động từ thứ hai mang ý nghĩa trừu tượng và đôi khi chỉ mang tính ngữ pháp.
 
 <pre>
-助け<b>てもらう</b>
-To receive help (directed towards yourself)
+殺し<b>てあげる</b>  
+I'll do you the favor of killing you  
+Tôi sẽ “làm ơn” giết bạn cho.
 </pre>
 
-Here, the "receive" word, もらう, attaches to 助ける. This addition of てもらう can have a nuance of gratefulness as the subject receives some kind of favor. However, this is not only what is happening here. The phrase 私が助ける means that subject 私 is the one that performs the action of "saving/helping" (someone else). However, the phrase 私が助けてもらう marks the subject 私 as the one that receives the action of being helped. The **XてY** pattern isn't just attaching the verb Y to an earlier statement, it can make a whole new verb phrase, with different grammar and meaning.
-
-This usage of て auxiliary can be very powerful, and it is at the core of what makes some of these grammatical structures so typically Japanese that are often hard to translate into English.
-
-On top of てあげる and てもらう there is also a third verb, てくれる which completes the giving/receiving "circle":
+Trong ví dụ này, động từ あげる gắn vào dạng て của 殺す. あげる có nhiều nghĩa, trong đó có “nâng lên” và “cho / tặng (ai đó cái gì)”. Khi dùng trong cấu trúc này, nó mang nghĩa là “cho” hành động 殺す cho người khác. Nó thường có sắc thái làm điều gì đó như một ân huệ, đôi khi mang tính mỉa mai hoặc châm biếm (như trong ví dụ trên).
 
 <pre>
-&lt;verb&gt;てあげる
-You/Someone does the favor of &lt;verb&gt; towards someone else
-
-&lt;verb&gt;てもらう
-You receive the favor of &lt;verb&gt; from someone else
-
-&lt;verb&gt;てくれる
-Someone else does the favor of &lt;verb&gt; towards you
+助け<b>てもらう</b>  
+To receive help (directed towards yourself)  
+Được ai đó giúp đỡ.
 </pre>
 
-It is important to keep in mind the difference between the "outside" group and the "inside" group, but it is too complicated to go over it right now. Just remember that てもらう is almost always used with **you** as the subject, and you receive a favor from **someone else**. Likewise, in the opposite direction, てくれる has **someone else** as subject and they do a favor **towards you** the recipient. Note the particles in the following examples:
+Ở đây, động từ “nhận” もらう gắn vào 助ける. Việc thêm てもらう thường mang sắc thái biết ơn vì chủ ngữ nhận được một ân huệ. Nhưng không chỉ có vậy.  
+
+Cụm 私が助ける có nghĩa là “tôi giúp (ai đó)”, tức là 私 là người thực hiện hành động giúp.  
+Trong khi đó, 私が助けてもらう lại có nghĩa là “tôi được giúp”, tức là 私 là người **nhận** hành động giúp đỡ.  
+
+Mẫu **XてY** không chỉ đơn giản là gắn động từ Y vào sau X, mà có thể tạo ra cả một cụm động từ mới với ngữ pháp và ý nghĩa khác.
+
+Cách dùng て như một trợ động từ này rất quan trọng, và là một trong những điểm cốt lõi tạo nên những cấu trúc rất “chất Nhật”, thường khó dịch chính xác sang tiếng Anh.
+
+Ngoài てあげる và てもらう, còn có một động từ thứ ba là てくれる, hoàn thiện “vòng tròn” cho / nhận:
 
 <pre>
-(私<b>が</b>)父<b>に</b>教えてもらった
-(I) was taught <b>by</b> my father.
+&lt;verb&gt;てあげる  
+Bạn / ai đó làm &lt;verb&gt; như một ân huệ cho người khác
 
-父が(私<b>に</b>)教えてくれた
-My father taught (me)
+&lt;verb&gt;てもらう  
+Bạn nhận được ân huệ &lt;verb&gt; từ người khác
+
+&lt;verb&gt;てくれる  
+Ai đó làm &lt;verb&gt; như một ân huệ cho bạn
 </pre>
 
-The parts in parenthesis are often dropped or removed because just by using てくれる and てもらう, Japanese can imply a "direction" of the verb which makes it obvious whether the action is towards you or not. In English we say "He taught **me**" but in Japanese we say "彼が教えてくれた". The "me" part is implied in てくれる. 
+Điều quan trọng là phân biệt “nhóm bên trong” và “nhóm bên ngoài”, nhưng phần này khá phức tạp nên tạm thời chưa đi sâu. Hiện tại, bạn chỉ cần nhớ:
 
-We will later see other usages of て auxiliary to add a sense of directionality to phrases like ていく and てくる. 
+- てもらう: gần như luôn dùng khi **bạn** là chủ ngữ, và bạn nhận ân huệ từ **người khác**.  
+- てくれる: chủ ngữ là **người khác**, và họ làm ân huệ **cho bạn**.
 
-For verbs and adjectives in ない form, there is another version of the て form that is often used with an "auxiliary" nuance. In this form, rather than なくて, it becomes ないで instead.
+Hãy chú ý các trợ từ trong ví dụ sau:
 
 <pre>
-食べないで待つ
-To wait while not eating
+(私<b>が</b>)父<b>に</b>教えてもらった  
+(I) was taught <b>by</b> my father.  
+(Tôi) được bố dạy.
+
+父が(私<b>に</b>)教えてくれた  
+My father taught (me)  
+Bố đã dạy (tôi).
 </pre>
 
-Here, 食べないで is the て auxiliary of 食べない and can be used to describe the following verb (待つ). It acts somewhat adverbially to add additional meaning and context to the last verb in the chain. We will see more examples of ないで in later lessons, just be aware it exists for now.   
+Những phần trong ngoặc thường được lược bỏ, vì chỉ cần dùng てくれる hay てもらう là người Nhật đã có thể ngầm hiểu “hướng” của hành động (hướng về phía ai).  
+
+Trong tiếng Anh, ta nói “He taught **me**”, còn trong tiếng Nhật có thể chỉ cần nói “彼が教えてくれた”. Phần “me” đã được bao hàm trong てくれる.
+
+Sau này, chúng ta sẽ còn gặp những cách dùng trợ động từ て khác để thể hiện hướng chuyển động, như ていく và てくる.
+
+Đối với động từ và tính từ ở dạng ない, còn có một biến thể khác của dạng て thường dùng với sắc thái trợ động từ. Thay vì なくて, người ta dùng ないで.
+
+<pre>
+食べないで待つ  
+To wait while not eating  
+Chờ trong khi không ăn.
+</pre>
+
+Ở đây, 食べないで là dạng て mang tính trợ động từ của 食べない, và nó bổ nghĩa cho động từ phía sau (待つ). Nó hoạt động gần giống trạng từ, thêm thông tin và bối cảnh cho động từ cuối.  
+
+Chúng ta sẽ gặp thêm nhiều ví dụ về ないで trong các bài sau. Hiện tại, bạn chỉ cần biết rằng dạng này tồn tại.
+

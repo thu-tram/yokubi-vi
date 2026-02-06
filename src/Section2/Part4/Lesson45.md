@@ -1,10 +1,11 @@
-# Listing and repeating actions with 〜たり〜たり and ては
 
-We already saw in [Lesson 36](../Part3/Lesson36.md) it is possible to make **non-exhaustive** lists of verbs using the listing particle とか. 
+# Liệt kê và lặp lại hành động với 〜たり〜たり và ては
 
-たり is another particle/conjugation that can be used in a similar way. It is actually more common and conversational to use it like this over とか. 
+Trong [Bài 36](../Part3/Lesson36.md) chúng ta đã thấy rằng có thể tạo **danh sách không đầy đủ** các động từ bằng trợ từ liệt kê とか.
 
-The たり form of a verb is simply the past tense + り:
+たり là một dạng chia / trợ từ khác có thể dùng theo cách tương tự. Trên thực tế, trong hội thoại hằng ngày, dùng たり theo cách này còn phổ biến hơn とか.
+
+Dạng たり của động từ được tạo đơn giản bằng cách lấy dạng quá khứ rồi thêm り:
 
 | Dictionary | Past   | たり form |
 |------------|--------|-----------|
@@ -13,50 +14,54 @@ The たり form of a verb is simply the past tense + り:
 | 切る       | 切った | 切ったり  |
 | 死ぬ       | 死んだ | 死んだり  |
 
-At the end of a list of 〜たり actions, it is natural to attach the verb する which turns the entire block of verbs into a conjugable phrase that behaves like a giant verb.
+Ở cuối một chuỗi các hành động dạng 〜たり, thường gắn thêm động từ する, để biến toàn bộ cụm hành động thành một đơn vị có thể chia giống như một động từ lớn.
 
 <pre>
 手をつない<b>だり</b>、抱きしめあっ<b>たり</b>、キスをし<b>たり</b>したいから。
-Because I want to do <b>things like</b> holding hands, embracing each other, and kissing.
+Bởi vì tôi muốn làm <b>những việc như</b> nắm tay, ôm nhau, rồi hôn nhau.
 </pre>
 
-Unlike chaining verbs using て form, たり does not assume any strict ordering or precedence of action. It simply states that any of those actions (and even other unstated ones) takes place in whatever order. AてB roughly means "Do A, then do B", while AたりBたりする means "do things like A and B".
+Khác với việc nối động từ bằng dạng て, たり không hàm ý thứ tự hay trình tự rõ ràng giữa các hành động. Nó chỉ đơn giản nói rằng những hành động đó (và cả những hành động khác không được nêu ra) xảy ra, theo bất kỳ thứ tự nào.  
 
-Aside its most basic explanation, it has a few other specific idiomatic uses. It can be used to:
+AてB ≈ “làm A rồi làm B”  
+AたりBたりする ≈ “làm những việc như A và B”
 
-- soften a statement;
-- add the nuance that what you're saying is meant to be surprising for the listener;
-- state a common occurrence;
-- state a likely possibility.
+Ngoài cách dùng cơ bản này, たり còn có một số cách dùng mang tính thành ngữ:
 
-These idiomatic uses of たり sometimes overlap so it's not easy to pinpoint exactly which usage is which. 
+- làm câu nói mềm hơn;
+- thêm sắc thái rằng điều bạn nói có thể khiến người nghe bất ngờ;
+- nói về một việc thường xuyên xảy ra;
+- diễn đạt một khả năng có thể đúng.
 
-Just like other non-exhaustive listing particles, it can work with just a single element in the list.
+Các cách dùng này đôi khi chồng chéo lên nhau, nên không phải lúc nào cũng dễ phân biệt rạch ròi.
+
+Giống như các trợ từ liệt kê không đầy đủ khác, たり cũng có thể dùng chỉ với một yếu tố duy nhất.
 
 <pre>
 笑っ<b>たりして</b>ごめんなさい。
-I'm sorry for laughing. 
+Xin lỗi vì tôi đã cười.
 
 実はそう<b>だったりする</b>
-In fact, that's actually the case.
+Thật ra thì đúng là như vậy.
 
 昔はよく一緒に遊ん<b>だりしました.</b>
-We used to play together a lot in the past.
+Ngày xưa chúng tôi hay chơi cùng nhau.
 
 もしかしてお金が必要<b>だったりする</b>のだろうか？
-Is it the case that you might be needing some money maybe?
+Có phải là có khả năng bạn đang cần tiền không?
 </pre>
 
-〜たり〜たり can also be used to highlight two actions that happen repeatedly in alternation. In this usage, the two actions are often natural opposites, and the する verb is not used at the end of this たり group.
+〜たり〜たり cũng có thể dùng để nhấn mạnh hai hành động xảy ra luân phiên, lặp đi lặp lại. Trong trường hợp này, hai hành động thường là đối lập tự nhiên, và không dùng する ở cuối cụm たり.
 
 <pre>
 大きくなっ<b>たり</b>小さくなっ<b>たり</b>。
-It grew big, and then small, and then big, and then small...
+Lúc thì to lên, lúc thì nhỏ lại, rồi lại to lên, rồi lại nhỏ xuống...
 </pre>
 
-The ては conjugation can also be used in a similar manner.
+Dạng ては cũng có thể được dùng theo cách tương tự.
 
 <pre>
 飲ん<b>では</b>笑い、笑っ<b>ては</b>飲む。
-He drinks and laughs, then laughs and drinks.
+Uống rồi cười, cười rồi lại uống.
 </pre>
+

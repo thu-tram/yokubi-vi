@@ -2,7 +2,7 @@
 authors = ["Morg"]
 language = "ja"
 src = "src"
-title = "Yokubi"
+title = "Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản"
 
 [output.html]
 default-theme = "Navy"

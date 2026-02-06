@@ -1,58 +1,63 @@
-# Expressing volition and desire with たい and ほしい
 
-In this lesson, we're learning three ways we can express desire or intent in Japanese.
+# Diễn đạt ý định và mong muốn với たい và ほしい
 
-The "volitional" form, おう/よう, says that you want to or will do something, or invites volition in other people like "let's X". It's also used in compound constructions about volitional action. The volitional form of godan verbs is -ou, and the volitional form of ichidan verbs is よう. It's pronounced with a "long o", not お plus う.
+Trong bài này, chúng ta sẽ học ba cách để diễn đạt mong muốn hoặc ý định trong tiếng Nhật.
+
+Thể ý chí (volitional form) おう／よう dùng để nói rằng bạn muốn làm hoặc sẽ làm điều gì đó, hoặc để rủ rê người khác kiểu như “hãy cùng X nào”. Nó cũng được dùng trong các cấu trúc phức để nói về hành động mang tính chủ động.  
+Với động từ godan, thể ý chí là -ou.  
+Với động từ ichidan, thể ý chí là よう.  
+Cách phát âm là “ô kéo dài”, không phải là お cộng với う.
 
 <pre>
 行こう
-Let's head out.
+Đi thôi.
 
 行こうか
-How about we go?
+Hay là mình đi nhé?
 
 食べようと思う
-I think I'll eat.
+Tôi nghĩ là mình sẽ ăn.
 </pre>
 
-Note: we will learn this usage of と with 思う in a later section, don't worry too much about it now.
+Lưu ý: Chúng ta sẽ học cách dùng と với 思う trong một phần sau, nên hiện tại không cần quá bận tâm.
 
-The volitional form of です is でしょう and of だ is だろう. These usually "invite an idea", like conjecture or possibility. 
+Thể ý chí của です là でしょう, và của だ là だろう. Những dạng này thường dùng để “gợi ý” một ý tưởng, suy đoán hoặc khả năng.
 
 <pre>
 いいでしょう
-It's good, don't you think? 
+Tốt mà, phải không?
 
 犬だろうと、猫だろうと、なんでも問題ありません   
-Perhaps dogs, perhaps cats; there's no problem whatsoever. 
+Có lẽ là chó, có lẽ là mèo, gì cũng không thành vấn đề.
 </pre>
 
-The second way to express desire is たい. たい is an い-adjective-like auxiliary that attaches the same way as ます. 
+Cách thứ hai để diễn đạt mong muốn là たい. たい là một trợ từ mang tính chất giống tính từ い, và gắn vào động từ giống như ます.
 
 <pre>
 死にたい
-I want to die.
+Tôi muốn chết.
 
 アイスが食べたい
-I want to eat ice cream.
+Tôi muốn ăn kem.
 </pre>
 
-In the last example sentence, を is acceptable too. In respect to が and を, たい works similarly to potential verbs. Either が or を can be used to mark the object/target of desire, although different verbs may have specific preferences about one or the other. Don't try to memorize this, just know it exists and is valid Japanese. 
+Trong ví dụ cuối, を cũng có thể dùng thay cho が. Về việc dùng が hay を, たい hoạt động khá giống với thể khả năng. Cả が hoặc を đều có thể đánh dấu đối tượng của mong muốn, dù một số động từ có thể thiên về một cách dùng hơn. Bạn không cần cố ghi nhớ, chỉ cần biết rằng cách dùng này tồn tại và là tiếng Nhật hợp lệ.
 
-The last way to express wanting is with 欲しい, an い-adjective.
+Cách cuối cùng để diễn đạt “muốn” là dùng 欲しい, một tính từ い.
 
 <pre>
 アイスがほしい
-I want ice cream
+Tôi muốn kem.
 </pre>
 
-Note: Similarly to たい, ほしい also falls into the category of quirky adjectives where が marks the object of desire, and can sometimes be replaced with を. However, unlike with たい, をほしい is very much less proper and less common. You might still see it, but a lot of people will consider it awkward Japanese. It's best to avoid using it.
+Lưu ý: Tương tự như たい, ほしい cũng thuộc nhóm “tính từ đặc biệt” nơi が thường đánh dấu đối tượng mong muốn và đôi khi có thể thay bằng を. Tuy nhiên, khác với たい, dạng をほしい kém tự nhiên và ít được chấp nhận hơn nhiều. Bạn vẫn có thể thấy nó, nhưng nhiều người sẽ cho rằng đó là tiếng Nhật gượng gạo. Tốt nhất là tránh dùng.
 
-Another quirk of ほしい is that it can be used as auxiliary after the て form of a verb to issue soft commands or requests.
+Một điểm đặc biệt nữa của ほしい là nó có thể đứng sau dạng て của động từ để tạo yêu cầu hoặc mệnh lệnh nhẹ.
 
 <pre>
 その話はやめてほしい
-I want you to stop talking about that
+Tôi muốn bạn ngừng nói về chuyện đó.
 </pre>
 
-It can sound a bit more impersonal and indirect than てください, and it can also be used to provide general advice about what you'd like someone to do from your point of view. The important thing to remember is that you use がほしい to talk about yourself, and てほしい to talk about others.
+Cách nói này có thể nghe gián tiếp và ít trực diện hơn so với てください, và cũng có thể dùng để đưa ra lời khuyên chung về việc bạn muốn người khác làm gì từ góc nhìn của mình. Điều quan trọng cần nhớ là: dùng がほしい khi nói về mong muốn của bản thân, và dùng てほしい khi nói về điều bạn muốn người khác làm.
+

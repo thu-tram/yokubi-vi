@@ -1,58 +1,72 @@
-# Soft requests with てください and the imperative form
 
-The て form can also be used to make a simple command or order. When we add ください after the て form, we are politely asking someone to do something (for us), effectively giving them an order. This usage is so common that the ください part can be completely omitted and still maintain an imperative sense to the statement. Dropping ください makes it more casual and can come across as more direct (potentially rude).
+# Yêu cầu nhẹ với てください và dạng mệnh lệnh
 
-<pre>
-野菜を食べ<b>てください</b>
-Please eat your veggies
-
-食べ<b>て</b>、少年
-Eat, boy.
-
-見<b>て</b>！
-Look!
-</pre>
-
-It can also be used with negative verbs in the form of ないでください to express a soft prohibition or negative request. 
+Dạng て cũng có thể được dùng để tạo câu mệnh lệnh đơn giản. Khi thêm ください sau dạng て, ta đang lịch sự yêu cầu ai đó làm việc gì (cho mình), về bản chất là đưa ra một mệnh lệnh nhẹ nhàng. Cách dùng này phổ biến đến mức đôi khi có thể bỏ hẳn ください mà câu vẫn mang ý mệnh lệnh. Khi bỏ ください, câu trở nên thân mật hơn và có thể nghe trực tiếp hơn (thậm chí hơi thô).
 
 <pre>
-バカなことを言わない<b>でください</b>
-Don't say stupid things, please
+野菜を食べ<b>てください</b>  
+Please eat your veggies  
+Làm ơn ăn rau đi.
 
-食べ<b>ないで</b>
-Please don't eat.
+食べ<b>て</b>、少年  
+Eat, boy.  
+Ăn đi, cậu bé.
+
+見<b>て</b>！  
+Look!  
+Nhìn kìa!
 </pre>
 
-ください can also be used as standalone verb, rather than an auxiliary. In this case, it means "please give me". You can use it to order stuff in shops.
+Dạng này cũng có thể kết hợp với động từ phủ định dưới dạng ないでください để diễn đạt lời cấm đoán nhẹ hoặc yêu cầu đừng làm gì đó.
 
 <pre>
-肉まんを<b>ください</b>
-Please give me a nikuman
+バカなことを言わない<b>でください</b>  
+Don't say stupid things, please  
+Làm ơn đừng nói những điều ngu ngốc.
+
+食べ<b>ないで</b>  
+Please don't eat.  
+Làm ơn đừng ăn.
 </pre>
 
-It is worth noting there are other ways to make orders and imperative commands in Japanese. The て(ください) form is rather weak and fairly soft order. It's closer to a polite request rather than a straight up command. 
-
-This brings us to the fourth common verb stem, the imperative form. This is a "true" imperative form, rather than the simple request made by using てください alone. Be aware that the imperative form often sounds rude. 
-
-You make the imperative of ichidan verbs with ろ, and of godan verbs by replacing the u sound with the e sound.
+ください cũng có thể được dùng như một động từ độc lập, thay vì trợ động từ. Trong trường hợp này, nó có nghĩa là “làm ơn cho tôi”. Bạn thường dùng khi gọi món hoặc mua đồ trong cửa hàng.
 
 <pre>
-見<b>ろ</b>！
-Look!
-
-殺<b>せ</b>
-Kill!
-
-切<b>れ</b>
-Cut!
-
-買<b>え</b>
-Buy!
+肉まんを<b>ください</b>  
+Please give me a nikuman  
+Cho tôi một cái nikuman.
 </pre>
 
-There is also an alternative imperative for ichidan verbs, but you can ignore it for now. It sounds archaic and pompous. Just remember that it exists:
+Cần lưu ý rằng tiếng Nhật còn nhiều cách khác để tạo câu mệnh lệnh. Dạng て(ください) là một kiểu mệnh lệnh khá nhẹ và mềm, gần với lời yêu cầu lịch sự hơn là mệnh lệnh thẳng.
+
+Điều này dẫn đến dạng thân thứ tư thường gặp của động từ: **dạng mệnh lệnh (imperative form)**. Đây là dạng mệnh lệnh “thực sự”, khác với yêu cầu mềm bằng てください. Lưu ý rằng dạng này thường nghe khá thô hoặc cộc.
+
+Với động từ ichidan, tạo dạng mệnh lệnh bằng ろ.  
+Với động từ godan, đổi âm u ở cuối sang âm e.
 
 <pre>
-食べ<b>よ</b>！
-Eat!
+見<b>ろ</b>！  
+Look!  
+Nhìn đi!
+
+殺<b>せ</b>  
+Kill!  
+Giết!
+
+切<b>れ</b>  
+Cut!  
+Cắt!
+
+買<b>え</b>  
+Buy!  
+Mua!
 </pre>
+
+Ngoài ra còn có một dạng mệnh lệnh khác cho động từ ichidan, nhưng bạn có thể bỏ qua ở thời điểm này. Nó mang sắc thái cổ và kiểu cách. Chỉ cần biết rằng nó tồn tại:
+
+<pre>
+食べ<b>よ</b>！  
+Eat!  
+Ăn đi!
+</pre>
+

@@ -1,52 +1,55 @@
-# The many uses of とする
 
-とする has four main uses. The first means that someone supposes/assumes something, used with statements. Think of it like "pretend that/act as though". This is easiest to see as an invitation, but can be part of a longer sentence about someone else's presumptions too.
+# Nhiều cách dùng của とする
+
+とする có bốn cách dùng chính. Cách dùng thứ nhất là để nói rằng ai đó đang giả định / cho rằng một điều gì đó là đúng, và được dùng với mệnh đề. Có thể hiểu gần giống như "giả sử rằng" hoặc "coi như là".
 
 <pre>
 それが本当だ<b>とすれば</b>どうなるのだろうか。
-<b>Assuming that</b> was true, I wonder what will happen
+<b>Giả sử</b> điều đó là thật, thì không biết sẽ xảy ra chuyện gì nhỉ.
 
 誰かが呼びに来た<b>としても</b>不思議ではない。
-<b>Even assuming</b> someone came here to call (us?), it wouldn't be strange.
+<b>Kể cả nếu giả sử</b> có ai đó đến gọi (chúng ta), thì cũng không có gì lạ.
 </pre>
 
-The second is a として auxiliary, with a general vague "operating as X" meaning. This is directly related to the first use, think of it like "thinking of Y as an X". In this usage it commonly goes directly after nouns.
+Cách dùng thứ hai là dạng trợ từ として, mang nghĩa chung chung là "trong vai trò là X" hoặc "với tư cách là X". Cách dùng này liên quan trực tiếp đến cách dùng thứ nhất, có thể hiểu là "coi Y như là X". Trong trường hợp này, nó thường đi ngay sau danh từ.
 
 <pre>
 その判断は医者<b>として</b>間違いではなかった。
-That decision, <b>as a</b> doctor, was not a mistake.
+Quyết định đó, <b>với tư cách là</b> bác sĩ, thì không phải là sai.
 </pre>
 
-The third use means that something undergoes an "experiential" state, basically used with "mimetic" words like つるつる "slick". Mimetic means words that represent sounds (onomatopoeias) or sound-like attributes. 
+Cách dùng thứ ba là để diễn tả một trạng thái cảm giác hay trải nghiệm, thường đi kèm với các từ tượng thanh, tượng hình như つるつる (trơn láng). Những từ này mô phỏng âm thanh hoặc cảm giác.
 
 <pre>
 頬がぴりっ<b>とする</b>。
-I felt a tingle on my cheek.
+Tôi cảm thấy má mình hơi tê rát.
 </pre>
 
-Lastly, とする can show up after a verb in volitional form. This can give it two separate, but often similar, meanings.
+Cuối cùng, とする có thể đứng sau động từ ở dạng ý chí (volitional form). Khi đó nó có hai nghĩa khác nhau, nhưng khá gần nhau.
 
-The first meaning is that of something that is "about to happen". Either as a volitional action under the control of the subject, or as something involuntary and unavoidable (like an act of nature, etc).
+Nghĩa thứ nhất: diễn tả một việc "sắp xảy ra". Có thể là hành động có chủ ý của chủ thể, hoặc một việc mang tính tự nhiên, khó tránh khỏi.
 
 <pre>
 本部を出て行<b>こうとした</b>時、アルフォンスに呼ばれた。
-As I was <b>about to</b> leave the main headquarters, I was called by Alfonse.
+Khi tôi <b>sắp</b> rời khỏi tổng bộ, thì bị Alphonse gọi lại.
 
 そんな時間も終わりを迎え<b>ようとしている</b>。
-That time was also <b>about to</b> reach its end.
+Khoảng thời gian đó cũng đang <b>sắp</b> đi đến hồi kết.
 </pre>
 
-The other meaning is closer to "attempting to do something" and can be only used for voluntary actions.
+Nghĩa thứ hai gần với "cố gắng / định làm gì đó", và chỉ dùng cho những hành động có chủ ý.
 
 <pre>
 本気で僕を食べ<b>ようとしている</b>らしい。
-It seems like it was seriously <b>attempting to</b> eat me.
+Có vẻ như nó đang <b>cố gắng</b> ăn thịt tôi một cách nghiêm túc.
 </pre>
 
-When the verb is a voluntary action, sometimes the line between the "about to" and "attempt to" meaning can be ambiguous. If you think about it, if you are attempting to do something but fail because you get interrupted, you were also about to do it. So the construction can assume both meanings at the same time:
+Khi động từ là hành động có chủ ý, đôi khi ranh giới giữa nghĩa "sắp làm" và "cố gắng làm" khá mơ hồ. Thực tế, nếu bạn đang cố làm một việc nhưng bị gián đoạn, thì cũng có thể hiểu là bạn đang sắp làm việc đó. Vì vậy, cấu trúc này đôi khi mang cả hai nghĩa cùng lúc:
 
 <pre>
 俺が再びご飯を食べ<b>ようとした</b>時、ガタッと音がする。
-As <b>I tried to</b> eat my meal again, I heard a rattling sound.
-As <b>I was about to</b> eat my meal again, I heard a rattling sound.
+Khi <b>tôi cố</b> ăn tiếp bữa cơm, thì nghe thấy một tiếng động.
+
+Khi <b>tôi sắp</b> ăn tiếp bữa cơm, thì nghe thấy một tiếng động.
 </pre>
+

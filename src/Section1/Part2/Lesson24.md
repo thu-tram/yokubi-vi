@@ -1,66 +1,76 @@
-# Passive form and transitive pairs
 
-Passive verbs exist to turn the object of a verb into the subject. Unlike てある, passives describe the action as it happens, rather than making a statement about an enduring state left by the result of that action.
+# Thể bị động và cặp động từ tự động / tha động
 
-A simple example of a passive sentence in English would be "The cake is eaten by me". The active version would be "I eat the cake". In the passive version, the cake becomes the subject, as the action of eating is seen from its perspective.
+Động từ bị động (passive) tồn tại để biến tân ngữ của động từ thành chủ ngữ. Khác với てある, thể bị động mô tả **hành động đang xảy ra**, chứ không phải trạng thái còn lại sau khi hành động đó hoàn tất.
 
-Godan and ichidan verbs form the passive in different ways. Godan verbs take the negative stem and replace ない with れる, the passive suffix. Ichidan verbs take the stem and add られる. 
+Một ví dụ đơn giản trong tiếng Anh là: “The cake is eaten by me.”  
+Dạng chủ động tương ứng là: “I eat the cake.”  
+Trong câu bị động, “the cake” trở thành chủ ngữ, và hành động “ăn” được nhìn từ góc độ của chiếc bánh.
 
-Both godan and ichidan verbs when turned into passive form become ichidan verbs and follow the typical conjugation rules. 
+Động từ godan và ichidan tạo thể bị động theo cách khác nhau.  
+- Với động từ godan: lấy dạng phủ định (dạng ない) rồi thay ない bằng れる.  
+- Với động từ ichidan: lấy thân động từ rồi thêm られる.
 
-| Active | Passive        |
-|--------|----------------|
-| 食べる | 食べ**られる** |
-| To eat | To be eaten    |
+Khi chuyển sang thể bị động, cả động từ godan lẫn ichidan đều trở thành động từ ichidan và chia theo quy tắc của ichidan.
+
+| Chủ động | Bị động          |
+|----------|-----------------|
+| 食べる   | 食べ**られる**  |
+| ăn       | bị ăn            |
 
 <br />
 
-| Active  | Passive        |
-|---------|----------------|
-| 殺す    | 殺**される**   |
-| To kill | To be killed   |
+| Chủ động | Bị động          |
+|----------|-----------------|
+| 殺す     | 殺**される**    |
+| giết     | bị giết          |
 
 <pre>
 殺さ<b>れた</b>人間の死体
-The dead bodies of people who were killed.
+Xác của những người đã bị giết.
 
 魚が食べ<b>られた</b>
-The fish was eaten.
+Con cá đã bị ăn.
 </pre>
 
-The person who performs an action is the "agent". If you want to mention the agent of a passive verb, you use に or によって, but for certain verbs から is acceptable too. There are some rules for when you should use に or によって, but you don't need to look them up or memorize them now. Just recognize the pattern when you see it.
+Người hoặc vật thực hiện hành động được gọi là “tác nhân”. Nếu muốn nêu rõ tác nhân trong câu bị động, ta dùng に hoặc によって; với một số động từ, から cũng có thể dùng được. Có những quy tắc chi tiết cho việc chọn に hay によって, nhưng ở giai đoạn này bạn chỉ cần nhận diện mẫu câu là đủ.
 
 <pre>
 魚が猫<b>に</b>食べられた
-The fish was eaten <b>by</b> a cat.
+Con cá bị ăn <b>bởi</b> một con mèo.
 </pre>
 
-In grammar study, there's the concept of verbal "transitivity", which basically defines whether a verb accepts a direct object or not. As we know from [Lesson 3](../Part1/Lesson3.md), the direct object is marked by を, while the subject is marked by が.
+Trong ngữ pháp, có khái niệm “tính chuyển động” (transitivity) của động từ, tức là động từ đó có nhận tân ngữ trực tiếp hay không. Như đã học ở [Lesson 3](../Part1/Lesson3.md), tân ngữ trực tiếp được đánh dấu bằng を, còn chủ ngữ được đánh dấu bằng が.
 
 <pre>
 <b>彼を</b>殺した
-I killed <b>him</b>. (transitive)
+Tôi đã giết <b>anh ta</b>. (tha động)
 
 <b>彼が</b>死ぬ
-<b>He</b> dies. (intransitive)
+<b>Anh ta</b> chết. (tự động)
 </pre>
 
-Note: do not fall for the trap of believing that if a sentence uses が it is intransitive, and if it uses を it is transitive. Transitive verbs still have a subject. A sentence like 私が魚を食べる still shows 食べる as a transitive verb despite the が being there. 
+Lưu ý: Đừng nhầm rằng cứ thấy が là tự động từ, và cứ thấy を là tha động từ. Tha động từ vẫn có chủ ngữ. Câu 私が魚を食べる vẫn dùng động từ 食べる là tha động từ, dù trong câu có が.
 
-"Transitive pairs" are pairs of japanese verbs that represent the same type of action, but one is transitive, and the other is not. 
+“Cặp động từ tự động / tha động” là những cặp động từ tiếng Nhật cùng diễn tả một loại hành động, nhưng một cái là tha động từ, cái còn lại là tự động từ.
 
-| Transitive         | Intransitive        |
-|--------------------|---------------------|
-| (XがYを)上げる     | (Xが)上がる         |
-| to raise something | something rises     |
+| Tha động từ            | Tự động từ           |
+|-----------------------|---------------------|
+| (XがYを)上げる        | (Xが)上がる          |
+| nâng một thứ gì đó    | một thứ gì đó tăng / lên |
 
 <br />
 
-| Transitive           | Intransitive        |
-|----------------------|---------------------|
-| (XがYを)出す         | (Xが)出る           |
-| to put something out | to exit             |
+| Tha động từ             | Tự động từ          |
+|------------------------|--------------------|
+| (XがYを)出す           | (Xが)出る           |
+| đưa / lấy ra cái gì đó | ra ngoài / thoát ra |
 
-In English transitive/intransitive pairs are very rare (raise/rise is a commonly mentioned one), because in English the same verb can often show both transitive and intransitive usages: "I blew up a car" (transitive action) vs "A car blew up" (intransitive action)
+Trong tiếng Anh, các cặp tự động / tha động như vậy khá hiếm (raise / rise là ví dụ thường được nhắc đến), vì trong nhiều trường hợp cùng một động từ tiếng Anh có thể dùng cho cả hai:  
+“I blew up a car” (hành động có tân ngữ)  
+“A car blew up” (hành động tự xảy ra)
 
-It is important to remember the distinction between an intransitive verb and a transitive verb conjugated passively. An intransitive verb is still describing an action performed actively by a subject, while a transitive verb turned passive describes an action that the subject receives passively by the influence of someone or something else.  
+Điều quan trọng là phải phân biệt giữa **tự động từ** và **tha động từ ở thể bị động**.  
+Tự động từ vẫn mô tả một hành động do chủ ngữ chủ động thực hiện.  
+Tha động từ ở thể bị động thì mô tả một hành động mà chủ ngữ **bị tác động**, do ảnh hưởng từ người hoặc vật khác.
+

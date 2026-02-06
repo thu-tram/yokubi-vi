@@ -1,6 +1,6 @@
-# Yokubi 
+# Yokubi
 
-Yokubi is a Japanese grammar guide for beginners and new learners.
+Yokubi là một hướng dẫn tự học ngữ pháp Tiếng Nhật cho người mới bắt đầu học Tiếng Nhật.
 
 View the project at [yoku.bi](https://yoku.bi).
 

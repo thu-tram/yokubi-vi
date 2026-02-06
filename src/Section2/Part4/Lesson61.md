@@ -1,74 +1,76 @@
-# Approximately with ころ and くらい, and limits with まで, ほど, すぎる
 
-ころ is a noun that roughly means "approximate time". You run into Xのころに a lot. This can either be a conjunction "around the time of X", or a noun like "the general time when X" with the に particle attached. In some situations ころ can attach directly to nouns as the suffix ごろ.
+# Diễn tả xấp xỉ với ころ và くらい, và giới hạn với まで, ほど, すぎる
+
+ころ là một danh từ mang nghĩa “khoảng thời gian xấp xỉ.” Bạn sẽ thường gặp mẫu Xのころに. Mẫu này có thể hiểu là liên từ “vào khoảng thời điểm X,” hoặc là danh từ “thời điểm khi X” kèm theo trợ từ に. Trong một số trường hợp, ころ có thể gắn trực tiếp vào danh từ dưới dạng hậu tố ごろ.
 
 <pre>
 子供<b>のころに</b>見たアニメを思い出す。
-I remembered an anime I watched <b>when I was</b> a child.
+Tôi nhớ lại bộ anime đã xem <b>khi còn</b> là trẻ con.
 
 そういえば、去年の<b>今ごろ</b>だったかな？
-Oh right, it was <b>around this time</b> last year I guess?
+À phải rồi, hình như là <b>khoảng thời gian này</b> năm ngoái?
 </pre>
 
-くらい  takes a measure or amount (including time) and makes it approximate. It is completely interchangeable with ぐらい and it is entirely up to speaker's preference.
+くらい dùng với số lượng hoặc mức độ (bao gồm cả thời gian) để làm cho chúng mang nghĩa xấp xỉ. Nó hoàn toàn có thể thay thế cho ぐらい, tùy sở thích người nói.
 
 <pre>
 午後1時<b>ぐらい</b>で大丈夫？
-Is <b>around</b> 1pm okay?
+<b>Khoảng</b> 1 giờ chiều có ổn không?
 </pre>
 
-It can also be used to mean "to the point where" or "to the level where" and not an inch beyond that. 
+Ngoài ra, くらい còn có thể mang nghĩa “đến mức mà” hoặc “tới mức độ mà”, nhấn mạnh rằng không vượt quá mức đó.
 
 <pre>
 毎日食べたい<b>くらい</b>美味しかったです
-It was delicious <b>to the point where</b> I'd want to eat it every day.
+Ngon <b>đến mức</b> tôi muốn ăn mỗi ngày.
 </pre>
 
-When paired with the は particle it gives a nuance of "at least".
+Khi đi kèm với trợ từ は, nó tạo sắc thái “ít nhất là.”
 
 <pre>
 名前<b>くらいは</b>聞いたことがあるだろう。
-You must have <b>at least</b> heard of its name.
+Chắc hẳn bạn <b>ít nhất</b> đã từng nghe qua cái tên đó.
 </pre>
 
-まで essentially means "up to" or "until". The limit or boundary marked by まで is included in the set.
+まで về cơ bản có nghĩa là “đến” hoặc “cho đến.” Giới hạn được đánh dấu bởi まで được tính là nằm trong phạm vi.
 
 <pre>
 世界が終わる日<b>まで</b>。
-<b>Until</b> the day the world ends.
+<b>Cho đến</b> ngày thế giới kết thúc.
 </pre>
 
-まで is often paired with から as 〜から〜まで (from 〜 until 〜).
+まで thường đi cùng với から thành cặp 〜から〜まで (từ 〜 đến 〜).
 
 <pre>
 小さなこと<b>から</b>、大きなこと<b>まで</b>。
-<b>From</b> the small things <b>to</b> the big things.
+<b>Từ</b> những chuyện nhỏ <b>đến</b> những chuyện lớn.
 </pre>
 
-までに changes the meaning of まで to mean "by" (as in "do something by next Friday")
+までに thay đổi nghĩa của まで thành “trước thời điểm” hay “chậm nhất là.”
 
 <pre>
 明後日<b>までに</b>は終わらせます。
-I will finish it <b>by</b> the day after tomorrow.
+Tôi sẽ hoàn thành nó <b>trước</b> ngày kia.
 </pre>
 
-ほど essentially means "as" in terms of a comparison. Deep down the core meaning of ほど is "to the extent of".
+ほど về cơ bản dùng để so sánh, tương đương “như / bằng.” Ý nghĩa gốc của nó là “đến mức độ.”
 
 <pre>
 私は彼ら<b>ほど</b>強くない。
-I am not <b>as</b> strong <b>as</b> them.
+Tôi không mạnh <b>bằng</b> họ.
 </pre>
 
-In positive statements where ほど attaches to an "amount", it's an approximation.
+Trong câu khẳng định, khi ほど gắn với một “lượng,” nó mang nghĩa xấp xỉ.
 
 <pre>
 中身はまだ半分<b>ほど</b>残っている。
-<b>About</b> half of the contents were still left.
+<b>Khoảng</b> một nửa bên trong vẫn còn.
 </pre>
 
-すぎる is a verb and means "to exceed" or "to surpass". As an auxiliary verb, it means "too much" or indicates an excess of activity. It attaches to the ます stem.
+すぎる là một động từ mang nghĩa “vượt quá” hoặc “quá mức.” Khi dùng như trợ động từ, nó có nghĩa “quá nhiều” hoặc diễn tả sự làm quá mức. Nó gắn vào dạng gốc ます.
 
 <pre>
 美味しいものを食べ<b>すぎた</b>。
-I ate <b>too much</b> good stuff.
+Tôi đã ăn <b>quá nhiều</b> đồ ngon.
 </pre>
+

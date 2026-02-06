@@ -1,80 +1,82 @@
-# か, も, and でも as question word modifiers
 
-Besides marking questions, か can also be used to turn question words into generic nouns. 
+# か, も và でも khi gắn với từ để hỏi
+
+Ngoài chức năng đánh dấu câu hỏi, か còn có thể được dùng để biến từ để hỏi thành danh từ mang nghĩa chung chung.
 
 |            |               |
 |------------|---------------|
-| なに       | what          |
-| なに**か** | **some**thing |
+| なに       | cái gì        |
+| なに**か** | **một cái gì đó** |
 
 <br />
  
 |            |             |
 |------------|-------------|
-| だれ       | who         |
-| だれ**か** | **some**one |
+| だれ       | ai          |
+| だれ**か** | **một ai đó** |
 
 <br />
 
-|            |               |
-|------------|---------------|
-| どこ       | where         |
-| どこ**か** | **some**where |
+|            |                 |
+|------------|-----------------|
+| どこ       | ở đâu           |
+| どこ**か** | **một nơi nào đó** |
 
 <br />
 
-|            |                           |
-|------------|---------------------------|
-| いつ       | when                      |
-| いつ**か** | **some**time ("somewhen") |
+|            |                     |
+|------------|---------------------|
+| いつ       | khi nào             |
+| いつ**か** | **một lúc nào đó** |
 
-Often なにか is slurred as なんか:
+Thường thì なにか được nói trại thành なんか:
 
 <pre>
 <b>なんか</b>飲む？
-Do you want <b>something</b> to drink?
+Bạn có muốn uống <b>gì đó</b> không?
 </pre>
 
-Make sure to not confuse the following two usages:
+Hãy chú ý đừng nhầm lẫn hai cách dùng sau:
 
 <pre>
 何<b>が</b>あった？  
-What happened? (lit. What was there?)
+Chuyện gì đã xảy ra? (nghĩa đen: Cái gì đã tồn tại?)
 
 何<b>か</b>あった？  
-Did something happen? (lit. Was something there?)
+Có chuyện gì xảy ra không? (nghĩa đen: Có cái gì đó tồn tại không?)
 </pre>
 
-Note how with question words + か it is common to drop the が particle after them (何かが -> 何か), possibly because it is easier to pronounce. 
+Lưu ý rằng với cấu trúc từ để hỏi + か, người ta thường bỏ trợ từ が phía sau (何かが → 何か), có thể vì như vậy phát âm dễ hơn.
 
-In a similar manner, we can also use も to turn question words into "inclusive/exclusive" nouns. Think about words like "anything" or "nothing" in English. 
+Tương tự, chúng ta cũng có thể dùng も để biến từ để hỏi thành danh từ mang nghĩa “bao gồm / loại trừ”. Hãy nghĩ tới các từ như “anything” hoặc “nothing” trong tiếng Anh.
 
-|        |                          |
-|--------|--------------------------|
-| なにも | anything/nothing         |
-| だれも | everyone/anyone/no one   |
-| どれも | any of them/none of them |
-| いつも | anytime/never/always     |
+|        |                              |
+|--------|------------------------------|
+| なにも | bất cứ thứ gì / không có gì |
+| だれも | mọi người / bất cứ ai / không ai |
+| どれも | cái nào cũng vậy / không cái nào |
+| いつも | bất cứ lúc nào / không bao giờ / luôn luôn |
 
 <pre>
 ここは何<b>も</b>ない  
-There is <b>no</b>thing here
+Ở đây <b>không có gì</b> cả
 
 誰<b>も</b>が知ってること  
-Things that <b>every</b>one/<b>any</b>one knows.
+Những điều mà <b>mọi</b> người / <b>bất cứ</b> ai cũng biết
 
 いつ<b>も</b>そんなことを考えてるの？  
-Have you <b>always</b> been thinking about that?
+Bạn <b>luôn</b> nghĩ về chuyện đó à?
 </pre>
 
-Note: In case of 誰も used as subject in a non-negative statement, the が cannot be dropped so it becomes 誰もが
+Lưu ý: Khi 誰も được dùng làm chủ ngữ trong câu khẳng định, không thể bỏ が, nên phải là 誰もが.
 
-There's a logical distinction between "every particular thing" and "any one particular thing". By attaching でも to some of these words, you can give them the "any" sense of "any one particular thing".
+Có sự khác biệt logic giữa “mọi thứ cụ thể” và “bất kỳ một thứ cụ thể nào”. Khi gắn でも vào một số từ để hỏi, ta tạo ra sắc thái “bất kỳ cái nào”.
 
 <pre>
 あんたは誰<b>でも</b>助けるの？  
-Would you (really) save <b>anyone</b> (no matter who)?
+Bạn sẽ cứu <b>bất kỳ ai</b> sao? (dù là ai đi nữa)
 
 場所はどこ<b>でも</b>いい。  
-<b>Anywhere</b> (no matter where) is fine
+<b>Ở đâu cũng được</b>.
 </pre>
+

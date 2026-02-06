@@ -1,38 +1,40 @@
-# Enduring actions and state with ている and てある
 
-Let's look at ている and てある now. They make use of いる/ある as auxiliary verbs.
+# Hành động kéo dài và trạng thái với ている và てある
+ 
+Bây giờ ta xem ている và てある. Chúng sử dụng いる / ある như các động từ trợ.
 
-ている indicates an enduring action or state. For a lot of verbs, this means progressive or continuous (enduring action), but for others, it means the result of an action remains in a certain condition (enduring state).
+ている biểu thị một hành động đang diễn ra hoặc một trạng thái kéo dài. Với nhiều động từ, nó mang nghĩa tiếp diễn (hành động đang xảy ra), nhưng với một số động từ khác, nó lại mang nghĩa trạng thái còn tồn tại sau khi hành động đã hoàn tất.
 
 <pre>
 食べ<b>ている</b> 
-I'm eating. (enduring action)
+Tôi đang ăn. (hành động đang diễn ra)
 
 死ん<b>でいる</b>
-He's dead. (enduring state)
+Anh ấy đã chết. (trạng thái kéo dài)
 </pre>
 
-The い in ている is commonly dropped in conversation, both in writing and in speech. This includes ます form to (as てます).
+Chữ い trong ている thường bị lược bỏ trong giao tiếp, cả trong nói lẫn viết. Điều này cũng áp dụng cho dạng ます (thành てます).
 
 <pre>
 食べ<b>てる</b>
-I'm eating.
+Tôi đang ăn.
 </pre>
 
-ておる is a formal variant of ている. おる and いる have mostly the same meaning. ておる can be spoken as とる.
+ておる là dạng trang trọng của ている. おる và いる về cơ bản có cùng ý nghĩa. Trong lời nói, ておる thường được phát âm thành とる.
 
 <pre>
 何を言っ<b>ておる</b>のだ。
-What are you saying
+Anh đang nói cái gì vậy?
 </pre>
 
-てある is about something being in an enduring state resulting from someone's action. てある always expresses a resulting state, **never** an action.
+てある diễn tả một sự vật đang ở trong trạng thái được tạo ra từ hành động của ai đó. てある **luôn luôn** nói về trạng thái kết quả, không nói về hành động.
 
 <pre>
 晩ご飯はもう作っ<b>てある</b>
-Dinner has already been made
+Bữa tối đã được nấu xong rồi.
 </pre>
 
-てある can turn the direct object into a subject. This means that the verb's normal "logical object" gets marked by が or は (or unmarked), like dinner in the example above. However, because Japanese is linguistically weird, sometimes を can be used, too.
+てある có thể biến tân ngữ trực tiếp thành chủ ngữ. Điều này có nghĩa là đối tượng logic của động từ sẽ được đánh dấu bằng が hoặc は (hoặc không đánh dấu), như 晩ご飯 trong ví dụ trên. Tuy nhiên, do đặc điểm riêng của tiếng Nhật, đôi khi vẫn có thể thấy を được dùng.
 
-Finally, it expresses a state, not an action, so てある should not be considered "the passive" version of the verb. Japanese has a real passive that we'll cover soon.
+Cuối cùng, vì てある diễn tả trạng thái chứ không phải hành động, nên không nên coi nó là dạng “bị động” của động từ. Tiếng Nhật có dạng bị động thực sự, và ta sẽ học sau.
+

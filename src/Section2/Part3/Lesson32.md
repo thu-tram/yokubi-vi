@@ -1,28 +1,30 @@
-# Asking kindly with なさい and prohibition with な
 
-なさい asks someone to do something. It feels as though the asker expects the listener to do the action, but it's still a kind request. It has a feeling of indirectness/softness and can be often seen as feminine although it's still fairly gender neutral. The speaker is usually a higher rank than the listener, and it is common among teachers and mothers when telling off kids. You can also find it in common set expressions like おやすみなさい, in which case there's no extra nuance attached. 
+# Nhờ vả lịch sự với なさい và cấm đoán bằng な
+
+なさい dùng để yêu cầu ai đó làm một việc. Nó mang cảm giác người nói mong đợi người nghe sẽ thực hiện hành động đó, nhưng vẫn là một cách nói nhẹ nhàng và lịch sự. Cách nói này có sắc thái gián tiếp, mềm mỏng, và đôi khi được cảm nhận là hơi nữ tính, tuy nhìn chung vẫn khá trung tính về giới. Người nói thường ở vị trí cao hơn người nghe, và nó rất hay được dùng bởi giáo viên hoặc các bà mẹ khi nhắc nhở trẻ em. Bạn cũng có thể gặp なさい trong những cụm cố định quen thuộc như おやすみなさい, khi đó nó không mang thêm sắc thái đặc biệt nào.
 
 <pre>
 聞き<b>なさい</b>
-Please listen.
+Hãy nghe đi / Làm ơn lắng nghe.
 
 食べ<b>なさい</b> 
-Please eat.
+Hãy ăn đi / Làm ơn ăn.
 </pre>
 
-Finally, we get to な used to indicate prohibition. It attaches to the end of a statement without ます and without past tense. This sentence-ender can be confused with the な sentence ending particle mentioned in [Lesson 29](./Lesson29.md). Context and tone will tell you which is which. They are very different.
+Cuối cùng là な dùng để biểu thị sự cấm đoán. な này gắn trực tiếp vào cuối động từ ở thể thường (không có ます và không ở quá khứ). Dạng này có thể bị nhầm với trợ từ kết câu な đã học trong [Lesson 29](./Lesson29.md). Cần dựa vào ngữ cảnh và ngữ điệu để phân biệt. Hai loại này hoàn toàn khác nhau.
 
 <pre>
 来る<b>な</b>！
-Stay away! (Don't come!)
+Đừng đến! / Tránh xa ra!
 </pre>
 
-Note: The さい part in なさい is also commonly dropped. You can easily distinguish it from the prohibition な because it attaches to the masu stem of the verb:
+Note: Phần さい trong なさい thường bị lược bỏ trong văn nói. Bạn có thể dễ dàng phân biệt nó với な cấm đoán vì な (rút gọn từ なさい) gắn vào masu-stem của động từ:
 
 <pre>
 聞き<b>な</b>
-Please listen
+Nghe đi / Làm ơn nghe.
 
 聞く<b>な</b>!
-Don't listen!
+Đừng nghe!
 </pre>
+

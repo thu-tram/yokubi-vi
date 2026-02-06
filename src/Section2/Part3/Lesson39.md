@@ -1,58 +1,60 @@
-# Reasoning with から そして ので で
 
-から is not just the case particle "from". It also shows up as a conjunction, used to connect two sentences, where the thing after から is the outcome or result of the thing before から. 
+# Diễn đạt lý do với から, そして, ので, và で
 
-You can differentiate the conjuction から from the case particle から because the particle only comes after nouns and the conjunction after completed clauses. This means to attach the "because of" から to nouns and な adjectives, you must add だ (or です). It also can go directly after verbs and い adjectives (which the particle から cannot do).
+から không chỉ là trợ từ chỉ nguồn gốc “từ”. Nó còn được dùng như một liên từ để nối hai mệnh đề, trong đó phần sau から là kết quả hoặc hệ quả của phần trước から.
 
-A(だ)からB roughly means "It is B, because of A".
+Bạn có thể phân biệt から là liên từ hay trợ từ dựa vào vị trí: trợ từ から chỉ đứng sau danh từ, còn liên từ から đứng sau một mệnh đề hoàn chỉnh. Vì vậy, khi gắn から mang nghĩa “vì” vào danh từ hoặc tính từ な, bạn cần thêm だ (hoặc です). Ngoài ra, から với vai trò liên từ có thể đứng trực tiếp sau động từ và tính từ い (điều mà trợ từ から không làm được).
+
+A(だ)からB có thể hiểu là: “Vì A nên B.”
 
 <pre>
 暑い<b>から</b>プールに行きたいです
-It's hot<b>, so</b> I want to go to the pool
+Trời nóng<b>, nên</b> tôi muốn đi bơi.
 
 みんないい人<b>だから</b>、きっと気にいる
-They are all good people<b>, so</b> I'm sure you'll like them.
+Mọi người đều là người tốt<b>, nên</b> chắc chắn bạn sẽ thích.
 </pre>
 
-から can come at the beginning of a sentence in the form of だから. In this usage it can either be emphasis, or give an explanation for a previous statement.
+から cũng có thể đứng ở đầu câu dưới dạng だから. Trong trường hợp này, nó dùng để nhấn mạnh hoặc đưa ra lời giải thích cho câu nói trước đó.
 
 <pre>
 <b>だから、</b>そんなこと言わないでください。
-<b>I'm telling you,</b> please don't say that!
+<b>Tôi đã nói rồi mà,</b> xin đừng nói những điều như vậy!
 </pre>
 
-ので acts like から. After nouns and な adjectives it becomes なので or ですので. 
+ので có cách dùng tương tự から. Sau danh từ và tính từ な, nó trở thành なので hoặc ですので.
 
-There are some nuance differences between から and ので but the gist is that から sounds more like a subjective opinion and ので feels more objective. For this reason, in polite contexts から can come across as pushy and ので is often preferred.
+Giữa から và ので có khác biệt nhỏ về sắc thái: から mang cảm giác chủ quan hơn, còn ので nghe khách quan và nhẹ nhàng hơn. Vì vậy, trong các tình huống lịch sự, から đôi khi nghe hơi áp đặt, còn ので thường được ưa dùng hơn.
 
 <pre>
 外は暑い<b>ので</b>気をつけてください
-It's hot outside, <b>so</b> please be careful.
+Bên ngoài trời nóng<b>, nên</b> hãy cẩn thận.
 
 大事なこと<b>なので</b>、二回言いました。
-It was an important thing<b>, so</b> I said it twice.
+Đó là việc quan trọng<b>, nên</b> tôi đã nói hai lần.
 </pre>
 
-で can be used as a conjunction similar to "so". It establishes a weak cause \-\> effect relationship. で goes after nouns and な adjectives. For verbs and い adjectives they get conjugated in て form to achieve the same result. 
+で cũng có thể dùng như một liên từ mang nghĩa gần giống “nên”. Nó tạo ra mối quan hệ nguyên nhân → kết quả khá nhẹ. で đứng sau danh từ và tính từ な. Với động từ và tính từ い, ta dùng dạng て để tạo ý nghĩa tương tự.
 
 <pre>
 突然のこと<b>で、</b>すぐに理解できなかった
-It was sudden<b>, so</b> I couldn't immediately understand it.
+Vì chuyện xảy ra quá đột ngột<b>, nên</b> tôi không thể hiểu ngay.
 </pre>
 
-This usage of で can also show up at the beginning of a statement to continue a previous statement, sometimes as それで:
+Cách dùng で này cũng có thể xuất hiện ở đầu câu để nối tiếp ý trước đó, đôi khi ở dạng それで:
 
 <pre>
 <b>それで、</b>これからどうするの？  
-<b>So,</b> what are you going to do next?
+<b>Vậy thì,</b> tiếp theo bạn sẽ làm gì?
 </pre>
 
-そして is an interjection that essentially gives a sense of finality as the last element in a list of sequential statements (like "and in the end...") or a conclusive reason ("and so..."). It can sound formal.
+そして là một từ chuyển ý, mang cảm giác kết thúc một chuỗi sự kiện (“và cuối cùng thì...”) hoặc đưa ra kết luận (“và vì thế...” ). Nó thường mang sắc thái trang trọng.
 
 <pre>
 <b>そして、</b>ついにその日が来た。
-<b>And in the end,</b> that day finally came.
+<b>Và cuối cùng,</b> ngày đó cũng đã đến.
 
 <b>そして、</b>ありがとうございました。
-<b>And so,</b> thank you.
+<b>Và vì thế,</b> xin cảm ơn.
 </pre>
+

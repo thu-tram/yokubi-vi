@@ -1,32 +1,36 @@
-# Trying stuff with てみる
 
-The てみる auxiliary originates from the verb 見る, and can provide some insight on how to remember what it means. It roughly means "try to do something (and see how it goes)". However, when it is used with this meaning, it should never be written in kanji. 
+# Thử làm gì đó với てみる
 
-てみる indicates that the action is "tried" or being done with the intent to see what the outcome of doing so will be.
+Trợ động từ てみる bắt nguồn từ động từ 見る (xem, nhìn), và điều này cũng giúp ta dễ nhớ ý nghĩa của nó. Nó mang nghĩa đại khái là "thử làm gì đó và xem kết quả ra sao". Tuy nhiên, khi dùng với nghĩa này, nó **không bao giờ** được viết bằng kanji.
+
+てみる diễn tả rằng một hành động được thực hiện với mục đích thử và xem chuyện gì sẽ xảy ra sau đó.
 
 <pre>
 食べ<b>てみる</b>
-I'll try to eat it (and see how it goes/see if I like it/see if it's poisoned, etc)
+Tôi sẽ thử ăn (và xem sao / xem có thích không / xem có bị trúng độc không, v.v.)
 
 チョコレートケーキを作っ<b>てみました</b>
-I tried to make chocolate cake.
+Tôi đã thử làm bánh chocolate.
 
 想像し<b>てみて</b>ください。
-Please try to imagine it.
+Xin hãy thử tưởng tượng xem.
 </pre>
 
-In the previous lesson, we saw another grammar point that can be translated as "to try to do": ようとする.
+Ở bài trước, chúng ta đã thấy một mẫu ngữ pháp khác cũng có thể dịch là "cố gắng làm gì đó": ようとする.
 
-In Japanese, these two grammar points are very different, but when translated into English they are often a source of confusion. てみる assumes that the action is going to be done and that what matters is the outcome, while ようとする implies that the hard part (the "attempt") is the action itself. It is often used with the assumption that the subject will not be able to "do" the action in the first place.
+Trong tiếng Nhật, hai mẫu ngữ pháp này rất khác nhau, nhưng khi dịch sang tiếng Anh thì dễ gây nhầm lẫn. てみる giả định rằng hành động sẽ được thực hiện, và điều quan trọng là kết quả sau khi làm. Trong khi đó, ようとする nhấn mạnh rằng bản thân việc "cố gắng thực hiện hành động" là phần khó, và thường mang hàm ý rằng chủ thể có thể sẽ không làm được hành động đó.
 
-Consider the difference between these two sentences:
+Hãy xem sự khác biệt giữa hai câu sau:
 
 <pre>
 まずは一度逃げ<b>てみよう</b>
-First, let's <b>try</b> escaping once.
+Trước hết, hãy <b>thử</b> chạy trốn một lần xem sao.
 
 僕は、逃げ<b>ようとする</b>彼女の手を取った。
-I caught the hand of the girl who was <b>attempting to</b> escape.
+Tôi nắm lấy tay cô gái đang <b>cố gắng</b> chạy trốn.
 </pre>
 
-The first sentence focuses on the fact that the speaker doesn't know how their escape attempt will go, but they want to try and see. The second sentence stops the girl from escaping before she even begins to do so. It implies that she <b>attempted</b> to initiate the act of "escaping" but she was unable to follow through with it. 
+Câu thứ nhất tập trung vào việc người nói không biết việc chạy trốn sẽ diễn ra thế nào, nhưng vẫn muốn thử xem sao.  
+
+Câu thứ hai cho thấy cô gái bị ngăn lại trước khi kịp thực sự chạy trốn. Nó hàm ý rằng cô ấy đã <b>cố gắng</b> bắt đầu hành động "chạy trốn", nhưng không thể tiếp tục thực hiện nó.
+

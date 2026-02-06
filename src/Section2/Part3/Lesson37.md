@@ -1,68 +1,70 @@
-# Adversatives with が, けど, しかし, and ても/でも
 
-Unrelated to the **subject marker** が, the **conjunction** が states that, even though the former statement is true, the latter statement is also true. With が, both statements are independent clauses. Often, but not always, the second statement is in contrast with the first statement. This is commonly translated as "but" or "although", but there are cases where it's simply just an "and" and there is no contrast at all.
+# Cách diễn đạt đối lập với が, けど, しかし và ても/でも
+
+Không liên quan đến **trợ từ chủ ngữ** が, **liên từ** が dùng để nói rằng mặc dù mệnh đề phía trước là đúng, mệnh đề phía sau cũng đồng thời đúng. Khi dùng が, hai mệnh đề đều là câu hoàn chỉnh. Thường thì (nhưng không phải lúc nào) mệnh đề sau sẽ mang ý đối lập với mệnh đề trước. が thường được dịch là “nhưng” hoặc “mặc dù”, tuy nhiên đôi khi nó chỉ đơn giản mang nghĩa “và”, không hề có sự đối lập.
 
 <pre>
 少し早い<b>ですが</b>、おめでとうございます。
-It is a bit early <b>but</b>, congratulations
+Hơi sớm <b>nhưng</b> xin chúc mừng.
 </pre>
 
-が attaches after a complete sentence, meaning after nouns and な adjectives it **requires** だ (or です). ですが is common in speech and everyday polite language, but だが sounds too stiff and it's almost exclusively left to written or very formal language.
+が được gắn sau một câu hoàn chỉnh, nghĩa là sau danh từ và tính từ な thì **bắt buộc** phải có だ (hoặc です). ですが rất phổ biến trong lời nói và văn nói lịch sự hằng ngày, còn だが thì nghe khá cứng và hầu như chỉ dùng trong văn viết hoặc văn phong rất trang trọng.
 
-Same as が, there is also the conjunction けど. Their usage and meaning can be considered pretty much the same. Just like with が, both ですけど and だけど exist and are very common in conversational tone in real life too. けど comes across as less formal than が. 
+Tương tự như が, còn có liên từ けど. Cách dùng và ý nghĩa của chúng về cơ bản giống nhau. Giống như が, ta có cả ですけど và だけど, và cả hai đều rất thường gặp trong hội thoại đời thường. So với が, けど tạo cảm giác ít trang trọng hơn.
 
 <pre>
 しばらく考えてみた<b>けど</b>、何も思い浮かばなかった。
-I tried thinking about it for a bit but I couldn't come up with anything.
+Tôi thử suy nghĩ một lúc <b>nhưng</b> không nghĩ ra được gì.
 </pre>
 
-けど and が both cover a formality/politeness space that can feel very nuanced, so here's a few rules of thumb. These aren't actual rules, just general advice:
+が và けど bao phủ những sắc thái lịch sự/trang trọng khá tinh tế, nên có thể ghi nhớ vài nguyên tắc gợi ý sau (chỉ là lời khuyên chung, không phải quy tắc cứng):
 
-- If the entire sentence is in plain form, use (だ)けど
-- If it's conversational language, don't use (だ)が
-- If the entire sentence is in polite form, use ですが
-- Ending a statement with polite form but using けど in the middle is common, but can come across as unnatural if the politeness level isn't appropriate
+- Nếu toàn bộ câu ở thể thường, dùng (だ)けど  
+- Nếu là văn nói, không nên dùng (だ)が  
+- Nếu toàn bộ câu ở thể lịch sự, dùng ですが  
+- Việc kết thúc câu bằng thể lịch sự nhưng dùng けど ở giữa là khá phổ biến, nhưng có thể nghe không tự nhiên nếu mức độ lịch sự không phù hợp  
 
-A very common usage of が/けど is to introduce something as a topic in an indirect manner. In this usage it does not have a nuance of adversative ("but"). It is simply introducing something before talking about it. It is common to see this usage with the explanatory の particle like なんだけど or なんですが:
+Một cách dùng rất phổ biến của が/けど là để **giới thiệu chủ đề một cách gián tiếp**. Trong trường hợp này, chúng không mang sắc thái đối lập “nhưng”, mà chỉ dùng để mở lời trước khi nói tiếp. Thường thấy dạng này đi kèm trợ từ giải thích の như なんだけど hoặc なんですが:
 
 <pre>
 「もしもし、ネミアちゃん？　俺<b>だけど</b>、どうしたの？」
-(on the phone) "Hello, Nemia? <b>It's me</b>, what happened?"
+(qua điện thoại) "Alo, Nemia à? <b>Là tôi đây</b>, có chuyện gì vậy?"
 </pre>
 
-This usage is very common when easing the listener into a request or question you have for them:
+Cách dùng này cũng rất hay xuất hiện khi người nói muốn mở đầu nhẹ nhàng cho một yêu cầu hay câu hỏi:
 
 <pre>
 一つお願いがある<b>んですが</b>、よろしいでしょうか？
-I have one request<b>...</b> would that be okay?
+Tôi có một yêu cầu<b>...</b> được không ạ?
 </pre>
 
-This type of phrase is so common that in many situations the speaker doesn't even need to provide an explanation after the んですが/んだけど, to the point where the second half of the sentence can be completely dropped.
+Kiểu nói này phổ biến đến mức trong nhiều tình huống, người nói thậm chí không cần nói tiếp sau んですが/んだけど, và vế sau của câu có thể bị lược bỏ hoàn toàn.
 
 <pre>
 すいません、本を探している<b>んですが</b>
-(In a store) I'm sorry, I'm looking for a book... (could you help me?)
+(Xin lỗi, tôi đang tìm một cuốn sách...) (ý là: bạn có thể giúp không?)
 </pre>
 
-けど can also show up as けれど and けれども. They are *mostly* the same, but the longer it is, the more formal it sounds.
+けど cũng có thể xuất hiện dưới dạng けれど và けれども. Chúng **gần như** giống nhau, nhưng dạng càng dài thì càng mang cảm giác trang trọng.
 
-しかし is an interjection. It sounds formal. English speakers tend to overuse this because it resembles how we use "but" at the beginning of sentences in our language but in Japanese it is not that common.
+しかし là một thán từ/liên từ mang tính trang trọng. Người học tiếng Nhật (đặc biệt là người nói tiếng Anh) hay dùng quá nhiều từ này vì nó giống cách dùng “however/but” ở đầu câu trong tiếng Anh, nhưng trong tiếng Nhật thì nó không phổ biến đến vậy.
 
 <pre>
 <b>しかし</b>、知らなかった。
-<b>However</b>, I did not know.
+<b>Tuy nhiên</b>, tôi không biết.
 </pre>
 
-ても is a combination of the て form and も. It works as a conjunction stating that the statement after it is true *despite* the statement before it. This is like an adversative, but it's not always one.
+ても là sự kết hợp của dạng て và も. Nó dùng để nói rằng mệnh đề phía sau đúng **bất chấp** mệnh đề phía trước. Điều này gần với ý đối lập, nhưng không phải lúc nào cũng mang nghĩa “nhưng”.
 
 <pre>
 そんな事言わなく<b>ても</b>わかっているんだろ？
-<b>Even if</b> I don't tell you that, you understand right?
+<b>Dù</b> tôi không nói, bạn cũng hiểu mà, đúng không?
 </pre>
 
-There is also でも that can be used to add an adversative "but" meaning at the beginning of a new sentence.
+Ngoài ra còn có でも, có thể dùng ở đầu một câu mới để thêm sắc thái đối lập kiểu “nhưng”.
 
 <pre>
 <b>でも</b>、あなたは分かっているでしょ？
-<b>But</b> you get that, don't you?
+<b>Nhưng</b> bạn hiểu rồi mà, đúng không?
 </pre>
+

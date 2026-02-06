@@ -1,49 +1,54 @@
-# State of being with だ and です
+# Trạng thái tồn tại với だ và です
 
-Let's start from sentences in the shape of "A is B". Japanese has two basic "is" words. The grammar term for such words is "copula". Copulas have a dedicated term because they're special verb-like things.
+Chúng ta bắt đầu với dạng câu “A là B”. Trong tiếng Nhật có hai từ cơ bản mang nghĩa “là”. Thuật ngữ ngữ pháp cho loại từ này là *copula* (từ nối). Chúng được gọi riêng vì chúng giống động từ nhưng có vai trò đặc biệt.
 
-The two copulas in Japanese are だ and です. です is more polite than だ. Despite both being copulas, their usage can be flexible and sometimes optional; you can omit them entirely while still implying an "A is B" type of relationship in your sentences. Especially だ is usually omitted at the end of conversational sentences in modern Japanese.
+Hai copula trong tiếng Nhật là だ và です. Trong đó, です mang sắc thái lịch sự hơn だ. Mặc dù cả hai đều là copula, cách dùng của chúng khá linh hoạt và đôi khi có thể bỏ hoàn toàn mà câu vẫn mang nghĩa “A là B”. Đặc biệt, trong hội thoại hiện đại, だ thường bị lược bỏ ở cuối câu.
 
-Unlike English, the state-of-being word goes **after** the word that you're using to describe something, rather than before it. We will see that this applies to most modifier words in Japanese: they apply to the word on their **left**.
+Khác với tiếng Anh, từ chỉ trạng thái tồn tại trong tiếng Nhật đứng **sau** từ mà nó bổ nghĩa, chứ không đứng trước. Quy tắc này cũng áp dụng cho đa số các từ bổ nghĩa khác trong tiếng Nhật: chúng bổ nghĩa cho từ nằm bên **trái** của mình.
 
-<pre>
+Ví dụ:
+
 ペンだ。
-It's a pen.
+Là cây bút. / Đây là cây bút.
 
 ネコです。
-It is a cat.
-</pre>
+Là con mèo. / Đây là con mèo.
 
-The difference between だ and です is generally a matter of politeness and formality. One thing that is important to remember is that while です is the polite version of だ, the two aren't always interchangeable and have a lot of different uses. You cannot always freely replace だ for です (or vice-versa). You will learn some of those uses in later lessons.
+Sự khác nhau giữa だ và です chủ yếu nằm ở mức độ lịch sự và trang trọng. Tuy nhiên, cần lưu ý rằng dù です là dạng lịch sự của だ, hai từ này không phải lúc nào cũng thay thế cho nhau được. Chúng có nhiều cách dùng khác nhau, và bạn sẽ dần học được trong các bài sau.
 
-Later you will also see です get used in places where English wouldn't allow "is". This is because it can even act just like a filler word with no added meaning.
+Sau này bạn cũng sẽ gặp trường hợp です được dùng ở những nơi mà tiếng Anh không dùng “is”. Lý do là vì đôi khi です chỉ đóng vai trò như một từ đệm, không mang thêm ý nghĩa cụ thể.
 
-To state that something is *not*, we turn the だ into ではない and です into ではありません. In speech the では gets slurred into じゃ so じゃない and じゃありません are more common. We will look at what this では does in a later lesson. There exists an alternative to ではありません which is just adding です after ではない/じゃない, the meaning is the same.
+Để diễn đạt “không phải là”, ta đổi だ thành ではない và です thành ではありません. Trong lời nói, では thường được rút gọn thành じゃ, vì vậy じゃない và じゃありません xuất hiện phổ biến hơn. Ý nghĩa của chúng giống nhau. Ngoài ra còn có cách nói khác là thêm です vào sau ではない hoặc じゃない, vẫn giữ nguyên nghĩa lịch sự.
 
-<pre>
+Ví dụ:
+
 人じゃない
-It's not a person
+Không phải là người.
 
-本じゃないです or 本ではありません
-It is not a book (polite)
-</pre>
+本じゃないです hoặc 本ではありません
+Không phải là quyển sách. (lịch sự)
 
-Japanese has two basic tenses: the plain tense and the past tense. Since dictionaries list verbs by their plain tense, it's also sometimes called the "dictionary form". In this context, "form" and "tense" are interchangeable. 
+Tiếng Nhật có hai thì cơ bản: dạng thường (plain form) và dạng quá khứ. Vì từ điển liệt kê động từ theo dạng thường, nên dạng này cũng hay được gọi là “dạng từ điển”. Trong ngữ cảnh này, “dạng” và “thì” có thể hiểu gần như giống nhau.
 
-The past form of だ is だった. The past form of です is でした.
+Dạng quá khứ của だ là だった.
+Dạng quá khứ của です là でした.
 
-<pre>
-オレだった！ 
-It was me! (casual)
+Ví dụ:
 
-そうでした
-That was so. (polite)
-</pre>
+オレだった！
+Là tôi đó! / Là tôi mà! (thân mật)
 
-The dictionary form is usually called the present tense or the non-past tense. It's important to remember that it can be used in a lot of situations. Present tense and non-past tense are reasonable names, but don't treat names like rules, sometimes names are confusing. This guide will be using these names interchangeably.
+そうでした。
+Đúng là như vậy. (lịch sự)
 
-The plain form and past tense usually line up with the English present and past tenses, but they're not used in all the same places. Just remember that English and Japanese often use tenses in very different ways.
+Dạng từ điển thường được gọi là thì hiện tại hoặc thì không-quá-khứ. Điều quan trọng là dạng này được dùng trong rất nhiều tình huống. Tên gọi chỉ mang tính quy ước, không nên coi đó là luật cứng nhắc. Hướng dẫn này sẽ dùng các tên gọi đó xen kẽ nhau.
 
-In Japanese, ordinary statements about the future use the plain form most of the time. This is where the name "non-past" comes from.
+Nhìn chung, dạng thường và dạng quá khứ thường tương ứng với thì hiện tại và quá khứ trong tiếng Anh, nhưng cách dùng không hoàn toàn giống nhau. Tiếng Nhật và tiếng Anh sử dụng thì theo những cách khá khác biệt.
 
-Sometimes the past tense can also be used for things that are already completed like "has become", even if they're hypothetical and haven't happened yet. You might also hear it called "completed tense" or "completed form".
+Trong tiếng Nhật, khi nói về những việc sẽ xảy ra trong tương lai, người ta thường dùng dạng thường. Đây là lý do xuất hiện tên gọi “không-quá-khứ”.
+
+Đôi khi dạng quá khứ cũng được dùng để diễn tả trạng thái đã hoàn tất, giống như “đã trở thành”, kể cả trong những tình huống giả định hoặc chưa thật sự xảy ra. Bạn cũng có thể thấy dạng này được gọi là “thì hoàn thành” hoặc “dạng hoàn tất”.
+
+---
+
+Nếu bạn muốn, mình có thể tiếp tục dịch các phần tiếp theo theo cùng phong cách.

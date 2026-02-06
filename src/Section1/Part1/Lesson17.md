@@ -1,23 +1,26 @@
-# Basic politeness and ます form
 
-Let's now talk about politeness. In Japanese, the polite tone of the language presents itself as a specific grammatical feature. This means that when you are speaking politely, the way you build sentences, conjugations, and even the words you choose will differ from when you're speaking casually. There are various degrees of politeness and we will only cover the basic stuff here.
+# Lịch sự cơ bản và dạng ます
 
-Basic polite verbs are constructed with the auxiliary verb ます attached to a stem (which is often called the "ます-stem"). For ichidan verbs, ます attaches to the part of the verb without る. For godan verbs, change the u to an i, then attach ます.
+Bây giờ chúng ta nói về sự lịch sự. Trong tiếng Nhật, mức độ lịch sự thể hiện thành một đặc điểm ngữ pháp rõ ràng. Điều này có nghĩa là khi bạn nói lịch sự, cách bạn xây dựng câu, chia động từ, và thậm chí lựa chọn từ vựng sẽ khác với khi bạn nói thân mật. Có nhiều mức độ lịch sự khác nhau, nhưng ở đây chúng ta chỉ đề cập đến mức cơ bản.
+
+Động từ lịch sự cơ bản được tạo bằng cách gắn trợ động từ ます vào thân động từ (thường gọi là “ます-stem”).  
+Với động từ ichidan, gắn ます vào phần động từ sau khi bỏ る.  
+Với động từ godan, đổi âm u ở cuối thành i, rồi gắn ます.
 
 | Casual     | Polite       |         |
 |------------|--------------|---------|
-| 食べ**る** | 食べ**ます** | To eat  |
-| 行**く**   | 行**きます** | To go   |
-| 切**る**   | 切**ります** | To cut  |
-| 歌**う**   | 歌**います** | To sing |
+| 食べ**る** | 食べ**ます** | To eat / ăn  |
+| 行**く**   | 行**きます** | To go / đi   |
+| 切**る**   | 切**ります** | To cut / cắt |
+| 歌**う**   | 歌**います** | To sing / hát |
 
 <div class="warning">
-Do not attach ます after です, it doesn't work. Although you might see it in some media from characters that speak intentionally incorrect Japanese. Do not copy them. 
+Không được gắn ます sau です, cách này không dùng được. Đôi khi bạn có thể thấy trong phim hoặc truyện, nơi nhân vật cố tình nói sai tiếng Nhật. Đừng bắt chước theo.
 </div>
 
-In [lesson 9](./Lesson9.md), we mentioned that the past tense of godan verbs comes from the "i" stem. While for some verbs (死ぬ \-\> 死んだ) this stem shows an exception in past form, this does not happen with ます.
+Trong [lesson 9](./Lesson9.md), chúng ta đã nói rằng dạng quá khứ của động từ godan xuất phát từ thân “i”. Với một số động từ (ví dụ 死ぬ → 死んだ) thân này có ngoại lệ khi sang quá khứ, nhưng điều đó không xảy ra với ます.
 
-Here's a comparison between the past tense and ます form of each type of godan verbs. Don't memorize this.
+Dưới đây là bảng so sánh giữa dạng thường, dạng ます và dạng quá khứ của các loại động từ godan. Không cần ghi nhớ bảng này.
 
 | Casual     | Polite       | Past         |
 |------------|--------------|--------------|
@@ -31,35 +34,36 @@ Here's a comparison between the past tense and ます form of each type of godan
 | 急**ぐ**   | 急**ぎます** | 急**いだ**   |
 | 持**つ**   | 持**ちます** | 持**った**   |
 
-Since ます itself is an auxiliary verb that ends like any other verb, it can also be conjugated further to provide tense, negativity, etc. However note that the negative form conjugates irregularly.
+Vì bản thân ます là một trợ động từ và kết thúc giống như các động từ khác, nên nó cũng có thể được chia để thể hiện thì, phủ định, v.v. Tuy nhiên, lưu ý rằng dạng phủ định của nó là bất quy tắc.
 
 |                  |             |
 |------------------|-------------|
-| 死にます         | to die      |
-| 死にました       | died        |
-| 死にません       | to not die  |
-| 死にませんでした | did not die |
+| 死にます         | to die / chết |
+| 死にました       | died / đã chết |
+| 死にません       | to not die / không chết |
+| 死にませんでした | did not die / đã không chết |
 
-ません doesn't have a past tense of its own. To use the past tense with ません, you attach でした, the past tense of です. 
+ません không có dạng quá khứ riêng. Để tạo quá khứ cho ません, ta gắn でした, là dạng quá khứ của です.
 
-In modern Japanese, there is another way to make the polite negative past tense of verbs, and that is to just add です after the non-polite negative past tense:
+Trong tiếng Nhật hiện đại, còn một cách khác để tạo dạng lịch sự – phủ định – quá khứ, đó là chỉ cần gắn です sau dạng phủ định quá khứ không lịch sự:
 
 | Casual       | Polite           |
 |--------------|------------------|
 | 死ななかった | 死ななかったです |
-| Did not die  | Did not die      |
+| Did not die / đã không chết | Did not die / đã không chết |
 
-This usage of です instead of ます can be seen as slightly less polite but has become more and more common to the point where it's completely normal to use and the distinction between the two is so incredibly nuanced it is impossible to explain. You can just consider them to be the same.
+Cách dùng です thay cho ます này có thể xem là hơi kém lịch sự hơn, nhưng đã trở nên rất phổ biến, đến mức hoàn toàn bình thường. Sự khác biệt giữa hai cách tinh tế đến mức khó giải thích, nên bạn có thể coi chúng gần như tương đương.
 
-The same applies for ないです vs ません as in 食べないです vs 食べません
+Điều tương tự cũng áp dụng cho ないです và ません, ví dụ: 食べないです so với 食べません.
 
-Finally, we come to っす, a slurred version of です or ます used in casual speech. It's less formal than です, but serves the same grammatical roles. It is often used in contexts where you want to be casual but still need to stick to the です/ます social expectations. Kinda like going to work dressed business casual. 
+Cuối cùng là っす, một dạng nói trại của です hoặc ます trong văn nói. Nó kém trang trọng hơn です, nhưng vẫn giữ vai trò ngữ pháp tương tự. Thường dùng khi bạn muốn nói thân mật nhưng vẫn phải giữ khuôn phép です/ます. Có thể hiểu như kiểu “ăn mặc công sở thoải mái”.
 
 <pre>
-いいです -> いい<b>っす</b>
+いいです -> いい<b>っす</b>  
 犬ですか -> 犬<b>っす</b>か
 </pre>
 
-っす is also sometimes used to contract ございます, a keigo version of ある. Again, removing the formality from it, but keeping the politeness.
+っす đôi khi cũng được dùng để rút gọn ございます, là dạng kính ngữ của ある. Nghĩa là giảm mức trang trọng, nhưng vẫn giữ sự lịch sự.
 
-おはようございます \-\> おはようっす \-\> おっす (yes, really)
+おはようございます -> おはようっす -> おっす (đúng là có thật)
+

@@ -1,77 +1,81 @@
-# Making lists with や, とか, など, と, か, and に
 
-List of items in Japanese are made by tagging each item with a specific "listing" particle that defines the nature of the list. There can be both exhaustive and non-exhaustive lists. An exhaustive list is just a list that states explicitly every element it is comprised of. A non-exhaustive list is a list that provides a few examples or a description of the nature of its elements, while leaving space for ambiguity and indirectness. 
+# Tạo danh sách với や, とか, など, と, か và に
 
-"I went to the mall with Paul and Frank" is an exhaustive list, while "I went to the mall with Paul, Frank, and the rest of the crew" on the other hand is a non-exhaustive list. 
+Trong tiếng Nhật, danh sách các vật hay khái niệm được tạo ra bằng cách gắn vào mỗi mục một trợ từ “liệt kê” cụ thể, thể hiện bản chất của danh sách đó. Có hai loại danh sách chính: danh sách **đầy đủ** (liệt kê toàn bộ) và danh sách **không đầy đủ** (liệt kê ví dụ).
 
-Depending on the nature of the list, the final element often has its listing particle dropped and replaced with the case particle that applies to the entire list.
+Danh sách đầy đủ là danh sách nêu rõ tất cả các phần tử mà nó bao gồm. Danh sách không đầy đủ thì chỉ đưa ra một vài ví dụ hoặc mô tả tính chất chung của các phần tử, và để lại sự mơ hồ cho những thứ khác.
 
-や makes a **non-exhaustive** list providing a few examples of elements that correlate to a general common idea of them.
+“I went to the mall with Paul and Frank” là một danh sách đầy đủ, trong khi “I went to the mall with Paul, Frank, and the rest of the crew” là danh sách không đầy đủ.
+
+Tùy theo loại danh sách, phần tử cuối cùng thường sẽ bỏ trợ từ liệt kê và thay bằng trợ từ chức năng áp dụng cho toàn bộ danh sách.
+
+や tạo ra một danh sách **không đầy đủ**, đưa ra vài ví dụ đại diện cho một nhóm có đặc điểm chung.
 
 <pre>
 スプーン<b>や</b>フォークで食べること
-To eat with spoons and forks (and stuff like that)
+Ăn bằng thìa, dĩa (và những thứ tương tự)
 </pre>
 
-と was covered as a side-note before, but here we'll cover it explicitly and compare it to や. と makes a "generic" **exhaustive** list. It counts every element in the list.
+と đã được nhắc đến trước đây, nhưng ở đây ta xét rõ hơn và so sánh với や. と tạo ra một danh sách **đầy đủ** mang tính “chung chung”, tức là nó liệt kê toàn bộ các phần tử trong danh sách.
 
 <pre>
 リンゴ<b>と</b>魚<b>と</b>タイヤキ(<b>と</b>)を食べた
-I ate taiyaki, fish, and apples.
+Tôi đã ăn taiyaki, cá và táo.
 </pre>
 
-As already mentioned, the last と is optional and usually dropped.
+Như đã nói, と ở phần tử cuối cùng là tùy chọn và thường được lược bỏ.
 
-か can be used to provide alternatives. It is closer to "or" than "and" although the distinction is sometimes blurry.
+か được dùng để đưa ra lựa chọn thay thế. Nó gần với nghĩa “hoặc” hơn là “và”, dù đôi khi ranh giới không hoàn toàn rõ ràng.
 
 <pre>
 スプーン<b>か</b>フォークで食べる。
-To eat with a spoon or a fork.
+Ăn bằng thìa hoặc dĩa.
 </pre>
 
-とか makes a "vague" list. It's vague, and therefore **non-exhaustive**, but each item is its own. The items aren't necessarily considered to share a common property. 
+とか tạo ra một danh sách **mơ hồ**, vì vậy cũng là danh sách không đầy đủ, nhưng mỗi mục là một đơn vị riêng lẻ. Các mục không nhất thiết phải có chung một đặc điểm.
 
 <pre>
 スプーン<b>とか</b>フォークで食べること
-To eat with a spoon or fork (or something).
+Ăn bằng thìa, dĩa (hay đại loại thế)
 </pre>
 
-It can also be used to make things vague with just one element:
+とか cũng có thể dùng chỉ với một phần tử để làm cho phát biểu trở nên mơ hồ:
 
 <pre>
 例えばデスクトップパソコン<b>とか</b>。
-For example, (<b>something like</b> a) desktop PC...
+Ví dụ như (kiểu) máy tính để bàn...
 </pre>
 
-To the surprise of no one, とか is basically like と + か. It can also be used to list verbs, often to provide alternative choices. This is a distinctive feature that doesn't exist for the other listing particles in this lesson.
+Không ngạc nhiên khi とか về cơ bản giống như と + か. Nó cũng có thể dùng để liệt kê **động từ**, thường nhằm đưa ra các khả năng lựa chọn. Đây là điểm đặc biệt mà các trợ từ liệt kê khác trong bài này không có.
 
 <pre>
 戦える<b>とか</b>戦えない<b>とか</b>、そういう問題じゃないんだ。
-The problem isn't whether you can fight <b>or</b> not.
+Vấn đề không phải là có đánh được hay không.
 
 もしかして、付き合ってる<b>とか</b>？
-Are you perhaps dating? (or something like that)
+Có phải là hai người đang hẹn hò hay gì đó không?
 </pre>
 
-If the list is too long (more than 2-3 elements), it's common to use commas to separate the elements in the middle without using particles.
+Nếu danh sách quá dài (hơn 2–3 phần tử), người ta thường dùng dấu phẩy để ngăn cách các mục ở giữa mà không cần thêm trợ từ.
 
-など is not technically a listing particle, but rather some filler particle that sounds like using "etc" or "and such" in English. It implies the notion of a list of elements open to more similar stuff. Its meaning is similar to using a single や or とか to state that more examples are implied but not directly stated.
+など không hẳn là trợ từ liệt kê, mà giống một từ đệm mang nghĩa như “vân vân”, “và những thứ tương tự”. Nó gợi ý rằng còn nhiều ví dụ cùng loại khác chưa được nêu ra. Ý nghĩa của nó gần giống như dùng một や hay とか đơn lẻ để ám chỉ rằng danh sách chưa đầy đủ.
 
 <pre>
 完璧な人間<b>など</b>、存在しない。
-Things such as a perfect human don't exist.
+Những thứ như con người hoàn hảo thì không tồn tại.
 </pre>
 
-These listing particles are also commonly used together, especially with など.  The pattern Xや、Y、Zなど is incredibly common, like in the following sentence:
+Các trợ từ liệt kê này cũng thường được dùng kết hợp với nhau, đặc biệt là với など. Mẫu Xや、Y、Zなど rất phổ biến, như trong ví dụ sau:
 
 <pre>
 剣<b>や</b>斧<b>、</b>槍<b>、</b>弓<b>など、</b>様々な武器が置かれている。  
-Swords, axes, spears, bows, and such a multitude of weapons were on display.
+Kiếm, rìu, giáo, cung tên, và đủ loại vũ khí khác được bày ra.
 </pre>
 
-There is another listing particle that is sometimes overlooked: に. This particle is used to list things that come together in a set, or that the speaker is listing one-by-one as some form of chain of thought or active recollection.
+Ngoài ra còn một trợ từ liệt kê khác đôi khi bị bỏ qua: に. Trợ từ này dùng để liệt kê những thứ đi kèm với nhau thành một bộ, hoặc khi người nói đang lần lượt kể ra theo dòng suy nghĩ hay hồi tưởng.
 
 <pre>
 サンドイッチ<b>に</b>ミルク<b>に</b>コーヒー。
-Sandwiches... milk... and then coffee.
+Bánh mì kẹp… sữa… rồi đến cà phê.
 </pre>
+

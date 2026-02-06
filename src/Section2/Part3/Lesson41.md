@@ -1,10 +1,11 @@
-# Counting things
 
-Let's now talk about counting things. When you want to state an amount or quantity, you usually cannot have "free" numbers in the middle of a sentence. You need to pair them with a special word that describes what type of quantity you are defining. These special words are called "counters" and there are **a lot** of them. Some are incredibly specific and change depending on the thing you are counting, but some are more generic and the rules aren't as strict as you might be led to believe.
+# Đếm số lượng
 
-It's like how in English you can't say "I eat 3 breads", and you have to say "I eat 3 **loaves** of bread" or "3 **slices** of bread" instead. Japanese works like this for most countable things.
+Bây giờ chúng ta nói về cách đếm số lượng. Khi muốn diễn đạt số lượng hay số đếm, bạn thường không thể đặt con số “trần” ở giữa câu. Bạn cần ghép con số đó với một từ đặc biệt dùng để chỉ loại đối tượng đang đếm. Những từ này được gọi là “trợ từ đếm” (counter), và có **rất nhiều** loại. Một số thì cực kỳ chuyên biệt và thay đổi tùy theo vật được đếm, nhưng cũng có những loại khá chung và quy tắc không nghiêm ngặt như bạn có thể nghĩ.
 
-The most common counter word is つ, however つ is also special because it does not go above 9. If you need to count more than 9 "generic” things, you need to use another counter (often 個, but you can't always use 個 for everything).
+Điều này giống như trong tiếng Anh: bạn không thể nói “I eat 3 breads”, mà phải nói “I eat 3 **loaves** of bread” hoặc “3 **slices** of bread”. Tiếng Nhật hoạt động theo cách tương tự cho hầu hết các danh từ có thể đếm.
+
+Trợ từ đếm phổ biến nhất là つ, tuy nhiên つ có một điểm đặc biệt là chỉ dùng cho các số từ 1 đến 9. Nếu cần đếm nhiều hơn 9 “vật chung chung”, bạn phải dùng một trợ từ khác (thường là 個, nhưng không phải lúc nào cũng dùng 個 cho mọi thứ).
 
 | Number | Reading                                          |
 |--------|--------------------------------------------------|
@@ -17,23 +18,24 @@ The most common counter word is つ, however つ is also special because it does
 | 七つ　 | ななつ                                           |
 | 八つ　 | やっつ                                           |
 | 九つ　 | ここのつ                                         |
-| 十　　 | とお (this is an exception, it is not a counter) |
+| 十　　 | とお (ngoại lệ, đây không phải là một counter)   |
 
-As you can see, the pronunciation of these words is incredibly annoying to learn. Don't try to memorize all this, just be aware it exists and get exposed to it via immersion. The same applies for a lot of other counter words like days (日), months (月) , years (年), age (際/才), etc. The readings are incredibly irregular.
+Như bạn thấy, cách đọc của những từ này khá khó chịu để học. Đừng cố học thuộc hết, chỉ cần biết là chúng tồn tại và dần quen thông qua việc tiếp xúc. Điều này cũng đúng với nhiều trợ từ đếm khác như ngày (日), tháng (月), năm (年), tuổi (際/才), v.v. Cách đọc của chúng cũng rất thất thường.
 
-One interesting exception, on the topic of age, is that ages are sometimes reported directly in numbers without a counter:
+Một ngoại lệ thú vị liên quan đến tuổi tác là đôi khi tuổi có thể được nói trực tiếp bằng con số, không cần trợ từ đếm:
 
 <pre>
 ボクはまだ<b>12</b>ですよっ！
-I'm still only 12!
+Tôi mới có <b>12</b> tuổi thôi!
 </pre>
 
-If you remember from a previous lesson, counters work like adverbs and can go almost anywhere in a sentence like adverbs do. Also, just like adverbs, counters cannot be marked by case particles. Even though they look like nouns, they aren't nouns.
+Nếu bạn còn nhớ từ bài trước, trợ từ đếm hoạt động giống như trạng từ và có thể đứng ở gần như bất kỳ vị trí nào trong câu. Ngoài ra, cũng giống trạng từ, trợ từ đếm không thể đi kèm với các trợ từ cách (case particles). Dù hình thức giống danh từ, nhưng chúng không phải là danh từ.
 
 <pre>
 二人、兄弟がいる
 兄弟が二人いる
-I have two brothers
+Tôi có hai anh/em trai.
 </pre>
 
-These two sentences mean the same thing (but the latter is more common)
+Hai câu trên có cùng nghĩa (nhưng câu thứ hai phổ biến hơn).
+

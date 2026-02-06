@@ -1,99 +1,100 @@
-# Saying "if" and "when" with the four conditionals
 
-The order of conditionals in Japanese states first the condition, and then the resulting action. Conditionals are one way we can connect two "A does B" type sentences in a structure like "If A does B, then C does D". Obviously, structures like "If A is B, then C does D" or any other combinations are acceptable too.
+# Nói “nếu” và “khi” với bốn dạng câu điều kiện
 
-If only it were so simple that we could get by with just one conditional, it'd be really nice, but the fun part of Japanese is that there are a lot of different ways to say similar things, and conditionals are one of such cases. Unfortunately they all have different usages and nuances that are incredibly hard to explain in terms of English grammar, so you'll have to rely on intuition and exposure.
+Trong tiếng Nhật, thứ tự của câu điều kiện là: nêu điều kiện trước, rồi đến hành động/kết quả sau. Câu điều kiện là một cách để nối hai mệnh đề kiểu “A làm B” thành cấu trúc “Nếu A làm B thì C làm D”. Dĩ nhiên, các kiểu như “Nếu A là B thì C làm D” hay các tổ hợp khác cũng đều có thể dùng.
 
-There are four main conditionals: たら, ば, と and なら. They all fall into a spectrum of "if" and "when" and sometimes even "as" (like in "As I woke up, I heard a weird sound outside"). There are actually more ways to make conditional sentences, but these are the main ones for this lesson.
+Giá như chỉ cần một dạng điều kiện thì mọi thứ đã đơn giản, nhưng “điểm vui” của tiếng Nhật là có rất nhiều cách diễn đạt những ý tương tự, và câu điều kiện là một trong những trường hợp như vậy. Đáng tiếc là mỗi dạng lại có cách dùng và sắc thái riêng, rất khó giải thích chính xác bằng ngữ pháp tiếng Anh, nên bạn sẽ phải dựa nhiều vào trực giác và tiếp xúc thực tế.
 
-As always, don't try to memorize this lesson perfectly, just learn to recognize each of the examples when you encounter them and know they roughly mean "if" or "when".
+Có bốn dạng điều kiện chính: たら, ば, と và なら. Chúng nằm trên một phổ nghĩa từ “nếu” đến “khi”, và đôi khi còn mang nghĩa “vừa … thì …” (giống như “As I woke up, I heard a weird sound outside”). Thực tế còn nhiều cách khác để tạo câu điều kiện, nhưng bốn dạng này là trọng tâm của bài.
 
-The simplest conditional we will see is the ば form which turns verbs into a condition. The conjugation is formed by changing the u at the end of a verb into an e, then adding ば. Basically, for godan verbs, you replace the u with an e, and for ichidan verbs, you add れ after the stem.
+Như thường lệ, đừng cố học thuộc bài này một cách máy móc. Chỉ cần nhận ra từng dạng khi gặp và biết rằng chúng đại khái mang nghĩa “nếu” hoặc “khi” là đủ.
+
+Dạng đơn giản nhất là thể ば, dùng để biến động từ thành điều kiện. Cách chia là đổi u cuối động từ thành e rồi thêm ば. Nói cách khác, với động từ godan thì đổi u → e, còn với động từ ichidan thì thêm れ sau gốc.
 
 <pre>
 見<b>れば</b>死ぬ
-<b>If</b> you look you'll die.
+<b>Nếu</b> nhìn vào thì sẽ chết.
 
 お前を殺せ<b>ば</b>、すべてが終わる。
-<b>If</b> I kill you, everything will end.
+<b>Nếu</b> tôi giết anh, mọi thứ sẽ kết thúc.
 </pre>
 
-ば implies that the condition is sufficient for the result to come to happen. It's a true logical "if". This can even be used for certain requests, like "If you're late, just call and I'll handle everything". However, ば doesn't imply that the condition will eventually happen, so it can't be used in things like "When you come around, come see me". In narration, it can sometimes mean "X happened, and then Y", but this non-conditional usage is fairly limited and not as common outside of literary works. 
+ば hàm ý rằng điều kiện đó là đủ để kết quả xảy ra. Đây là kiểu “nếu” mang tính logic. Nó cũng có thể dùng trong một số lời yêu cầu, như “Nếu anh đến muộn thì gọi cho tôi, tôi sẽ xử lý.” Tuy nhiên, ば không hàm ý rằng điều kiện chắc chắn sẽ xảy ra, nên không dùng cho kiểu “Khi anh tới thì ghé thăm tôi nhé.” Trong văn kể chuyện, đôi khi ば có thể mang nghĩa “X xảy ra, rồi Y xảy ra”, nhưng cách dùng này khá hạn chế và thường thấy trong văn chương.
 
-For the ば conditional of the copula だ, we need to "expand" it into である and conjugate that instead.
+Với động từ nối だ, để tạo dạng ば ta cần “mở rộng” thành である rồi chia từ đó.
 
 <pre>
 普通の人<b>であれば</b>、その命令に逆らうことはできないだろう
-If he were a normal person, he surely would not be able to go against that order.
+Nếu là người bình thường, chắc chắn anh ta không thể chống lại mệnh lệnh đó.
 </pre>
 
-For い adjectives we turn the い into ければ:
+Với tính từ い, ta đổi い thành ければ:
 
 <pre>
 良<b>ければ</b>教えてください。
-If that is okay (with you), please teach me.
+Nếu được thì xin hãy chỉ cho tôi.
 </pre>
 
-たら is another conditional that in some usages is similar to ば. Unlike ば, however, it has a broader scope and nuance of sequential series of actions. It can be used to connect two events in either a purely hypothetical or strictly temporal sequence. It can be "If A happens, then B" but also "As A happened, B happened right after". To more easily make out this distinction, it's common for phrases in the hypothetical sense to use もし as an opening word to clue in the listener.
+たら là một dạng điều kiện khác, trong nhiều trường hợp giống với ば. Tuy nhiên, たら có phạm vi rộng hơn và mang sắc thái “chuỗi hành động nối tiếp”. Nó có thể dùng cho cả tình huống giả định lẫn trình tự thời gian thực tế. Nghĩa có thể là “Nếu A xảy ra thì B”, nhưng cũng có thể là “Vừa A xảy ra thì B xảy ra”. Để phân biệt khi dùng theo nghĩa giả định, người ta thường thêm もし ở đầu câu.
 
 <pre>
 <b>もし</b>敵がい<b>たら</b>私が斬り捨てます
-<b>In the event that</b> there are enemies, I will cut them down (hypothetical)
+<b>Nếu như</b> có kẻ địch, tôi sẽ chém chúng.
 
 朝起き<b>たら、</b>食堂には誰もいなかった。
-<b>As I</b> woke up in the morning, there was no one in the cafeteria.
+<b>Vừa</b> thức dậy vào buổi sáng thì trong căng-tin không có ai.
 </pre>
 
-The "as" usage of たら is common when recounting past "one off” events that happened to you, often unexpectedly.
+Cách dùng たら với nghĩa “vừa … thì …” thường gặp khi kể lại những sự việc đơn lẻ trong quá khứ, đặc biệt là những việc bất ngờ.
 
-たら and ば in the hypothetical sense can often be interchangeable. There's even regional variation where people from one area of Japan might prefer one or the other and vice versa. This is why you shouldn't ask questions like "why did this person use たら instead of ば?" Just accept it.
+Trong nghĩa giả định, たら và ば thường có thể thay thế cho nhau. Thậm chí còn có khác biệt vùng miền: nơi này thích dùng たら, nơi khác lại thích dùng ば. Vì vậy, đừng tự hỏi kiểu “tại sao người này dùng たら mà không dùng ば?”. Hãy đơn giản chấp nhận.
 
-There is another special usage of たら, usually directly after names, in the form of ったら. This ったら has a completely different meaning and just acts as a particle that marks an exclamation of exasperation. It is not a conditional.
+Còn một cách dùng đặc biệt khác của たら, thường xuất hiện ngay sau tên người, dưới dạng ったら. Dạng ったら này hoàn toàn không phải điều kiện, mà là một trợ từ biểu thị sự than phiền hoặc bực bội.
 
 <pre>
 もう、お父さん<b>ったら</b>、しっかりしなさい！
-Come on, dad, get your shit together!
+Trời ơi bố ơi, bố làm cho ra hồn đi!
 </pre>
 
-と is used to link two events where one is a natural consequence of the other, in a strongly sequential way. This is similar to the temporal ordering of たら but rather than marking individual occurrences of events ("I did X and then...") it gets used to describe general events that happen every time ("Once you do X, then...").
+と dùng để nối hai sự việc mà cái sau là hệ quả tự nhiên của cái trước, theo thứ tự rất rõ ràng. Nó giống たら ở khía cạnh trình tự thời gian, nhưng thay vì nói về một lần xảy ra cụ thể, nó thường dùng cho những tình huống mang tính chung chung, lặp lại (“Hễ làm X thì sẽ Y”).
 
 <pre>
 あんまり食べる<b>と</b>太りますよ
-<b>If</b> you eat too much, you'll get fat
+<b>Nếu</b> ăn quá nhiều thì sẽ béo đấy.
 </pre>
 
-This と is also commonly used in narration to describe a series of events that happen one after the other. In this usage, it makes it sound like the reader has no control over the events and they are just a spectator to a show where these events happen "naturally" in front of them.
+と cũng hay dùng trong văn kể chuyện để mô tả chuỗi sự kiện xảy ra liên tiếp. Cách dùng này tạo cảm giác người kể chỉ là người quan sát, các sự việc cứ “tự nhiên” diễn ra trước mắt.
 
 <pre>
 少し歩く<b>と</b>、開けた場所に出た。
-<b>After</b> walking for a while, they came to an open area.
+<b>Sau khi</b> đi một lúc, họ ra đến một chỗ trống trải.
 </pre>
 
-The last conditional for this lesson is なら. なら is a strictly hypothetical conditional. It implies that the condition is assumed true in the hypothetical world where the statement takes place.
-This means that when you say X なら Y, the meaning is close to something like "If we consider the case that X is true, then Y", but it doesn't sound as verbose as it does in English. It's a very common way to phrase things.
+Dạng điều kiện cuối cùng là なら. なら là dạng giả định thuần túy. Nó giả định rằng điều kiện là đúng trong “thế giới giả định” của câu nói. Nghĩa gần với “Nếu xét trường hợp X là đúng thì Y”, nhưng tự nhiên hơn nhiều trong tiếng Nhật.
 
 <pre>
 行きたい<b>なら</b>一緒に行こう
-<b>If it's the case that</b> you want to go, let's go together
+<b>Nếu</b> bạn muốn đi, thì đi cùng nhau nhé.
 </pre>
 
-Due to this specific nuance of なら, it is the only conditional where the second clause can happen before the preceding one. と, たら, and ば cannot do this.
+Do sắc thái đặc biệt này, なら là dạng duy nhất mà mệnh đề sau có thể xảy ra trước mệnh đề điều kiện. と, たら và ば thì không làm được vậy.
 
 <pre>
 運転する<b>なら</b>飲まないで
-<b>If</b> you <b>will be</b> driving, do not drink.
+<b>Nếu</b> bạn <b>sẽ</b> lái xe thì đừng uống rượu.
 </pre>
 
-The act of 飲む would have to happen before the condition of 運転する, hence the speaker **assumes** 運転する will happen in the hypothetical world where the advice (飲まないで) takes place.
+Hành động 飲む (uống) thực tế xảy ra trước hành động 運転する (lái xe), nên người nói **giả định** rằng việc lái xe sẽ xảy ra trong thế giới giả định nơi lời khuyên (đừng uống) được đưa ra.
 
-Sometimes なら can show up as ならば. The meaning is the same, but it feels more literary.
+Đôi khi なら xuất hiện dưới dạng ならば. Nghĩa giống nhau, nhưng mang hơi hướng văn chương hơn.
 
-With verbs and い adjectives, の can sometimes be placed between the verb and なら. This can give some additional nuance (similar to the explanatory の in のだ) but you don't have to remember this. Just remember that the version with の can sound more literary and formal.
+Với động từ và tính từ い, đôi khi có thể chèn の giữa động từ và なら. Điều này tạo thêm sắc thái (tương tự の giải thích trong のだ), nhưng bạn không cần phải ghi nhớ. Chỉ cần biết rằng dạng có の nghe trang trọng và văn vẻ hơn.
 
 <pre>
 そんなに知りたい<b>のなら</b>、教えてあげましょう。
-<b>Since</b> you want to know so badly, I shall tell you.
+<b>Vì</b> bạn muốn biết đến vậy, tôi sẽ nói cho bạn.
 
 そんなに知りたい<b>なら</b>教えてやる。
-<b>Since</b> you want to know so badly, I'll tell you
+<b>Vì</b> bạn muốn biết đến vậy, tôi sẽ nói cho bạn.
 </pre>
+

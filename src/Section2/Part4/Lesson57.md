@@ -1,25 +1,27 @@
-# Auxiliaries of regret and peace of mind with てしまう and ておく
 
-てしまう indicates that something is "complete" or "done completely". It's also used when things "end up" in such a "complete" state, like after mistakes. A good way to remember this is to think about "it's done" and "now I've done it". It can often have a nuance of regret.
+# Trợ động từ diễn tả hối tiếc và sự yên tâm với てしまう và ておく
 
-てしまう can also be ちまう or ちゃう in speech (or じゃう for voiced verb conjugations like 死んでしまう \-\> 死んじゃう). 
+てしまう diễn tả rằng một việc gì đó đã được “làm xong” hoặc “hoàn tất hoàn toàn”. Nó cũng được dùng khi mọi thứ “rốt cuộc trở thành như vậy”, đặc biệt sau những sai lầm. Một cách dễ nhớ là nghĩ đến ý “xong rồi” hoặc “thế là lỡ làm rồi”. Vì vậy, てしまう thường mang sắc thái hối tiếc.
+
+Trong hội thoại, てしまう thường được rút gọn thành ちまう hoặc ちゃう (và じゃう đối với động từ có âm đục, ví dụ: 死んでしまう → 死んじゃう).
 
 <pre>
 私はあっという間に全部食べ<b>てしまった</b>。
-I <b>ended up</b> eating all of it in the blink of an eye.
+Tôi <b>lỡ</b> ăn hết tất cả chỉ trong chớp mắt.
 
 私は死ん<b>でしまった</b>みたいです。  
-It looks like I died (lit: <b>ended up</b> dead)
+Có vẻ như tôi đã chết rồi (nghĩa sát: <b>rốt cuộc thành</b> chết)
 </pre>
 
-Once something is done with てしまう, the implication is that it cannot be taken back.
+Khi dùng てしまう, thường ngầm hiểu rằng hành động đó đã xảy ra và không thể đảo ngược lại được.
 
-ておく means to do something and then leave it untouched/leave it alone with the expectation that it will bear fruit in the future. This is often described as "do something in preparation" because practically speaking that's what it often implies. It can also be used metaphorically to mean "do something and then put it out of mind". ておく is often contracted as とく
+ておく có nghĩa là làm một việc gì đó rồi để nguyên như vậy, với kỳ vọng rằng sau này nó sẽ có ích. Thường được hiểu là “làm trước để chuẩn bị”. Ngoài ra, nó cũng có thể mang nghĩa ẩn dụ là “làm xong rồi để đó, không bận tâm nữa”. Trong văn nói, ておく thường được rút gọn thành とく.
 
 <pre>
 まず最初に言っ<b>ておき</b>たいことがある。
-First, there is something I need to tell you.
+Trước hết, có một chuyện tôi muốn nói trước.
 
 俺はただ知って<b>おきたい</b>だけなのだ。
-It's just that I simply want to know it (= for my own peace of mind)
+Tôi chỉ đơn giản là muốn biết thôi (để yên tâm).
 </pre>
+

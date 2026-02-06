@@ -1,58 +1,65 @@
-# Getting more with も and と
 
-も is an inclusion marker. You can think of it like "too" or "also". Sometimes "even".
+# Mở rộng với も và と
 
-も is a particle that, similar to は, goes together with other already-existing particles. When も is used to mark something that would be normally marked by が or を, the particle is dropped and only も is left. With other particles, you just attach も after the original particle.
+も là trợ từ mang nghĩa “bao gồm”. Có thể hiểu gần giống như “cũng”, “nữa”, đôi khi là “thậm chí”.
+
+も là một trợ từ, và giống như は, nó kết hợp với các trợ từ khác đã tồn tại. Khi も dùng để đánh dấu thành phần vốn dĩ sẽ được đánh dấu bằng が hoặc を, thì が hoặc を sẽ bị lược bỏ và chỉ còn lại も. Với các trợ từ khác, bạn chỉ cần gắn も sau trợ từ đó.
 
 <pre>
 私<b>も</b>行く
-I'll go, <b>too</b> (in addition to other people)
+Tôi <b>cũng</b> đi (ngoài những người khác)
 
 魚<b>も</b>食べたい
-I want to <b>also</b> eat fish (in addition to something else)
+Tôi <b>cũng</b> muốn ăn cá (ngoài những thứ khác)
 
 学校<b>にも</b>行く
-I <b>also</b> go to school (I go to other places too, but also school)
+Tôi <b>cũng</b> đi đến trường (ngoài những nơi khác, tôi còn đi trường nữa)
 </pre>
 
 <div class="warning">
-While も usually "hides" を, you might come across をも as well. It's a bit uncommon and not worth thinking about, just don't be surprised when you see it. You can think of it as a more emphatic version.
+Mặc dù も thường “che” を, đôi khi bạn vẫn có thể gặp をも. Cách này hơi hiếm và không cần bận tâm nhiều, chỉ cần biết là nó tồn tại. Có thể xem nó như một dạng nhấn mạnh hơn.
 </div>
 
-も can be used with negative statements. Normally, it includes the given noun in the set of things that the negative statement is true for, but sometimes it does weird things because negation changes how logical inclusion/exclusion works. 
+も cũng có thể dùng trong câu phủ định. Thông thường, nó bao gồm danh từ đó vào nhóm các đối tượng mà câu phủ định áp dụng. Tuy nhiên, với câu phủ định, đôi khi cách hiểu về “bao gồm/loại trừ” có thể trở nên hơi khó nắm.
 
 <pre>
 僕<b>も</b>食べない
-I won't eat, <b>either</b>. (in addition to other people)
+Tôi <b>cũng</b> không ăn. (giống như những người khác)
 </pre>
 
-The particle と is also used to provide some "inclusion", but it works very differently from も. It may look similar at an English translation level, but don't be fooled. They are nothing alike. 
+Trợ từ と cũng có thể mang ý nghĩa “bao gồm”, nhưng cách hoạt động hoàn toàn khác với も. Tuy trong tiếng Anh có thể dịch tương tự, nhưng đừng nhầm lẫn hai cái này.
 
-と normally makes a list of things.
+と thường dùng để liệt kê.
 
 <pre>
 ジム<b>と</b>メアリーは来ない
-Jim <b>and</b> Mary won't come.
+Jim <b>và</b> Mary sẽ không đến.
 </pre>
 
-と can also be used to mark someone the subject does an action "with". Do not confuse this with で which might seem similar: the distinction is that と is usually used for people (who you do something with), while で is used for tools and things (what you do something with). 
+と cũng dùng để chỉ người mà chủ thể làm hành động cùng. Đừng nhầm với で: と thường dùng cho người (làm cùng ai), còn で thường dùng cho công cụ hoặc phương tiện (làm bằng cái gì).
 
 <pre>
 私はヤン<b>と</b>勉強する
-I study <b>with</b> Yan.
+Tôi học <b>cùng</b> Yan.
 
 ペン<b>で</b>書く
-To write <b>with</b> a pen (lit: "by pen")
+Viết <b>bằng</b> bút
 </pre>
 
-Sometimes で and と may seem interchangeable, but the nuance is a bit different. Compare the following:
+Đôi khi と và で có vẻ dùng thay thế cho nhau, nhưng sắc thái hơi khác. So sánh:
 
 <pre>
 みんな<b>と</b>遊ぶ
-To play <b>with</b> everyone
+Chơi <b>với</b> mọi người
 
 みんな<b>で</b>遊ぶ
-To play <b>(together) with</b> everyone
+Chơi <b>cùng nhau</b> với mọi người
 </pre>
 
-In English, the translation is effectively the same, but と in the first sentence implies the subject is playing **with** everyone as an additional group of people (so it's subject \+ everyone else). In the second sentence, however, the subject is part of the group, and they are playing **as** everyone together ("everyone" includes the subject). It's a very subtle nuance but it's good to be aware of it.   
+Trong tiếng Việt (và tiếng Anh), hai câu này gần như giống nhau, nhưng:
+
+- Câu với と: chủ thể chơi **với** mọi người như một người riêng biệt (chủ thể + nhóm mọi người).
+- Câu với で: chủ thể là một phần của “mọi người”, và tất cả cùng chơi với nhau như một nhóm.
+
+Sự khác biệt này khá tinh tế, nhưng đáng để ghi nhớ.
+

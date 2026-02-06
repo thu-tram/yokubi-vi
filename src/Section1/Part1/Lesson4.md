@@ -1,34 +1,36 @@
-# Verbs
 
-Japanese has both regular and irregular verbs (動詞). However, unlike English and its plethora of irregular verb conjugations ("read" \-\> "read", "speak" \-\> "spoke", etc), the majority of Japanese verbs are regular and follow a very strict set of pattern rules.
+# Động từ
 
-Japanese has two main categories of regular verbs: ichidan (一段) and godan (五段) and they conjugate differently. Ichidan means "one row" and godan means "five rows". This terminology is important to understand how they conjugate. The "rows" refer to the kana syllabary table (五十音図), but you don't need to memorize this.
+Tiếng Nhật có cả động từ thường và động từ bất quy tắc (動詞). Tuy nhiên, khác với tiếng Anh — nơi có rất nhiều dạng chia bất quy tắc như (“read” → “read”, “speak” → “spoke”, v.v.) — thì phần lớn động từ tiếng Nhật là động từ có quy tắc và tuân theo những mẫu chia rất chặt chẽ.
 
-Here's an example, using a ます (polite) form that we'll learn properly in [Lesson 17](./Lesson17.md). Don't bother memorizing this list.
+Tiếng Nhật có hai nhóm động từ có quy tắc chính: ichidan (一段) và godan (五段), và chúng được chia theo những cách khác nhau. Ichidan nghĩa là “một hàng”, còn godan nghĩa là “năm hàng”. Cách gọi này liên quan đến cách chúng biến đổi âm khi chia. “Hàng” ở đây ám chỉ bảng chữ cái kana (五十音図), nhưng bạn không cần ghi nhớ bảng đó ở thời điểm này.
+
+Dưới đây là một số ví dụ, sử dụng dạng ます (lịch sự) mà chúng ta sẽ học kỹ hơn trong [Lesson 17](./Lesson17.md). Bạn không cần cố ghi nhớ danh sách này.
 
 <pre>
-見<b>る</b>／見ます, ichidan verb.
-切<b>る</b>／切<b>り</b>ます, godan verb, ending in る.
-買<b>う</b>／買<b>い</b>ます, godan verb, ending in う.
-死<b>ぬ</b>／死<b>に</b>ます, godan verb, ending in ぬ.
+見<b>る</b>／見ます, động từ ichidan.  
+切<b>る</b>／切<b>り</b>ます, động từ godan, kết thúc bằng る.  
+買<b>う</b>／買<b>い</b>ます, động từ godan, kết thúc bằng う.  
+死<b>ぬ</b>／死<b>に</b>ます, động từ godan, kết thúc bằng ぬ.  
 </pre>
 
-Ichidan verbs always end in る, and just drop the る when they conjugate. The stuff leading up to that る is the verb's basic identity, and isn't changed. You can call it the "stem" of the verb. The verb itself, aside from the conjugation, has only "one form".
+Động từ ichidan luôn kết thúc bằng る, và khi chia thì chỉ cần bỏ る đi. Phần đứng trước る chính là phần “gốc” của động từ và không thay đổi. Bạn có thể gọi nó là “thân động từ”. Bản thân động từ, ngoài phần chia, về cơ bản chỉ có “một hình dạng”.
 
-Godan verbs can end in one of several syllables, not just る. In the dictionary form, this syllable always ends in a u-sounding vowel, and different conjugations can change it to any of the other four vowels. This means that it can have any of five different vowels at the end. In other words, "five forms" or stems.
+Động từ godan có thể kết thúc bằng nhiều âm tiết khác nhau, không chỉ riêng る. Ở dạng từ điển, âm tiết cuối cùng của chúng luôn có nguyên âm “u”, và khi chia, nguyên âm này có thể biến đổi thành một trong bốn nguyên âm còn lại. Vì vậy, về mặt lý thuyết, chúng có năm khả năng biến đổi ở cuối — tương ứng với “năm hàng”.
 
-Godan verbs in the dictionary form can end in one of several different syllables, but it always ends in the (romaji) vowel "u". The following example verbs are all godan. 
+Các động từ godan ở dạng từ điển có thể kết thúc bằng nhiều âm khác nhau, nhưng tất cả đều kết thúc bằng nguyên âm “u” (theo cách đọc romaji). Những động từ sau đây đều là godan:
 
 <pre>
 切る	殺す	死ぬ	選ぶ	読む	買う	動く	急ぐ	持つ
 </pre>
 
-Ichidan verbs always end in る
+Động từ ichidan thì luôn kết thúc bằng る:
 
 <pre>
 食べる	負ける	変える
 </pre>
 
-Japanese verb conjugation likes to pile words together, and you end up with long strings of verbs like 見られたくなかった. In future lessons, we start learning the logic behind these long piles of conjugations. It will become easier and easier to break them down the longer you get exposed to the language so don't worry about it.
+Trong tiếng Nhật, việc chia động từ thường “xếp chồng” nhiều yếu tố lên nhau, khiến bạn có thể gặp những chuỗi động từ rất dài như 見られたくなかった. Ở các bài sau, chúng ta sẽ học dần logic phía sau việc ghép nhiều dạng chia như vậy. Khi bạn tiếp xúc với tiếng Nhật nhiều hơn, việc tách và hiểu những chuỗi dài này sẽ ngày càng dễ.
 
-This lesson is just establishing the basics needed to understand what we're going to look at in later lessons.
+Bài học này chỉ nhằm đặt nền tảng cơ bản để bạn có thể hiểu những nội dung sẽ được đề cập trong các bài tiếp theo.
+

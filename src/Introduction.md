@@ -1,19 +1,15 @@
 ![logo](images/logo.svg)
 
-Welcome to **Yokubi**!
+Hướng dẫn tự học ngữ pháp **Yokubi**.
 
-The **Common** Grammar Guide.
-
-*Dedicated to all those who learn, want to learn, and **will** learn.* 
+*Dành cho tất cả những ai đang học, muốn học, và **sẽ** học.*
 
 <div class="warning">
-This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
+Hướng dẫn này là phiên bản được viết và sắp xếp lại hoàn toàn của <a href="https://sakubi.neocities.org/">hướng dẫn ngữ pháp Sakubi</a>. Việc viết lại toàn bộ <b>vẫn chưa hoàn thành</b>, nhưng phần nội dung chính và hệ thống bài hướng dẫn đã xong.
 </div>
 
-Yokubi is an **open** and **community-maintained** project. We accept all kinds of helpful contributions. 
+Yokubi là một dự án **mã nguồn mở**.
 
-You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) for feedback, comments, reviews, or just to chat. 
+ [github](https://github.com/Morgawr/yokubi) và gửi issue hoặc pull request.
 
-If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
-
-**DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.
+Bạn nên (**cần**) đọc trang [Trước khi bắt đầu](./Before-you-begin.md) và [Preamble](./Preamble.md) để hiểu cách sử dụng hướng dẫn này.

@@ -1,32 +1,34 @@
-# More negatives with なくて, ないで, ず and ずに
 
-We briefly discussed the difference between なくて and ないで in [Lesson 11](../../Section1/Part1/Lesson11.md). Let's dig a bit deeper into it.
+# Phủ định nâng cao với なくて, ないで, ず và ずに
 
-When we make a verb or い adjective into the なくて form, this behaves like a usual て conjunctive form ("do X, and…"). It is common in this usage to imply some cause \-\> effect sequence ("I didn't do X, and that is why Y happened") although not strictly required. 
+Chúng ta đã nói sơ qua về sự khác nhau giữa なくて và ないで trong [Bài 11](../../Section1/Part1/Lesson11.md). Bây giờ hãy đi sâu hơn một chút.
+
+Khi biến động từ hoặc tính từ い sang dạng なくて, nó hoạt động giống như dạng nối て thông thường (“làm X, rồi…”). Trong cách dùng này, thường ngầm hiểu quan hệ nguyên nhân → kết quả (“Tôi không làm X, vì thế Y xảy ra”), dù không phải lúc nào cũng bắt buộc.
 
 <pre>
 お役に立て<b>なくて</b>すみません。  
-I am sorry I <b>was not</b> helpful (lit. "I was not helpful <b>and so</b> I am sorry")
+Tôi xin lỗi vì <b>không</b> giúp được gì. (nghĩa sát: “Tôi không giúp được gì <b>nên</b> xin lỗi”)
 </pre>
 
-We can also make the negative with ないで instead, however in contrast with なくて, this usage often implies a manner or state in which the following action is being done. You can think of the statement before ないで to become an "adverb" to the statement after it.
+Ta cũng có thể tạo dạng phủ định bằng ないで, nhưng khác với なくて, cách dùng này thường nhấn mạnh trạng thái hoặc cách thức mà hành động phía sau được thực hiện. Có thể hiểu mệnh đề trước ないで đóng vai trò như một “trạng từ” bổ nghĩa cho mệnh đề sau.
 
 <pre>
 もしかして、食べ<b>ないで</b>待っていたのか
-Perhaps… did you wait <b>without eating</b>?
+Có phải… bạn đã đợi <b>mà không ăn gì</b> không?
 
 ノックもし<b>ないで</b>部屋に入る。
-To enter the room <b>without even knocking</b>.
+Vào phòng <b>mà không thèm gõ cửa</b>.
 </pre>
 
-There is another way we can use なくて and ないで, and that is using the verb forms 〜ず and 〜ずに. ず is an archaic conjugation of the negative auxiliary verb ぬ, but you don't really need to know this. Just remember that 〜ず is almost a 1:1 replacement to なくて (or in some cases なく), and 〜ずに is a replacement of ないで. In **some** cases, 〜ず alone (without に) can also be used as ないで (Yay, Japanese!).
+Ngoài ra còn một cách khác để dùng tương tự なくて và ないで, đó là các dạng 〜ず và 〜ずに. ず là một dạng chia cổ của trợ động từ phủ định ぬ, nhưng bạn không cần phải nhớ chi tiết này. Chỉ cần nhớ rằng 〜ず gần như có thể thay thế trực tiếp cho なくて (hoặc trong một số trường hợp là なく), và 〜ずに tương đương với ないで. Trong **một số** trường hợp, 〜ず (không có に) cũng có thể mang nghĩa giống ないで.
 
 <pre>
 お役に立て<b>ず</b>、申し訳ございません。
-I am sorry I <b>was not</b> helpful
+Tôi xin lỗi vì <b>không</b> giúp được gì.
 
 何も食べ<b>ずに</b>眠ってしまった。
-He fell asleep <b>without</b> eating anything
+Anh ấy đã ngủ thiếp đi <b>mà không ăn gì</b>.
 </pre>
 
-ず and ずに are more formal and stiff-sounding than their なくて and ないで counterparts and are mostly used in literary stuff. However you will still hear plenty of ずに in spoken language too and they show up a lot in common phrases and expressions.
+ず và ずに mang sắc thái trang trọng và cứng hơn so với なくて và ないで, và thường xuất hiện trong văn viết hoặc văn phong mang tính văn học. Tuy vậy, bạn vẫn sẽ nghe thấy ずに khá nhiều trong hội thoại, và chúng xuất hiện rất thường xuyên trong các cụm từ, cách nói cố định.
+

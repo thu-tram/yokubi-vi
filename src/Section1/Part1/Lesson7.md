@@ -1,19 +1,19 @@
-# Negated verbs
+# Động từ dạng phủ định
 
-When you want to turn an ichidan verb into a negative verb, you just cut off the る at the end of the simple tense and add ない.
+Khi bạn muốn biến một động từ ichidan sang dạng phủ định, bạn chỉ cần bỏ る ở cuối dạng thường và thêm ない.
 
-For godan verbs, you turn the ending "u" sound into an "a" sound, with one exception.
+Đối với động từ godan, bạn đổi nguyên âm “u” ở cuối thành nguyên âm “a”, rồi thêm ない, với một ngoại lệ.
 
-These examples are for illustration. You should not memorize them, just understand them for now and move on.
+Các ví dụ dưới đây chỉ để minh họa. Bạn không cần ghi nhớ, chỉ cần hiểu cách hoạt động và tiếp tục học.
 
-Ichidan: Drop る, add ない
+Ichidan: Bỏ る, thêm ない
 
 | Plain | Negative |
 |-------|----------|
 |見る   | 見ない   | 
 |食べる | 食べない |
 
-Godan: Replace "u" with "a", then add ない
+Godan: Đổi "u" thành "a", rồi thêm ない
 
 | Plain | Negative |
 |-------|----------|
@@ -22,4 +22,4 @@ Godan: Replace "u" with "a", then add ない
 |書**く** | 書**か**ない| 
 |買**う** | 買**わ**ない| 
 
-For godan verbs ending in う, the negative uses わない, not あない. This is that one exception mentioned earlier.
+Với động từ godan kết thúc bằng う, dạng phủ định dùng わない, chứ không phải あない. Đây chính là ngoại lệ duy nhất đã được nhắc tới ở trên.

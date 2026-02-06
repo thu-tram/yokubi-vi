@@ -1,75 +1,77 @@
-# Quotes with と, って, and という
 
-There are two basic types of relative clause. The first is the kind that modifies a noun, which we already learned in [Lesson 14](../../Section1/Part1/Lesson14.md). The second is an embedded clause, often called a "quote", like the underlined part of "He said that <ins>the war would end soon</ins>".
+# Trích dẫn với と, って, và という
 
-って and と, called quotation markers, often assume the role of marking such embedded clauses.
+Có hai loại mệnh đề quan hệ cơ bản. Loại thứ nhất là mệnh đề bổ nghĩa cho danh từ, chúng ta đã học ở [Lesson 14](../../Section1/Part1/Lesson14.md). Loại thứ hai là mệnh đề được lồng vào trong câu, thường gọi là “mệnh đề trích dẫn”, giống như phần được gạch chân trong câu: “He said that <ins>the war would end soon</ins>.”
+
+って và と, được gọi là trợ từ đánh dấu trích dẫn, thường dùng để đánh dấu những mệnh đề kiểu này.
 
 <pre>
 いい<b>と</b>思う 
-I think it's fine.
+Tôi nghĩ là ổn.
 
 見える<b>と</b>聞いた
-I heard that it's visible.
+Tôi nghe nói là có thể nhìn thấy.
 
 怖くない<b>と</b>言った
-I said I'm not scared
+Tôi nói là tôi không sợ.
 </pre>
 
-In English we distinguish between direct and indirect quotes through punctuation. For example:
+Trong tiếng Anh, người ta phân biệt trích dẫn trực tiếp và gián tiếp bằng dấu câu. Ví dụ:
 
 <pre>
-"I will eat the cake," he said. (direct quote)  
-He said he would eat the cake. (indirect quote)
+"I will eat the cake," he said. (trích dẫn trực tiếp)  
+He said he would eat the cake. (trích dẫn gián tiếp)
 </pre>
 
-The same concept does not apply to Japanese where the distinction between a direct and indirect quote is more blurry. While quotation markers (like 「　」) exist and can help identify direct quotes, they aren't required and you will see both direct and indirect quote show up "freely" in text just marked by a simple って or と. 
+Trong tiếng Nhật, ranh giới giữa trích dẫn trực tiếp và gián tiếp mờ hơn. Tuy có dấu ngoặc trích dẫn (như 「　」) để chỉ lời nói trực tiếp, nhưng không bắt buộc phải dùng. Bạn sẽ thường thấy cả hai kiểu trích dẫn xuất hiện “tự do”, chỉ được đánh dấu bằng って hoặc と.
 
-The embedded clause inside quotes needs to be a "complete" statement, so if the quote ends with a な-adjective or noun, it needs to end with だ. There are some exceptions and usages that may drop this rule, but in the majority of situations you need to make sure だ is there or the sentence will sound wrong. 
+Mệnh đề nằm trong phần trích dẫn phải là một câu “hoàn chỉnh”. Vì vậy, nếu câu kết thúc bằng danh từ hoặc tính từ な, thì cần kết thúc bằng だ. Có một số ngoại lệ, nhưng trong đa số trường hợp, nếu thiếu だ thì câu sẽ nghe không tự nhiên.
 
 <pre>
 優しい人<b>だと</b>思う  
-I think he's a kind person
+Tôi nghĩ anh ấy là người tốt bụng.
 </pre>
 
-When it comes to quotes, って is essentially a colloquial version of と.
+Trong ngữ cảnh trích dẫn, って về cơ bản là dạng khẩu ngữ của と.
 
 <pre>
 ダメ<b>だって</b>言ったでしょ！
-I said no, didn't I?
+Tôi đã nói là không được rồi mà!
 
 何<b>だって</b>？
-What did you say?
+Bạn nói gì cơ?
 </pre>
 
-As you can see from the second example, the verb ("said", "thought", etc) can be often dropped if it's obvious from context and tone.
+Như ví dụ thứ hai cho thấy, động từ như “nói”, “nghĩ”, “nghe”, v.v. thường có thể bị lược bỏ nếu đã rõ qua ngữ cảnh và ngữ điệu.
 
-In some usages って can also take the role of topic, similar to は. In these cases it's not really a quote. It's just an alternative topic marker.
+Trong một số cách dùng, って còn có thể đóng vai trò đánh dấu chủ đề, tương tự は. Khi đó, nó không còn là trích dẫn nữa, mà chỉ là một cách đánh dấu chủ đề thay thế.
 
 <pre>
 田中さん<b>って</b>いい人だね   
-Tanaka-san is a good person 
+Anh Tanaka là người tốt nhỉ.
 </pre>
 
-The construction という (often slurred as っていう or even っつう) is so commonly used that it has acquired additional meanings on top of its literal "I/they said". 
+Cấu trúc という (thường được nói chệch thành っていう hoặc thậm chí っつう) được dùng nhiều đến mức nó có thêm nhiều ý nghĩa vượt ra ngoài nghĩa gốc “(ai đó) nói rằng”.
 
-It can be used to "glue" together pieces of sentences in a manner that makes them flow better and feel less awkward. It is hard to provide a comprehensive explanation for all these cases, but you will see it often enough that it's better to acquire a "feel" for it via exposure instead. Sometimes the という does not add any meaning at all, so don't try to put it into English if you can't.
+Nó có thể dùng để “kết dính” các phần của câu lại với nhau, khiến câu trôi chảy và bớt gượng gạo hơn. Rất khó giải thích đầy đủ mọi trường hợp sử dụng, nên cách tốt nhất là làm quen thông qua việc tiếp xúc nhiều. Đôi khi という hầu như không thêm ý nghĩa gì, vì vậy đừng cố gắng dịch nó sang tiếng Việt trong mọi trường hợp.
 
-It can be used to provide a definition or describe a quality. This usage is similar to である but has a slightly different nuance.
+Nó có thể dùng để đưa ra định nghĩa hoặc mô tả đặc điểm, tương tự である nhưng sắc thái hơi khác.
 
 <pre>
 研究者という人間  
-The people that are (identified as) researchers  
+Những con người được gọi là nhà nghiên cứu  
 
 研究者である人間  
-The people that are researchers
+Những con người là nhà nghiên cứu
 </pre>
 
-It can also be used to provide emphasis by repetition in some set expressions:
+Nó cũng có thể dùng để nhấn mạnh bằng cách lặp lại trong một số cách nói cố định:
 
 <pre>
 今日という今日
-(On) this very day
+Chính ngày hôm nay
 
 木という木
-Every single tree
+Từng cái cây một / mọi cây
 </pre>
+

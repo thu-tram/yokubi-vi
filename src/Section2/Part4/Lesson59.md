@@ -1,32 +1,34 @@
-# The colloquial usages of だって
 
-Beyond the simple quote usage of (だ)って there are two more. One of them is an extension of the quote one, but the other is historically unrelated. 
+# Cách dùng khẩu ngữ của だって
 
-The exclamatory だって appears in front of a sentence and is used like an adversative interjection similar to a casual しかし or as an explanation/logical continuation from the previous sentence.
+Ngoài cách dùng trích dẫn đơn giản của (だ)って, còn có hai cách dùng khác. Một trong số đó là sự mở rộng từ cách dùng trích dẫn, nhưng cách còn lại thì về mặt lịch sử không liên quan.
+
+だって dùng như một tiếng cảm thán thường đứng ở đầu câu và được sử dụng giống như một liên từ đối lập, tương tự しかし trong văn nói, hoặc để đưa ra lời giải thích / tiếp nối logic từ câu trước.
 
 <pre>
 「早く宿題しなさい！」
 「<b>だって</b>、つかれてるんだもん」
-"Hurry up and do your homework!"
-"<b>But</b> I'm tired…"
+"Mau làm bài tập đi!"
+"<b>Nhưng</b> con mệt mà…"
 
 <b>だって</b>おかしいじゃないですか。
-<b>I mean,</b> don't you find it weird?
+<b>Tôi thấy là,</b> chẳng phải nó kỳ lạ sao?
 </pre>
 
-The other だって is a more casual version of も/でも when used after nouns in the meaning of "even". 
+Cách dùng だって còn lại là một phiên bản thân mật hơn của も / でも khi gắn sau danh từ với nghĩa là “ngay cả”.
 
 <pre>
 そんなことは俺<b>だって</b>分かっている。
-<b>Even</b> I understand that
+<b>Ngay cả</b> tôi cũng hiểu chuyện đó.
 </pre>
 
-This だって can also replace the ても conjugation of verbs and adjectives in the form of たって. It sounds very casual.
+だって trong cách dùng này cũng có thể thay cho dạng ても của động từ và tính từ, dưới dạng たって. Cách nói này mang tính rất khẩu ngữ.
 
 <pre>
 どんなものを食べ<b>たって</b>問題ないな
-No matter what kind of thing I eat, there's no problem.
+Dù ăn thứ gì đi nữa thì cũng không có vấn đề.
 
 別に強くなく<b>たって</b>いい。
-It's okay <b>even</b> if you're not strong.
+<b>Ngay cả khi</b> không mạnh thì cũng không sao.
 </pre>
+

@@ -1,54 +1,55 @@
-# The causative form
 
-せる is a "causative" helper verb form. It means the action of making or letting someone do something. Yes, it's used for both **forcing** people and **allowing** people.
+# Thể sai khiến (Causative form)
 
-For godan verbs, せる attaches to the negative stem. For ichidan verbs, さ is inserted between せる and the stem:
+せる là một dạng trợ động từ mang nghĩa "sai khiến". Nó diễn tả hành động khiến ai đó làm gì, hoặc cho phép ai đó làm gì. Đúng vậy, nó được dùng cho cả hai trường hợp: **bắt buộc** và **cho phép**.
+
+Với động từ nhóm godan, せる gắn vào gốc phủ định. Với động từ nhóm ichidan, thêm さ vào giữa gốc và せる:
 
 <pre>
 終わら<b>せる</b>
-To make (something) end
+Làm cho (việc gì đó) kết thúc
 
 死な<b>せる</b>
-To let (someone) die
+Để cho (ai đó) chết
 
 食べ<b>させる</b>
-To make (someone) eat
+Bắt / cho (ai đó) ăn
 </pre>
 
 <div class="warning">
-Reality check: there are exceptions and short/colloquial forms (書かせる -> 書かす). You don't need to worry about them too much but be aware they exist. 
+Lưu ý thực tế: có những ngoại lệ và dạng rút gọn/thân mật (書かせる → 書かす). Bạn không cần quá lo lắng về chúng, chỉ cần biết là chúng tồn tại.
 </div>
 
-When we use a verb in causative form, the causer/agent (= the one that does the "forcing" or "allowing") is usually marked by は or が. The causee/target (= the one that is "forced" or "allowed") can be either marked with に or を. The choice between these two particles depends on the verb being used.
+Khi dùng động từ ở dạng sai khiến, người ra lệnh hoặc cho phép (tác nhân) thường được đánh dấu bằng は hoặc が. Người bị sai khiến / được cho phép (đối tượng) có thể được đánh dấu bằng に hoặc を. Việc chọn trợ từ nào phụ thuộc vào loại động từ.
 
-When we use に, the interpretation of the causative is that of "allow" rather than "force". On the other hand, when we use を, it could be either of them. 
+Khi dùng に, cách hiểu thường nghiêng về nghĩa "cho phép" hơn là "bắt buộc". Ngược lại, khi dùng を, có thể hiểu theo cả hai hướng.
 
-With intransitive verbs, the target can be marked by を, but with transitive ones the target can only be marked by に. In this type of usage, with transitive verbs, it is sometimes hard to tell if the sentence means "to allow" or "to force".
+Với động từ nội động từ, đối tượng có thể đi với を. Nhưng với động từ ngoại động từ, đối tượng chỉ có thể đi với に. Trong trường hợp này, đôi khi khá khó xác định câu mang nghĩa "cho phép" hay "bắt buộc".
 
 <pre>
 子供<b>を</b>外で遊<b>ばせる</b>。
-To let the kids play outside.
+Cho bọn trẻ chơi ở ngoài.
 
 子供<b>に</b>飲<b>ませる</b>酒はない。
-I won't make/let a child drink alcohol. (lit. "There is no alcohol that I would let/make children drink")
+Tôi không cho / không bắt trẻ con uống rượu. (nghĩa đen: Không có loại rượu nào mà tôi sẽ cho/bắt trẻ con uống)
 </pre>
 
-The causative form can also be chained with the passive (せる \-\> せられる).
+Dạng sai khiến cũng có thể kết hợp với dạng bị động (せる → せられる).
 
 <pre>
 書く to write
-書かせる to make (someone) write
-書かせられる to be made to write (by someone)
+書かせる bắt (ai đó) viết
+書かせられる bị bắt viết (bởi ai đó)
 </pre>
 
-Causative-passive sentences cannot assume the meaning of "to be allowed" but only "to be forced". 
+Câu ở dạng sai khiến-bị động không mang nghĩa "được cho phép", mà chỉ mang nghĩa "bị ép buộc".
 
-When used with する verbs, the causative form can turn a する verb that is commonly used intransitively into having an explicitly transitive meaning (する -> させる).
+Khi dùng với các động từ する, dạng sai khiến có thể biến một động từ する vốn thường dùng như nội động từ thành một động từ mang nghĩa ngoại động từ rõ ràng hơn (する → させる).
 
 <pre>
 空気が乾燥<b>している</b>。
-The air is (being) dry. (intransitive)
+Không khí đang khô. (nội động từ)
 
 果物を乾燥<b>させた</b>お菓子。
-A candy made of fruit that was dried. (transitive)
+Kẹo làm từ trái cây đã được sấy khô. (ngoại động từ)
 </pre>

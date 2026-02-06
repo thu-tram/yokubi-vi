@@ -1,49 +1,51 @@
-# Time references with 後, 前, 先, and 時
 
-後 is a noun that means "after". X後で is a conjunction saying that something happens after X, although not necessarily immediately. 
+# Tham chiếu thời gian với 後, 前, 先, và 時
+
+後 là một danh từ mang nghĩa “sau.” Mẫu X後で là một liên từ cho biết một việc xảy ra sau X, nhưng không nhất thiết là ngay lập tức.
 
 <pre>
 昨日は夕食を食べた<b>あとで</b>、すぐに部屋に戻った。
-Yesterday, <b>after</b> eating dinner, we went back to our rooms.
+Hôm qua, <b>sau khi</b> ăn tối xong, chúng tôi quay về phòng ngay.
 </pre>
 
-前 is the opposite of 後 and means "before". 前 can both mean before in the spatial sense (i.e. in front of you) and in the time sense (i.e. the past). This is unintuitive because of the notion of "putting the past behind you", but if you think about a line of people waiting, the ones *in front* of you will take their turn *before* you. So when it is your turn, theirs will have been *in the past*.
+前 là đối nghĩa của 後 và có nghĩa là “trước.” 前 có thể mang nghĩa “trước” theo không gian (ở phía trước) và cũng có thể mang nghĩa “trước” theo thời gian (trong quá khứ). Điều này có thể hơi khó hình dung nếu bạn quen với cách nghĩ “để quá khứ ở phía sau,” nhưng hãy tưởng tượng một hàng người đang xếp hàng: những người đứng *phía trước* bạn sẽ tới lượt *trước* bạn. Khi đến lượt bạn, lượt của họ đã thuộc về *quá khứ*.
 
-The conjunction X前に means something happens before X does, not necessarily immediately. If X is a verb, it **cannot** be in past form. 
+Liên từ X前に có nghĩa là một việc xảy ra trước X, không nhất thiết là ngay trước đó. Nếu X là một động từ thì **không được** dùng ở dạng quá khứ.
 
 <pre>
 考える<b>前に</b>、体が動いていた。
-My body moved <b>before</b> thinking.
+Cơ thể tôi đã cử động <b>trước khi</b> kịp suy nghĩ.
 </pre>
 
-前 and 先 are almost synonyms.
+前 và 先 gần như đồng nghĩa với nhau.
 
-先 is a noun meaning "before", "ahead", or "front part/end". Generally, when 先 is spatial, it means the front ("tip") of something, or the direction it's headed, not the location immediately in front of it.
+先 là một danh từ mang nghĩa “trước,” “phía trước,” hoặc “phần đầu.” Khi dùng theo nghĩa không gian, 先 thường chỉ phần đầu mút hoặc hướng mà một vật đang hướng tới, chứ không phải vị trí ngay sát phía trước.
 
 <pre>
 目線の<b>先に</b>は、少女がいた。
-A girl was <b>before</b> my eyes. (lit. "ahead of my line of sight")
+Có một cô bé ở <b>phía trước</b> tầm nhìn của tôi. (nghĩa đen: “ở phía trước ánh mắt”)
 </pre>
 
-Just like 前, it can mean "before" in time too.
+Tương tự như 前, 先 cũng có thể mang nghĩa “trước” về mặt thời gian.
 
 <pre>
 それは<b>先に</b>言った。
-I said that <b>before</b>.
+Tôi đã nói điều đó <b>trước rồi</b>.
 </pre>
 
-さっき is a casual version of 先 that is exclusively used to mean a "moment ago".
+さっき là dạng nói thân mật của 先, và chỉ dùng với nghĩa “mới lúc nãy,” “vừa rồi.”
 
-時 is a noun that means "time", but if you give it a relative clause, it can act like a conjunction ("when" or "at the time of").
+時 là một danh từ mang nghĩa “thời gian,” nhưng khi đi kèm với một mệnh đề bổ nghĩa, nó hoạt động như một liên từ (“khi,” “vào lúc”).
 
 <pre>
 そんなことを考えている<b>時、</b>宿屋の入り口で大声が聞こえた。  
-<b>As</b> I was thinking about that, I heard a loud voice around the entrance of the inn.
+<b>Khi</b> tôi đang nghĩ về những điều đó, tôi nghe thấy một tiếng lớn ở lối vào quán trọ.
 </pre>
 
-Verb + 時 behaves differently depending on the tense of the verbs that come in the statement before and after it. There are various rules but in general if the verb before 時 is in past tense, it means that the action after 時 happens as the action before it has already been completed. Don't try to memorize these rules though, just learn to recognize them as you go.
+Cấu trúc Động từ + 時 thay đổi sắc thái tùy theo thì của động từ đứng trước và sau 時. Có khá nhiều quy tắc, nhưng nhìn chung, nếu động từ trước 時 ở dạng quá khứ, thì hành động sau 時 xảy ra sau khi hành động trước đó đã hoàn thành. Bạn không cần ghi nhớ máy móc các quy tắc này, mà hãy dần nhận biết chúng qua thực tế sử dụng.
 
 <pre>
 目が覚め<b>た時</b>、俺は知らない場所にいた。
-<b>When</b> I woke up, I found myself in an unknown place.
+<b>Khi</b> tôi tỉnh dậy, tôi thấy mình đang ở một nơi xa lạ.
 </pre>
+

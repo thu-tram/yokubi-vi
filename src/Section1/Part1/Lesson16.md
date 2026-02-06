@@ -1,54 +1,73 @@
-# Irregular and する verbs
 
-Now that we've covered the most common verb stems, we can cover the irregular verbs. Japanese only has two major irregular verbs, but they're very common. Their conjugations are completely irregular. Note that there are some other exceptions and corner cases in some other verbs (we've already seen 問うた), but these two are completely different and live in an entire class of their own.
+# Động từ bất quy tắc và động từ する
+
+Bây giờ chúng ta đã học qua các loại thân (stem) động từ phổ biến, nên có thể nói đến các động từ bất quy tắc. Tiếng Nhật chỉ có hai động từ bất quy tắc chính, nhưng chúng lại xuất hiện rất thường xuyên. Cách chia của chúng hoàn toàn không theo quy tắc. Lưu ý rằng cũng có một số ngoại lệ và trường hợp đặc biệt ở các động từ khác (chúng ta đã thấy 問うた trước đó), nhưng hai động từ này khác hẳn và tạo thành một nhóm riêng.
 
 <pre>
-する
-to do
+する  
+to do  
+làm
 
-来る
-to come
+来る  
+to come  
+đến
 </pre>
 
-Their conjugations are as such  
+Các dạng chia của chúng như sau:
 
 <pre>
-する		to do
-した		did
-しない		to not do
-せよ or しろ	do!
+する		to do  
+làm  
+した		did  
+đã làm  
+しない		to not do  
+không làm  
+せよ or しろ	do!  
+làm đi!
 
-くる		to come
-きた		came
-こない		to not come
-こい		come!
+くる		to come  
+đến  
+きた		came  
+đã đến  
+こない		to not come  
+không đến  
+こい		come!  
+đến đây!
 </pre>
 
-With する, we can introduce a new class of verbs: the する verbs. In Japanese you can turn a lot of nouns into verbs by simply adding する after them. This is not allowed with all nouns, but a large part of words will show up in the dictionary as "する verb" too. This is especially common between two-kanji words that originate from Chinese. 
+Từ する, ta có thể giới thiệu một lớp động từ mới: động từ する. Trong tiếng Nhật, bạn có thể biến rất nhiều danh từ thành động từ chỉ bằng cách thêm する vào sau. Không phải danh từ nào cũng làm được, nhưng một lượng lớn từ vựng sẽ xuất hiện trong từ điển dưới dạng “する verb”. Điều này đặc biệt phổ biến với các từ gồm hai chữ Hán có nguồn gốc từ tiếng Trung.
 
 <pre>
-料理
-cuisine
+料理  
+cuisine  
+ẩm thực / món ăn
 
-料理<b>する</b> 
-to cook (lit: "to do cuisine")
+料理<b>する</b>  
+to cook (lit: "to do cuisine")  
+nấu ăn (nghĩa đen: “làm ẩm thực”)
 </pre>
 
-They mostly mean the same as their non-verb construction, but grammatically the noun becomes for all intents and purposes a real verb.
+Về nghĩa, chúng thường gần giống với dạng danh từ gốc, nhưng về mặt ngữ pháp, khi gắn する vào thì danh từ đó trở thành một động từ thực thụ.
 
-Consider these sentences
+Xem các câu sau:
 
 <pre>
-日本語を<b>勉強する</b>
-to study Japanese
+日本語を<b>勉強する</b>  
+to study Japanese  
+học tiếng Nhật
 
-日本語の勉強を<b>する</b>
-to study Japanese (lit: "to do the study of Japanese")
+日本語の勉強を<b>する</b>  
+to study Japanese (lit: "to do the study of Japanese")  
+làm việc học tiếng Nhật
 
 *日本語を勉強をする  
-(ungrammatical nonsense)
+(ungrammatical nonsense)  
+(vô nghĩa, sai ngữ pháp)
 </pre>
 
-The first treats 勉強 as a verb, and 日本語を as its object. The second considers 勉強 a noun (modified by 日本語) and it is the object of the individual verb する. The third sentence is ungrammatical, because it tries to force two disconnected objects and simply doesn't work.
+Ở câu đầu, 勉強 được xem là một động từ, và 日本語を là tân ngữ của nó.  
+Ở câu thứ hai, 勉強 được xem là một danh từ (được bổ nghĩa bởi 日本語), và toàn bộ cụm 日本語の勉強 là tân ngữ của động từ する.  
+Câu thứ ba sai vì cố gắng gắn hai tân ngữ rời rạc vào cùng một cấu trúc.
 
-While we can translate the first and second sentences in two slightly different ways to accentuate the difference between 勉強する and 勉強をする, realistically the meaning is pretty much the same.
+Mặc dù có thể dịch hai câu đầu hơi khác nhau để nhấn mạnh sự khác biệt giữa 勉強する và 勉強をする, trên thực tế ý nghĩa của chúng gần như giống nhau.
+

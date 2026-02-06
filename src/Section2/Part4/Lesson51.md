@@ -1,34 +1,37 @@
-# Thinking and feeling with と思う and と考える
 
-The verbs 思う and 考える are both commonly translated as "to think". However, while 考える relates to a more methodical/analytical type of thinking, 思う focuses more on the (sometimes involuntary) feeling of thoughts that kinda float in someone's mind. You can think of 考える as "consider" or "evaluate", although not always as serious.
+# Suy nghĩ và cảm nhận với と思う và と考える
 
-We already saw the と particle used to quote thoughts in [Lesson 30](../Part3/Lesson30.md). Review that lesson if you forgot it. 考える works in the same way.
+Hai động từ 思う và 考える đều thường được dịch là "nghĩ". Tuy nhiên, 考える liên quan đến kiểu suy nghĩ có tính phân tích, cân nhắc, hoặc suy luận có hệ thống, còn 思う thì thiên về cảm giác, ý nghĩ nảy ra một cách tự nhiên trong đầu (đôi khi không chủ ý). Bạn có thể hình dung 考える giống với "xem xét", "cân nhắc", "đánh giá", dù không phải lúc nào cũng mang sắc thái nghiêm trọng.
+
+Chúng ta đã từng thấy trợ từ と dùng để trích dẫn suy nghĩ trong [Lesson 30](../Part3/Lesson30.md). Nếu bạn quên, hãy xem lại bài đó. 考える cũng sử dụng と theo cách tương tự.
 
 <pre>
 何かトラブルがあった<b>と考える</b>のが普通だろう。
-I guess it is normal to <b>consider</b> that some trouble might have happened.
+Chắc là bình thường khi <b>cho rằng</b> đã có chuyện rắc rối gì đó xảy ra.
 </pre>
 
-Focusing back on と思う, the basic usage is that of a simple thought or feeling.  It normally means that the **speaker** thinks something.
+Quay lại với と思う, cách dùng cơ bản của nó là diễn tả một suy nghĩ hoặc cảm nhận đơn giản. Thông thường, nó mang nghĩa là **người nói** đang nghĩ như vậy.
 
 <pre>
 来た<b>と思った</b> 
-<b>I thought</b> he came.
+<b>Tôi nghĩ</b> là anh ấy đã đến.
 </pre>
 
-This thinking is often natural and unplanned. 
+Kiểu suy nghĩ này thường mang tính tự nhiên và không được lên kế hoạch trước.
 
-A quirk of the verb 思う is that when we talk about **other people**, the verb is usually in ている form instead. In this usage, it can imply there is some reason for us to assume something about someone else's thoughts (maybe they voiced their opinion out loud).
+Một điểm đặc biệt của động từ 思う là khi nói về **suy nghĩ của người khác**, động từ thường được dùng ở dạng ている. Trong cách dùng này, nó hàm ý rằng người nói có lý do để cho rằng người kia nghĩ như vậy (ví dụ: họ đã nói ra ý kiến của mình).
 
 <pre>
 彼は本気でそれが正しい<b>と思っている</b>のだ。
-He genuinely <b>thought</b> that was right.
+Anh ấy thực sự <b>nghĩ</b> rằng điều đó là đúng.
 </pre>
 
-Lastly, when と思う is used with a volitional phrase, it means that the speaker is considering doing something.
-In this usage, it is similar to たい, but it is more concrete and focused on actual relatively short-term planned actions rather than a state of desire.
+Cuối cùng, khi と思う đi kèm với dạng ý chí (volitional form), nó mang nghĩa là người nói đang cân nhắc hoặc dự định làm một việc gì đó.  
+
+Trong cách dùng này, nó gần với たい, nhưng cụ thể và thực tế hơn, thường hướng tới những hành động có kế hoạch trong tương lai gần, thay vì chỉ là trạng thái mong muốn.
 
 <pre>
 食べ<b>ようと思う</b>
-I think I will eat
+Tôi nghĩ là mình sẽ ăn.
 </pre>
+

@@ -1,58 +1,60 @@
-# Generic nouns and nominalization with 事, 物, ところ, and の
 
-事(こと) and 物(もの) both mean "thing". 事 is generally used for intangible things like actions or states, and 物 is generally used for tangible things like objects. Grammatically, they are nouns, so just like any other noun they can be modified by verbs and adjectives.
+# Danh từ chung và danh hóa với 事, 物, ところ và の
+
+事(こと) và 物(もの) đều có nghĩa là “thứ / cái”. 事 thường dùng cho những thứ trừu tượng như hành động hay trạng thái, còn 物 thường dùng cho những thứ hữu hình như đồ vật. Về mặt ngữ pháp, cả hai đều là danh từ, nên giống như các danh từ khác, chúng có thể được bổ nghĩa bởi động từ và tính từ.
 
 <pre>
 あ、いい<b>こと</b>考えた
-Ah, I just thought about something good
+À, mình vừa nghĩ ra một <b>ý hay</b>
 
 美味しい<b>もの</b>が食べたい
-I want to eat something tasty
+Mình muốn ăn một <b>món ngon</b>
 </pre>
 
-所(ところ) is a word that means "place". It is used in similar patterns, including ones about intangible places like moments in time or progress, and aspects of an entity. It is often contracted to とこ. 
+所(ところ) là từ có nghĩa là “nơi chốn”. Nó được dùng trong các mẫu tương tự, bao gồm cả những “nơi chốn” trừu tượng như thời điểm, giai đoạn, hoặc một khía cạnh nào đó của sự vật. Nó thường được rút gọn thành とこ.
 
 <pre>
 ちょうどいい<b>ところ</b>に来ました。
-You came just at the right moment. (moment = "place" in time)
+Bạn đến đúng <b>lúc</b> rồi. (thời điểm = “nơi chốn” trong thời gian)
 
 やれる<b>とこ</b>までやってみよう。
-Let's keep going as far as we can (lit. let's try to do it for as long as we are able to do it)
+Hãy thử làm đến mức có thể làm được.
 
 こういう<b>ところ</b>が彼女のいい<b>ところ</b>だ。
-This aspect of her is what is good (about her)
+Những điểm như thế này chính là điểm tốt của cô ấy.
 </pre>
 
-All three of these generic nouns can turn entire phrases into nouns. This lets Japanese use phrases like things without using embedded clauses. This is basically a special simplified case of the relative clauses we learned about in [Lesson 14](../../Section1/Part1/Lesson14.md). 
+Cả ba danh từ chung này đều có thể biến cả một cụm từ thành danh từ. Nhờ vậy, tiếng Nhật có thể dùng cả cụm câu như một “vật thể” mà không cần dùng mệnh đề lồng phức tạp. Đây về cơ bản là một dạng đơn giản hóa của mệnh đề quan hệ đã học trong [Lesson 14](../../Section1/Part1/Lesson14.md).
 
-These generic nouns are the base of common phrases and expressions like the following:
+Những danh từ chung này là nền tảng cho nhiều cụm từ và cách nói quen thuộc như:
 
 <pre>
 無理をしなければ、死ぬ<b>こと</b>はないだろう。
-As long as you don't overdo it, there's no way you will die. 
+Chỉ cần bạn không cố quá sức thì sẽ không chết đâu.
 </pre>
 
-死ぬことはない is literally somehing like 'there is no “will die” event/moment'.
+死ぬことはない có thể hiểu sát nghĩa là “không tồn tại việc / khả năng ‘chết’”.
 
-Another one is \<verb\>たことがある which literally means something like "the action of having done \<verb\> exists" and it means "to have done \<verb\> before":
+Một mẫu khác là \<động từ\>たことがある, nghĩa đen là “việc đã từng làm \<động từ\> tồn tại”, và mang nghĩa “đã từng làm \<động từ\> trước đây”:
 
 <pre>
 それはどこかで聞い<b>たことがある</b>。
-I <b>have</b> heard of that <b>before</b> somewhere.
+Tôi <b>đã từng</b> nghe chuyện đó ở đâu đó rồi.
 </pre>
 
-こと in particular is often used to nominalize verbs. We do a similar thing in English with the ‘ing' construction: "To play soccer" is an action, but "the act of play**ing** soccer" is a(n abstract) thing.
+Riêng こと rất hay được dùng để danh hóa động từ. Trong tiếng Anh cũng có hiện tượng tương tự với dạng “-ing”: “To play soccer” là một hành động, còn “the act of play**ing** soccer” là một “thứ” trừu tượng.
 
-In Japanese we can also use の to achieve a similar result. There are some instances where こと and の cannot replace each other, but for the most part their usage is very similar when nominalizing actions.
+Trong tiếng Nhật, ta cũng có thể dùng の để đạt hiệu quả tương tự. Có một số trường hợp こと và の không thể thay thế cho nhau, nhưng phần lớn khi danh hóa hành động thì cách dùng của chúng khá giống nhau.
 
 <pre>
 私は歌を歌う<b>の</b>が好き
-I like sing<b>ing</b> songs
+Tôi thích <b>hát</b> các bài hát.
 </pre>
 
-の can also be used as a generic noun to replace a more specific word when what we are talking about can be inferred from context. This works with both adjectives and verbs.
+の cũng có thể được dùng như một danh từ chung để thay thế cho một danh từ cụ thể hơn, khi nội dung có thể suy ra từ ngữ cảnh. Cách này dùng được với cả tính từ và động từ.
 
 <pre>
 赤い<b>の</b>はいいよ
-The red <b>one</b> is okay.
+<b>Cái màu đỏ</b> thì được.
 </pre>
+

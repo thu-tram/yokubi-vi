@@ -1,5 +1,5 @@
-# Part 1: Getting Started
+# Phần 1: Bắt đầu
 
-Everyone has to start somewhere. If you're not a kid, it's a lot easier to get started if you compare it to what you already know. Let's do that for a while. It's not as good as reading actual Japanese, but it will help a lot.
+Ai cũng phải bắt đầu từ đâu đó. Nếu bạn không còn là trẻ con, việc bắt đầu sẽ dễ hơn nếu bạn so sánh với những gì mình đã biết. Chúng ta sẽ làm như vậy trong một thời gian. Cách này không tốt bằng việc đọc tiếng Nhật thật sự, nhưng nó sẽ giúp ích rất nhiều.
 
-*(This guide assumes you know the kana, you're learning vocabulary on your own, and you have a mouseover dictionary like Yomitan. If you don't, **[go fix that](https://yomitan.wiki)**.)*
+*(Hướng dẫn này giả định rằng bạn đã biết kana, đang tự học từ vựng, và có một từ điển tra nhanh kiểu di chuột như Yomitan. Nếu chưa có, **[hãy đi cài ngay](https://yomitan.wiki)**.)*

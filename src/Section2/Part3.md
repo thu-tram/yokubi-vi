@@ -1,5 +1,5 @@
-# Part 3: Growing Our Sentences
+# Phần 3: Mở rộng câu
 
-A sentence is like a little garden, full of beautiful flowers. We want pretty flowers, full of colors and beauty. Or some of you might want to grow tomatoes too. 
+Một câu giống như một khu vườn nhỏ, đầy những bông hoa đẹp. Chúng ta muốn có những bông hoa xinh xắn, nhiều màu sắc. Hoặc một số bạn có thể muốn trồng cả cà chua nữa.
 
-The point is, we need to venture further and start spicing up our sentences. Curate this beautiful Japanese garden.
+Ý chính là, chúng ta cần tiến xa hơn và bắt đầu làm cho câu văn phong phú hơn. Hãy chăm sóc khu vườn tiếng Nhật xinh đẹp này.

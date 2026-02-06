@@ -1,36 +1,37 @@
-# Questions with の and explanatory のだ
 
-Another question particle similar to か is の. Questions asked with の carry a connotation that is quite different from that of those asked with か. We will explain the nuance implication later, let's focus on the structure first.
+# Câu hỏi với の và のだ mang tính giải thích
 
-To ask questions with の, in casual form you just add の at the end of verbs and い-adjectives, and なの after nouns and な-adjectives (without だ). The question mark is optional.
+Một trợ từ dùng để hỏi khác tương tự か là の. Những câu hỏi dùng の mang sắc thái khác với câu hỏi dùng か. Phần sắc thái này sẽ được giải thích sau, trước hết hãy tập trung vào cấu trúc.
+
+Để đặt câu hỏi với の ở dạng thân mật, bạn chỉ cần thêm の vào cuối động từ và tính từ い, và thêm なの sau danh từ hoặc な-adjective (không dùng だ). Dấu hỏi có thể có hoặc không.
 
 |                 |                  |
 |-----------------|------------------|
 | 学生(だ)        | 学生なの？       |
-| He is a student | Is he a student? |
+| Anh ấy là sinh viên | Anh ấy là sinh viên à? |
 
 <br />
 
 |              |               |
 |--------------|---------------|
 | 普通(だ)     | 普通なの？    |
-| It is normal | Is it normal? |
+| Bình thường  | Bình thường à? |
 
 <br />
 
 |            |             |
 |------------|-------------|
 | 寒い       | 寒いの？    |
-| It is cold | Is it cold? |
+| Trời lạnh  | Lạnh à? |
 
 <br />
 
 |            |                |
 |------------|----------------|
 | 魚を食べる | 魚を食べるの？ |
-| I eat fish | You eat fish?  |
+| Tôi ăn cá  | Bạn ăn cá à?  |
 
-In polite form, we just add ですか after the の, even if it's a verb sentence. This is commonly slurred in speech as んですか instead of のですか
+Ở dạng lịch sự, chỉ cần thêm ですか sau の, kể cả với câu có động từ. Trong hội thoại, のですか thường được nói trại thành んですか.
 
 | Casual         | Polite               |
 |----------------|----------------------|
@@ -39,25 +40,25 @@ In polite form, we just add ですか after the の, even if it's a verb sentenc
 | 寒いの？       | 寒いんですか？       |
 | 魚を食べるの？ | 魚を食べるんですか？ |
 
-の can also be used to end statements, rather than questions. In this usage, the intonation should make it clear it's not a question, but also the structure is slightly different.
+の cũng có thể dùng để kết thúc câu trần thuật, không phải câu hỏi. Trong trường hợp này, ngữ điệu sẽ cho biết đó không phải là câu hỏi, và cấu trúc cũng hơi khác một chút.
 
-To make の statements, in casual Japanese, you apply the same rule as for の questions, but instead end with のだ (or んだ):
+Để tạo câu trần thuật với の trong văn nói thân mật, áp dụng cùng quy tắc như câu hỏi, nhưng kết thúc bằng のだ (hoặc んだ):
 
 <pre>
 学生なんだ
-It is a student
+Là sinh viên đó
 
 普通なんだ
-It is normal
+Bình thường mà
 
 寒いんだ
-It is cold
+Lạnh đó
 
 魚を食べるんだ
-I eat fish
+Tôi ăn cá
 </pre>
 
-And in polite form it's the same as with のですか questions, just get rid of the か after です.
+Ở dạng lịch sự, giống với câu hỏi のですか, chỉ cần bỏ か:
 
 <pre>
 学生なんです
@@ -69,86 +70,87 @@ And in polite form it's the same as with のですか questions, just get rid of
 魚を食べるんです
 </pre>
 
-Ending statements with だ can sound stark and often people tend to soften the tone adding よ or ね after んだ in casual statements. We'll see よ and ね sentence ending particles in a later section.
+Kết thúc câu bằng だ có thể nghe hơi cứng, nên trong văn nói thân mật người ta thường thêm よ hoặc ね sau んだ để làm mềm câu. よ và ね sẽ được học ở phần sau.
 
-You can also end の statements with の directly, without だ, but it comes across as feminine so be careful.
+Bạn cũng có thể kết thúc câu bằng の trực tiếp, không dùng だ, nhưng cách này thường mang sắc thái nữ tính, nên cần cẩn thận khi dùng.
 
-Let's talk now about the nuance these の questions and statements give.
+Bây giờ hãy nói về sắc thái mà の trong câu hỏi và のだ trong câu trần thuật mang lại.
 
-At a surface level, both の questions and のだ statements look similar to normal questions and statements without の(だ), but the presence of this の(だ) adds some kind of "explanatory" or "inquisitive" tone to them.
+Ở bề mặt, cả câu hỏi với の và câu trần thuật với のだ trông giống câu bình thường không có の(だ), nhưng sự xuất hiện của の(だ) thêm vào một cảm giác “giải thích” hoặc “hỏi cho rõ”.
 
-When you ask a question with の？ or んですか？ you are adding some implication that you expect the other person to provide an explanation, excuse, or reasoning for what you are asking them. You usually ask such questions when you are seeking clarification about something.
+Khi bạn hỏi bằng の？ hoặc んですか？, bạn ngầm mong người kia sẽ đưa ra lời giải thích, lý do hoặc bối cảnh cho điều bạn đang hỏi. Thường dùng khi bạn muốn làm rõ một điều gì đó.
 
 <pre>
 メアリーさんは学生なんですか？
-Is it that Mary is a student?
+Có phải Mary là sinh viên không vậy?
 </pre>
 
-You may ask this when you come to the conclusion that Mary might be a student due to circumstantial evidence that might have transpired from a conversation you were having but you aren't certain about. You are seeking some confirmation.
+Bạn có thể hỏi câu này khi, qua cuộc trò chuyện, bạn đoán Mary có thể là sinh viên nhưng chưa chắc chắn, và bạn muốn xác nhận.
 
 <pre>
 猫が好きなんですか？
-Is it so that you like cats?
+Có phải bạn thích mèo không vậy?
 </pre>
 
-You may ask this as you see someone playing happily with cats and are seeking some confirmation.
+Bạn có thể hỏi khi thấy ai đó đang chơi với mèo rất vui và muốn xác nhận suy đoán của mình.
 
-To make it even clearer, let's compare these two sentences
+So sánh hai câu sau:
 
 <pre>
 何をしてる？
-What are you doing?
+Bạn đang làm gì?
 
 何をしてるの？
-What are you <i>doing</i>?
+Bạn đang <i>làm cái gì</i> vậy?
 </pre>
 
-Note: the "doing" in the second sentence is stressed in italics to indicate tone in English.
+Trong câu thứ hai, “làm gì” được nhấn mạnh để thể hiện ngữ điệu.
 
-You can imagine the first to be used when asking your friend over the phone what they are up to, just cause you're curious and are looking for a topic of conversation. However, the second one sounds more inquisitive, maybe even aggressive, and you can imagine using it if you see someone breaking into your car as you catch him red-handed. Like "Dude, wtf are you doing?" You are expecting, even demanding, some explanation.
+Câu đầu có thể dùng khi gọi điện hỏi bạn mình đang làm gì, chỉ vì tò mò. Câu thứ hai nghe mang tính tra hỏi hơn, thậm chí hơi gay gắt, ví dụ khi bạn bắt gặp ai đó đang đột nhập vào xe của bạn: “Này, anh đang làm cái gì vậy?” Bạn đang mong, thậm chí yêu cầu, một lời giải thích.
 
-In a similar way, when we make statements with an explanatory nuance, we use んだ. Just like questions with の？ are seeking clarification, statements with んだ are providing an explanation or additional information that the speaker wants to make known to the listener.
+Tương tự như vậy, khi dùng んだ trong câu trần thuật, người nói đang đưa ra một lời giải thích hoặc bổ sung thông tin mà họ muốn người nghe biết.
 
-There are a few usages that are common with んだ but we won't go over all of them here as it is a very nuanced topic that is hard to explain and beyond the scope of a beginner guide. You will see them used a lot through immersion and exposure. Just be aware of this basic difference:
+Có khá nhiều cách dùng khác nhau của んだ, nhưng đây là chủ đề phức tạp và vượt quá phạm vi cho người mới học. Bạn sẽ dần quen qua việc tiếp xúc. Trước mắt, hãy ghi nhớ sự khác biệt cơ bản sau:
 
 <pre>
 私は日本人です
-I am Japanese
+Tôi là người Nhật
 
 私は日本人なんです
-Actually, I am Japanese (You didn't know this, but I am Japanese)
+Thực ra tôi là người Nhật (bạn chưa biết, nên tôi nói cho bạn biết)
 </pre>
 
-The former sounds like a simple statement, matter of fact. You are stating something about yourself. The latter, on the other hand, sounds like you are explaining something or trying to clarify a situation. Its specific meaning depends on the context, however the nuance that comes across is that you feel like you need to provide an explanation or clarification by stating that fact.
+Câu đầu chỉ là một lời khẳng định đơn thuần. Câu sau mang cảm giác người nói đang giải thích hoặc làm rõ điều gì đó, tùy theo ngữ cảnh.
 
 <pre>
 世の中にはいろんなことがある<b>んだ</b>
-There are all kinds of things in this world (I'm telling you)
+Trên đời có đủ thứ chuyện đó (tôi đang nói cho bạn biết)
 
 それからのことはよく覚えていない<b>んだ</b>
-I don't remember well what happened after that (I'm providing an excuse about myself)
+Tôi không nhớ rõ chuyện sau đó (đưa ra lý do/giải thích cho bản thân)
 
 そんなことはどうでもいい<b>んだ</b>よ
-I'm telling you I don't care about that (Additional emphasis with explanatory tone)
+Tôi nói rồi, mấy chuyện đó không quan trọng đâu (nhấn mạnh kèm sắc thái giải thích)
 </pre>
 
-A specific usage of んだ that is worth pointing out is that it is often used in situations where the speaker realizes some new information. This is often used in past tense to highlight the transitioning from the state of "not knowing" to the state of "knowing".
+Một cách dùng đáng chú ý của んだ là khi người nói nhận ra thông tin mới. Thường dùng ở quá khứ để nhấn mạnh việc chuyển từ “không biết” sang “biết”.
 
 <pre>
 へー、学生<b>だったんだ</b>
-Oh, so it was a student.
+À, ra là sinh viên à.
 
 ああ、そういうこと<b>だったんだ</b>
-Ahh, so that's how it is (lit. "Ahh, it was that kind of thing")
+À, ra là vậy.
 </pre>
 
-It can also be used as some kind of set phrase to tell the listener that you are following the conversation.
+Ngoài ra, nó cũng được dùng như một câu cố định để cho người nghe biết bạn đang theo kịp cuộc trò chuyện.
 
 <pre>
 ふーん、そう<b>なんだ</b>
-Ohh, I see.
+Ừm, ra vậy.
 </pre>
 
-It is common to answer questions asked with の with statements that end in のだ. 
+Thông thường, khi ai đó hỏi bằng の, câu trả lời cũng hay kết thúc bằng のだ.
 
-Note: Sometimes you may see の questions that end with のだ instead, often with a ？ at the end and the tone will make it clear it's a question. There is no big difference from a normal の question but it sounds stronger and potentially more aggressive: 何してるんだ？！
+Lưu ý: Đôi khi bạn sẽ thấy câu hỏi với の kết thúc bằng のだ (thường kèm dấu ?), và ngữ điệu sẽ cho biết đó là câu hỏi. Nó không khác nhiều so với câu hỏi の thông thường, nhưng nghe mạnh và có thể hơi hung hăng hơn: 何してるんだ？！ 
+

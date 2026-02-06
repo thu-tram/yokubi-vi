@@ -1,21 +1,21 @@
-# Preamble
+# Lời nói đầu
 
-This guide will cover most of the grammar needed to understand basic japanese. It's not going to go into too much detail, and it won't cover much vocabulary. If you are reading this in a browser, install a dictionary lookup extension like [Yomitan](https://yomitan.wiki/) so you can easily look up the words in the example sentences. Some words are basically grammar, though, so they will come up in specific lessons. 
+Hướng dẫn này sẽ bao phủ phần lớn ngữ pháp cần thiết để hiểu tiếng Nhật cơ bản. Nó sẽ không đi quá sâu vào chi tiết, và cũng không dạy nhiều từ vựng. Nếu bạn đang đọc bằng trình duyệt, hãy cài một tiện ích tra từ như [Yomitan](https://yomitan.wiki/) để có thể tra nhanh các từ xuất hiện trong câu ví dụ. Tuy vậy, có một số từ về bản chất gần như là ngữ pháp, nên chúng sẽ được giới thiệu trong các bài học cụ thể.
 
-There are no exercises:
+Sẽ không có bài tập:
 
-- Skill building, as in reading a grammar explanation and answering questions about it, doesn't work when it comes to learning a new language.  
-- A lot of people are poisoned by modern education and will basically fry their brains if there's anything to "work" on.  
-- Grammar guides are a terrible place to learn vocabulary.
+- Việc “luyện kỹ năng” theo kiểu đọc giải thích ngữ pháp rồi trả lời câu hỏi không hiệu quả khi học một ngôn ngữ mới.  
+- Nhiều người đã quen với kiểu giáo dục hiện đại và sẽ nhanh chóng mất động lực nếu có quá nhiều thứ phải “làm bài”.  
+- Hướng dẫn ngữ pháp là nơi rất tệ để học từ vựng.
 
-If you want to pass a Japanese proficiency test, like the JLPT, this guide isn't targeted at you. You will likely be fine if you use it, because achieving Japanese proficiency is all that is needed to pass such tests, but it will likely betray your expectations in the short term. The topics in this guide are not sorted by JLPT difficulty and if your goal is to pass early levels in a short amount of time, you might be better off using JLPT-specific resources instead.
+Nếu mục tiêu của bạn là thi các kỳ kiểm tra năng lực tiếng Nhật như JLPT, thì hướng dẫn này không được thiết kế riêng cho bạn. Bạn vẫn có thể dùng nó và sẽ ổn, vì đạt được năng lực tiếng Nhật thực sự cũng đồng nghĩa với việc có thể vượt qua các kỳ thi, nhưng trong ngắn hạn nó có thể không đúng với kỳ vọng của bạn. Các chủ đề trong hướng dẫn này không được sắp xếp theo độ khó JLPT, và nếu mục tiêu của bạn là đỗ các cấp thấp trong thời gian ngắn, bạn nên dùng các tài nguyên chuyên cho JLPT thì hơn.
 
-Not even the best linguists in the entire world can explain simple ideas like "gonna" with any less than an impenetrable book-length essay. That's not a matter of philosophy, it's a matter of explaining what things really mean, or how they work. Simple incomplete explanations are good, but have holes in them. This guide tries to walk the line and warn you about things it can't explain, but it's really hard. As a reader, you are expected to be flexible and take things written here at "face value". Understand that this is **how** Japanese works, and that asking **why** is often not going to lead you anywhere.
+Ngay cả những nhà ngôn ngữ học giỏi nhất thế giới cũng không thể giải thích những thứ tưởng như đơn giản, ví dụ như “gonna”, mà không viết ra cả một cuốn sách khó nhằn. Đây không phải vấn đề triết học, mà là vấn đề diễn đạt chính xác ý nghĩa thực sự của sự vật và cách chúng vận hành. Những lời giải thích đơn giản, chưa đầy đủ thì hữu ích, nhưng luôn có lỗ hổng. Hướng dẫn này cố gắng đi trên ranh giới đó và cảnh báo bạn về những thứ nó không thể giải thích trọn vẹn, nhưng việc này rất khó. Với tư cách là người đọc, bạn cần linh hoạt và chấp nhận những gì được viết ở đây theo “bề mặt” của nó. Hãy hiểu rằng đây là **cách** tiếng Nhật hoạt động, và việc hỏi **tại sao** thường sẽ không dẫn bạn đến đâu cả.
 
-This grammar guide does its best to give you some basic exposure to Japanese grammar. It can't **teach** you it. It can only introduce you to it. Your job is to turn that exposure into acquisition. The exposure is just a foot in the door.
+Hướng dẫn ngữ pháp này cố gắng cho bạn một mức độ tiếp xúc cơ bản với ngữ pháp tiếng Nhật. Nó không thể **dạy** bạn tiếng Nhật. Nó chỉ có thể giới thiệu. Nhiệm vụ của bạn là biến sự tiếp xúc đó thành khả năng thực sự. Việc tiếp xúc chỉ là bước đặt chân vào cửa.
 
-And, by all means, if something is too hard, skip it. You're not trying to memorize something so you can pass a test. You're not trying to memorize something so you can identify it with 100% precision when you're consuming Japanese.
+Và nếu có thứ gì đó quá khó, cứ bỏ qua. Bạn không học để ghi nhớ nhằm vượt qua một bài kiểm tra. Bạn cũng không học để có thể nhận diện mọi cấu trúc với độ chính xác 100% khi tiếp xúc với tiếng Nhật.
 
-You're trying to get something into your head. If you can't, that's fine, you'll pick it up naturally later.
+Bạn chỉ đang cố gắng đưa những thứ này vào đầu mình. Nếu chưa làm được, không sao cả, sau này bạn sẽ tự nhiên nắm được.
 
-Don't look back.
+Đừng ngoái lại.

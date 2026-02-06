@@ -1,66 +1,68 @@
-# Likeness and hearsay with みたい, らしい, ぽい, and そう
 
-There are many ways in Japanese to say "X resembles Y" or "X looks like Y".
+# Diễn tả sự giống nhau và tin đồn với みたい, らしい, ぽい, và そう
 
-One of them, is the な adjective suffix みたい. It looks like the たい form of 見る \-\> 見たい, however in modern Japanese this is considered a completely separate thing and should not be confused.
+Trong tiếng Nhật có rất nhiều cách để nói “X giống Y” hoặc “X trông như Y”.
 
-みたい (it is **always** written in kana and should **never** be written as 見たい) is a な-adjective and conjugates like one. It means "seems".
+Một trong số đó là hậu tố tính từ な là みたい. Hình thức của nó trông giống dạng たい của 見る → 見たい, nhưng trong tiếng Nhật hiện đại, đây là hai thứ hoàn toàn khác nhau và không nên nhầm lẫn.
+
+みたい (luôn luôn viết bằng kana và **không bao giờ** viết bằng 見たい) là một tính từ な và chia giống như tính từ な. Nghĩa của nó là “có vẻ như”, “trông như”.
 
 <pre>
 あの人、日本人<b>みたい</b>
-That person, it seems like he's Japanese / He seems Japanese
+Người kia có vẻ là người Nhật / Trông như người Nhật
 
 ヒーロー<b>みたいな</b>人
-Person that resembles a hero
+Một người giống như anh hùng
 </pre>
 
-While みたい is for all intents and purposes a な adjective, when used adverbially it sometimes conjugates like an い adjective. This is seen as casual/slang, but you'll see it often enough in Japanese media that it is good to be aware of it.
+Mặc dù みたい về bản chất là tính từ な, nhưng khi dùng như trạng từ thì đôi khi nó lại biến đổi giống tính từ い. Cách dùng này mang tính khẩu ngữ/slang, nhưng khá phổ biến trong phim ảnh, truyện, v.v., nên bạn sẽ gặp thường xuyên.
 
 <pre>
 子供<b>みたいに</b>ブランコに乗っている
 子供<b>みたく</b>ブランコに乗っている
-He was on the swing like a child
+Anh ấy đang ngồi xích đu như một đứa trẻ
 </pre>
 
-Both of these examples are valid, but the former is more proper.
+Cả hai câu đều đúng, nhưng câu đầu trang trọng và chuẩn hơn.
 
-らしい is an auxiliary adjective that attaches to nouns or verbs/adjectives and says that something factually "seems so" based on circumstance. らしい is appropriate for things that would translate to "seems X", rather than "Xish".
+らしい là một tính từ phụ trợ gắn vào danh từ hoặc động từ/tính từ để diễn đạt rằng “có vẻ là đúng” dựa trên tình huống hoặc thông tin có được. Nó phù hợp với các trường hợp dịch là “có vẻ là X”, hơn là “kiểu X”.
 
 <pre>
 日本人<b>らしい</b>名前。
-A name that seems Japanese.
+Một cái tên có vẻ là của người Nhật.
 </pre>
 
-You might also see らしい used to mean "I heard that", used to convey hearsay or information obtained from third parties.
+らしい cũng có thể mang nghĩa “nghe nói là”, dùng để truyền đạt thông tin nghe từ người khác.
 
 <pre>
 出発は明日の昼頃になる<b>らしい</b>。
-<b>I heard that</b> the departure will be tomorrow at around noon.
+<b>Nghe nói</b> là sẽ khởi hành vào khoảng trưa ngày mai.
 </pre>
 
-ぽい/っぽい is a suffix い adjective that says that something subjectively "seems so" based on appearance or stereotypical properties. It translates well as "Xish" or "X-like". It sounds casual.
+ぽい / っぽい là hậu tố tính từ い, diễn tả cảm nhận chủ quan rằng “trông có vẻ như vậy” dựa trên bề ngoài hoặc những đặc trưng mang tính khuôn mẫu. Thường dịch là “na ná”, “kiểu kiểu”, “giống X”. Sắc thái thân mật.
 
 <pre>
 今、僕の名前、女<b>っぽい</b>って思ったでしょ？
-You just thought my name sounded feminine<b>-ish</b>, right? (lit: "female-ish" or "woman-ish")
+Bạn vừa nghĩ tên tôi nghe giống con gái<b>-ish</b>, đúng không?
 </pre>
 
-There are two separate constructions of the auxiliary suffix そう.
+Có hai cách dùng khác nhau của hậu tố そう.
 
-The first one attaches to the masu stem of a verb or adjective, and it means "seems like". It is used to describe things from a subjective impression or perspective, often from physical appearances. そう turns whatever it attaches to into a な adjective.
+Cách thứ nhất gắn vào masu-stem của động từ hoặc tính từ, mang nghĩa “trông có vẻ…”. Dùng để diễn tả ấn tượng chủ quan, thường dựa trên bề ngoài. Khi gắn vào, そう biến cụm đó thành tính từ な.
 
 <pre>
 おいし<b>そう</b>なスープです。
-A delicious-looking soup.
+Một bát súp trông có vẻ ngon.
 </pre>
 
 <div class="warning">
-Do not confuse the word かわいそう (pitiful) with the そう version of かわいい (cute). There is no そう version of かわいい. If you want to say something seems cute, you can use かわいくみえる instead.
+Đừng nhầm từ かわいそう (đáng thương) với dạng そう của かわいい (dễ thương). Thực tế không tồn tại dạng かわいい + そう. Nếu muốn nói “trông có vẻ dễ thương”, bạn có thể dùng かわいくみえる.
 </div>
 
-The other そう attaches to the complete form of the word before it, so for な adjectives and nouns it becomes だそう. This usage means "I heard that" and it is similar to the hearsay usage of らしい we saw earlier. It feels a bit more formal.
+Cách dùng thứ hai của そう gắn vào dạng hoàn chỉnh của từ đứng trước, nên với danh từ và tính từ な sẽ trở thành だそう. Cách này mang nghĩa “nghe nói là” và tương tự với cách dùng らしい để truyền đạt tin đồn, nhưng cảm giác trang trọng hơn một chút.
 
 <pre>
 2000人以上が死んだ<b>そう</b>です。
-I <b>heard that</b> over 2000 people died.
+<b>Nghe nói</b> hơn 2000 người đã chết.
 </pre>
+

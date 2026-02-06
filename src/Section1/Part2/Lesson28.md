@@ -1,51 +1,56 @@
-# Verbs review
 
-We've finally run into all of the basic stems of godan verbs, so this is a good time to review what we've learned. Please don't try to memorize this. Knowing that these ideas exist is enough. If your eyes gloss over, relax. If you can't do it, move on.
+# Ôn tập động từ
 
-The names given are just simple descriptions/reminders of the form, they aren't proper grammatical names. The Japanese name and its respective proper terminology will be presented for those who are curious, but you don't need to remember it. If a stem or form is referred to in the rest of the guide, it will be with the plain English descriptor, not the Japanese name.
+Chúng ta đã đi qua toàn bộ các dạng gốc cơ bản của động từ godan, nên đây là thời điểm tốt để nhìn lại những gì đã học. Đừng cố học thuộc bảng này. Chỉ cần biết rằng các khái niệm này tồn tại là đủ. Nếu nhìn thấy chóng mặt thì cứ thoải mái bỏ qua. Nếu cảm thấy không tiếp thu nổi, hãy chuyển sang phần tiếp theo.
 
-| Form            | Name                   | Japanese term                                   |
-|-----------------|------------------------|-------------------------------------------------|
-| 書**か**(ない)  | negative stem          | 未然形 - irrealis form                          |
-| 書**き**(ます)  | masu stem              | 連用形 - continuative form                      |
-| 書**く**        | plain/dictionary form  | 終止形 predicative or 連体形 attributive form   |
-| 書**け**(る/ば) | potential stem         | 已然形 perfective or 仮定形 hypothetical form   |
-| 書**け**        | imperative form        | 命令形 imperative form                          |
-| 書**こう**      | volitional form        | 意向形 volitional form                          |
+Những tên gọi ở đây chỉ là cách mô tả/nhắc nhớ đơn giản cho từng dạng, không phải thuật ngữ ngữ pháp chính thức. Tên tiếng Nhật và thuật ngữ chuẩn sẽ được ghi kèm cho ai tò mò, nhưng bạn không cần nhớ. Trong các phần sau của hướng dẫn, nếu có nhắc đến các dạng này thì sẽ dùng tên tiếng Anh đơn giản, không dùng tên tiếng Nhật.
 
-Remember that with godan verbs, there are special rules to conjugate past and て forms. For example for the k row き becomes い:  
+| Dạng            | Tên gọi                 | Thuật ngữ tiếng Nhật                             |
+|-----------------|-------------------------|--------------------------------------------------|
+| 書**か**(ない)  | gốc phủ định            | 未然形 - dạng chưa xảy ra (irrealis)             |
+| 書**き**(ます)  | gốc masu                | 連用形 - dạng liên dụng (continuative)           |
+| 書**く**        | dạng thường / từ điển   | 終止形 (kết thúc) hoặc 連体形 (bổ nghĩa)         |
+| 書**け**(る/ば) | gốc khả năng            | 已然形 (hoàn thành) hoặc 仮定形 (giả định)      |
+| 書**け**        | dạng mệnh lệnh          | 命令形 - dạng mệnh lệnh                          |
+| 書**こう**      | dạng ý định             | 意向形 - dạng ý định                             |
+
+Hãy nhớ rằng với động từ godan, có các quy tắc đặc biệt khi chia dạng quá khứ và dạng て. Ví dụ, với hàng k, き sẽ đổi thành い:
 
 <pre>
 書<b>い</b>て
+viết rồi / viết (dạng て)
+
 書<b>い</b>た
+đã viết
 </pre>
 
-For ichidan verbs, the stem stays the same so it's much easier, just replace the る:
+Với động từ ichidan, gốc giữ nguyên nên dễ hơn nhiều, chỉ cần thay thế る:
 
 <pre>
-食べ(ない) negative form
-食べ(ます) masu form
-食べる plain/dictionary form
-食べ(られる/れる) potential form
-食べ(れば) conditional/ば form
-食べ(ろ) imperative form
-食べ(よう) volitional form
-食べ(て) て form
-食べ(た) past form
+食べ(ない) dạng phủ định
+食べ(ます) dạng masu
+食べる dạng thường / từ điển
+食べ(られる/れる) dạng khả năng
+食べ(れば) dạng điều kiện / ば
+食べ(ろ) dạng mệnh lệnh
+食べ(よう) dạng ý định
+食べ(て) dạng て
+食べ(た) dạng quá khứ
 </pre>
 
-And the two irregular verbs する and くる:
+Và hai động từ bất quy tắc する và くる:
 
-| Form       | する      | くる     |
-|------------|-----------|----------|
-| negative   | しない    | こない   |
-| masu stem  | し(ます)  | き(ます) |
-| plain      | する      | くる     |
-| potential  | できる    | これる   |
-| ば stem    | すれば    | くれば   |
-| imperative | しろ/せよ | こい     |
-| volitional | しよう    | こよう   |
-| て form    | して      | きて     |
-| past       | した      | きた     |
+| Dạng        | する          | くる        |
+|-------------|---------------|-------------|
+| phủ định    | しない        | こない      |
+| gốc masu    | し(ます)      | き(ます)    |
+| dạng thường | する          | くる        |
+| khả năng    | できる        | これる      |
+| gốc ば      | すれば        | くれば      |
+| mệnh lệnh   | しろ/せよ     | こい        |
+| ý định      | しよう        | こよう      |
+| dạng て     | して          | きて        |
+| quá khứ     | した          | きた        |
 
-Also, as a reminder, the godan verb 行く conjugates irregularly as 行って/行った for て form and past tense.
+Cuối cùng, nhắc lại rằng động từ godan 行く có cách chia bất quy tắc ở dạng て và quá khứ là 行って và 行った.
+

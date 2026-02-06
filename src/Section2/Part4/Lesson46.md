@@ -1,53 +1,56 @@
-# "Just" with だけ, のみ, ばかり, and しか
 
-だけ, のみ, and ばかり are variations of "just" or "only". しか is similar, but it can only be used in negative statements.
+# "Chỉ" với だけ, のみ, ばかり, và しか
 
-だけ means "just so", in terms of amount. It acts like a particle.
+だけ, のみ và ばかり đều là những cách khác nhau để diễn đạt nghĩa "chỉ" hoặc "duy nhất". しか thì tương tự, nhưng chỉ có thể dùng trong câu phủ định.
+
+だけ mang nghĩa "chỉ" theo khía cạnh số lượng / phạm vi. Nó hoạt động giống như một trợ từ.
 
 <pre>
 俺<b>だけ</b>行く
-Only I will go
+Chỉ mình tôi đi
 
 俺<b>だけ</b>じゃないよ
-It's not only me.
+Không chỉ có mình tôi đâu.
 </pre>
 
-のみ is like a less colloquial だけ.
+のみ giống như だけ nhưng ít dùng trong hội thoại, mang sắc thái trang trọng hơn.
 
 <pre>
 味付けは塩コショウ<b>のみ</b>。
-There is only salt & pepper as flavoring
+Gia vị chỉ có muối và tiêu.
 </pre>
 
-ばかり is yet another "only" word. It can also be pronounced ばっか or ばっかり. Xばかり focuses on everything falling within the definition of X as being true, whereas だけ and のみ focus on things that fall outside of the statement being false. Think of the difference in vibes between "There is only this" and "There is nothing else".
+ばかり là một từ "chỉ" khác. Nó cũng có thể đọc là ばっか hoặc ばっかり.  
+Xばかり nhấn mạnh rằng mọi thứ đều thuộc loại X, trong khi だけ và のみ nhấn mạnh rằng những thứ ngoài X là không đúng / không tồn tại. Có thể hiểu sự khác nhau giống như giữa "toàn là cái này" và "chỉ có cái này".
 
 <pre>
 悪いこと<b>ばかり</b>じゃないと思います。
-I don't think it's all bad things.
+Tôi không nghĩ là toàn những chuyện xấu.
 
 分からないこと<b>ばかり</b>だった
-It was all stuff I didn't understand.
+Toàn là những thứ tôi không hiểu.
 </pre>
 
-The structure \<verb\>てばかりいる is often used to convey a critical attitude towards someone stating they do just one thing over and over to the point where it's detrimental.
+Cấu trúc \<verb\>てばかりいる thường dùng để thể hiện thái độ phê phán rằng ai đó cứ làm mãi một việc duy nhất, đến mức không tốt.
 
 <pre>
 彼は寝て<b>ばかり</b>いる
-He does nothing but sleep
+Anh ta chỉ có ngủ suốt.
 </pre>
 
-ばかり can also be used with temporal statements to convey how soon or early something happened.
+ばかり cũng có thể đi với mốc thời gian để diễn đạt rằng một việc vừa mới xảy ra, hoặc xảy ra rất sớm.
 
 <pre>
 戦いはまだ始まった<b>ばかり</b>だ。
-The battle has only just started.
+Trận chiến mới chỉ bắt đầu thôi.
 </pre>
 
-しか is used with negative statements to convey the same meaning as だけ but with the focus on everything else that is not what is being marked.
+しか được dùng trong câu phủ định để mang nghĩa tương tự だけ, nhưng nhấn mạnh vào việc ngoài đối tượng được nói đến ra thì không có gì khác.
 
 <pre>
 僕<b>しか</b>いない
-There is no one else other than me here
+Ngoài tôi ra thì không còn ai ở đây.
 </pre>
 
-The compound だけしか exists too. It works exactly the same as しか but has stronger emphasis.
+Ngoài ra còn có dạng ghép だけしか. Cách dùng giống hệt しか, nhưng mang sắc thái nhấn mạnh mạnh hơn.
+

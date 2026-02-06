@@ -1,53 +1,57 @@
-# Potential form and できる
 
-The potential form exists so that people can say that something "can be done". For godan verbs, the u is replaced with an e, then added る. So "u" \-\> "eru". For ichidan verbs, it is identical to the passive conjugation. Yes, that is confusing. It's so confusing that sometimes you might come across sentences where it's unclear/intentionally ambiguous whether or not an ichidan verb is used in passive or potential form. You just have to vibe with it.
+# Thể khả năng và できる
+
+Thể khả năng (potential form) tồn tại để diễn đạt rằng một việc gì đó “có thể làm được”.  
+Với động từ godan, âm u được đổi thành e rồi thêm る. Tức là “u” → “eru”.  
+Với động từ ichidan, cách chia **giống hệt thể bị động**. Vâng, điều này khá gây rối. Đôi khi bạn sẽ gặp những câu mà không rõ (hoặc cố tình mơ hồ) đó là thể bị động hay thể khả năng của động từ ichidan. Khi gặp trường hợp này, bạn chỉ có thể dựa vào ngữ cảnh để hiểu.
 
 <pre>
-食べ<b>られる</b> (or 食べ<b>れる</b> (!))
-Can eat
+食べ<b>られる</b> (hoặc 食べ<b>れる</b> (!))
+Có thể ăn
 
 殺<b>せる</b>
-Can kill
+Có thể giết
 
 死<b>ねる</b>
-Can die
+Có thể chết
 
 飲<b>める</b>
-Can drink
+Có thể uống
 </pre>
 
-As you have probably noticed, 食べれる is listed as an acceptable variant of 食べられる with a big **!** next to it. It's common in spoken/colloquial Japanese to shorten ichidan verbs in potential form by removing the ら syllable (this is called ら抜き). It is not "proper" and should not be done in formal situations or in written form, but it is quite common in casual spoken language. It cannot be done with every ichidan verb, but there are no clear rules about which do or do not allow it. It's up to personal preference, so don't try to learn this rule. Just be aware it exists and learn to recognize it.
+Như bạn có thể thấy, 食べれる được liệt kê như một biến thể chấp nhận được của 食べられる, kèm theo dấu **!**. Trong tiếng Nhật nói hằng ngày, người ta thường rút gọn thể khả năng của động từ ichidan bằng cách bỏ âm ら (hiện tượng này gọi là ら抜き). Đây không phải là cách dùng “chuẩn” và không nên dùng trong văn viết hay tình huống trang trọng, nhưng lại rất phổ biến trong giao tiếp thân mật. Không phải động từ ichidan nào cũng cho phép rút gọn như vậy, và cũng không có quy tắc rõ ràng. Điều này phụ thuộc vào thói quen cá nhân, vì thế bạn không cần cố ghi nhớ quy tắc. Chỉ cần biết rằng nó tồn tại và nhận ra được khi gặp.
 
-For the irregular verb する, we use the alternative verb できる as its potential variant. This is an exception, so it just needs to be learned as such. 
+Với động từ bất quy tắc する, ta dùng động từ khác là できる để biểu thị nghĩa “có thể làm”. Đây là ngoại lệ và cần học thuộc.
 
 <pre>
 昨日は勉強<b>できなかった</b>
-I <b>could not</b> study yesterday
+Hôm qua tôi <b>không thể</b> học.
 </pre>
 
-To make the potential/passive duality even more confusing, we need to talk about a special quirk that potential verbs carry in Japanese that English does not have.
+Để làm mọi thứ còn rối hơn giữa thể bị động và thể khả năng, ta cần nói đến một điểm đặc biệt của thể khả năng trong tiếng Nhật mà tiếng Anh không có.
 
-When it comes to potential forms, the notion of a "subject" and "object" in transitive verbs can become grammatically unclear. Let's look at an example:
+Với động từ ở thể khả năng, khái niệm “chủ ngữ” và “tân ngữ” của tha động từ có thể trở nên không rõ ràng về mặt ngữ pháp. Hãy xem ví dụ:
 
 <pre>
 私<b>は</b>ピザ<b>を</b>食べる
-I eat pizza (not potential, standard form)
+Tôi ăn pizza. (dạng thường, không phải khả năng)
 
 私<b>は</b>ピザ<b>が</b>食べられる
 私<b>に</b>ピザ<b>が</b>食べられる
 私<b>は</b>ピザ<b>を</b>食べられる
-I can eat pizza (potential, standard form)
+Tôi có thể ăn pizza. (thể khả năng, cách nói thông thường)
 </pre>
 
-What is going on here? All three of those options are valid and mean mostly the same thing. Also, depending on the context and surrounding phrases, the は in those examples can be が too (yes, you can even have 私がピザが食べられる, a double が sentence). 
+Chuyện gì đang xảy ra ở đây? Cả ba cách đều đúng và về cơ bản có cùng ý nghĩa. Ngoài ra, tùy ngữ cảnh, は trong các ví dụ trên cũng có thể thay bằng が (tức là bạn thậm chí có thể gặp câu 私がピザが食べられる với hai が).
 
-All you need to remember is that with potential verbs, が can be used to *also* mark the object of the action, not only the subject. And in those sentences, the subject can sometimes be marked by に. Some people consider the usage of を like in the example above to be improper, however it is incredibly subjective and you will see it so often that considering it improper is just for old men yelling at clouds. The を version tends to be more common in relative clauses or very long and complicated sentences.
+Điều quan trọng cần nhớ là: với động từ ở thể khả năng, が có thể dùng để đánh dấu **tân ngữ** của hành động, chứ không chỉ chủ ngữ. Và trong những câu như vậy, chủ ngữ đôi khi được đánh dấu bằng に. Một số người cho rằng cách dùng を như trong ví dụ trên là “không chuẩn”, nhưng đây là vấn đề mang tính chủ quan, và bạn sẽ gặp nó rất thường xuyên. Dạng dùng を có xu hướng xuất hiện nhiều trong mệnh đề quan hệ hoặc trong các câu dài, phức tạp.
 
-There is another way to make phrases with a potential meaning, and that is to simply attach ことができる after a verb in plain form. We will see what this こと means in a later lesson, but for now you should take ことができる as a single unit. 
+Ngoài cách chia động từ sang thể khả năng, còn một cách khác để diễn đạt ý “có thể làm”, đó là gắn ことができる sau dạng thường của động từ. Chúng ta sẽ học こと là gì ở bài sau, nhưng hiện tại bạn có thể coi ことができる là một khối cố định.
 
 <pre>
 俺は答える<b>ことができなかった</b>。
-I <b>could not</b> answer.
+Tôi <b>không thể</b> trả lời.
 </pre>
 
-The differences between ことができる and the normal potential conjugation are incredibly small and often imperceptible. ことができる may come across as slightly more formal because it is more verbose, but it's not something that is worth worrying about. You can consider them pretty much interchangeable.
+Sự khác biệt giữa ことができる và cách chia thể khả năng thông thường là rất nhỏ, thường khó nhận ra. ことができる có thể mang cảm giác trang trọng hơn một chút vì dài hơn, nhưng đây không phải điều đáng lo. Bạn có thể coi hai cách này gần như tương đương.
+

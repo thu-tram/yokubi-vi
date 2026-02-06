@@ -1,57 +1,59 @@
-# Comparing things with より and の方が
 
-より is used to compare two things in a direct way, like the "than" in "I'm smarter than you". When you use より, you do not need to use a "more" word, unlike English which needs to say "**more** X than Y" or "X**er** than Y". Sometimes より can be followed by も for emphasis.
+# So sánh với より và の方が
+
+より được dùng để so sánh trực tiếp hai đối tượng, tương tự “than” trong câu “Tôi thông minh hơn bạn.” Khi dùng より, tiếng Nhật không cần thêm từ mang nghĩa “hơn” như trong tiếng Anh (“more” hay “-er”). Đôi khi より còn đi kèm với も để nhấn mạnh.
 
 <pre>
 彼は誰<b>より</b>も強いよ
-He is stronger <b>than</b> anyone
+Anh ấy mạnh <b>hơn</b> bất kỳ ai.
 </pre>
 
-In this given example, 誰より without も can come across as weird and is less common.
+Trong ví dụ này, nếu chỉ dùng 誰より mà không có も thì nghe khá lạ và ít gặp.
 
-より is also used in constructions about relative position (in space or time), similar to から. 
+より cũng được dùng trong các cấu trúc chỉ vị trí tương đối (không gian hoặc thời gian), tương tự như から.
 
 <pre>
 南<b>より</b>迫る
-To approach <b>from</b> the south
+Tiến lại <b>từ</b> phía nam.
 
 新世界<b>より</b>
-<b>From</b> the New World
+<b>Từ</b> Tân Thế Giới
 </pre>
 
-This usage of より is common in written letters, where より marks the sender and へ the recipient.
+Cách dùng より này thường thấy trong thư từ, nơi より đánh dấu người gửi và へ đánh dấu người nhận.
 
-If you want to list both sides of a comparison, you mark the lower bound with より and the upper bound with 方. 方 is a noun that reads ほう in this usage (don't be tricked by the かた reading!), and as with every noun, it attaches to other nouns with の and can take particles after it. In case of a comparison, the 方 "side" is usually marked by が whether or not it is the subject of the action.
+Nếu muốn nêu rõ cả hai phía của phép so sánh, ta đánh dấu phía thấp hơn bằng より và phía cao hơn bằng 方. 方 trong trường hợp này đọc là ほう (không phải かた). Vì là danh từ, 方 kết nối với danh từ khác bằng の và có thể đi kèm trợ từ. Trong câu so sánh, phía “方” thường được đánh dấu bằng が, bất kể nó có phải là chủ ngữ hay không.
 
 <pre>
 メリット<b>より</b>もデメリット<b>の方が</b>大きい
-The cons are bigg<b>er</b> than the pros.
+Nhược điểm lớn <b>hơn</b> ưu điểm.
 </pre>
 
-The より side can be dropped if implied.
+Phần より có thể được lược bỏ nếu đã rõ từ ngữ cảnh.
 
 <pre>
 私は一人で行動する<b>方が</b>性に合っている。
-It is <b>more</b> natural for me to act on my own.
+Tôi thấy hành động một mình <b>hợp</b> với bản thân hơn.
 </pre>
 
-Literally, this 方 usage marks a "side" of the comparison. XよりYの方がZ can be understood as "starting **from** the X side, the Y side is **more** Z" where X is the lower bound and Y the upper.
+Về mặt nghĩa, 方 ở đây biểu thị “phía” của sự so sánh. Cấu trúc XよりYの方がZ có thể hiểu là: “so với phía X, thì phía Y là Z hơn”, trong đó X là mốc thấp hơn và Y là mốc cao hơn.
 
-There are a few idiomatic expressions that make use of 方が.
+Có một số cách nói cố định sử dụng 方が.
 
-\<verb\>方がいい means "it is better to do \<verb\>". It is common in this construction to use the verb in past tense if the statement comes from a position of personal advice rather than a general truth.
+\<verb\>方がいい có nghĩa là “làm \<verb\> thì tốt hơn.” Trong cấu trúc này, động từ thường được chia quá khứ nếu đó là lời khuyên mang tính cá nhân hơn là một chân lý chung.
 
 <pre>
 やめ<b>た方がいい</b>と思います
-I think <b>it'd be better</b> for you to stop.
+Tôi nghĩ bạn <b>nên</b> dừng lại thì hơn.
 
 少し余裕があ<b>る方がいい</b>だろう。
-<b>It's better</b> to have a bit of extra leeway I guess.
+Có một chút dư dả <b>thì tốt hơn</b> nhỉ.
 </pre>
 
-When いい is conjugated in past tense like 方がよかった it implies some regret or reprimand about an action that should or shouldn't have been done in the past.
+Khi いい được chia ở quá khứ như 方がよかった, nó hàm ý sự hối tiếc hoặc trách nhẹ về một hành động lẽ ra nên hoặc không nên làm trong quá khứ.
 
 <pre>
 真面目に戦っ<b>た方がよかった</b>のだろうか。
-Would it <b>have been better</b> if I had fought seriously?
+Có lẽ <b>đáng lẽ mình nên</b> chiến đấu nghiêm túc hơn?
 </pre>
+

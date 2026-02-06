@@ -1,19 +1,21 @@
-# Question words: なに, だれ, どれ, いつ, etc
 
-These are called interrogatives. They're used in order to ask wh-questions. They sometimes show up also as parts of larger grammatical constructs or set expressions.
+# Từ để hỏi: なに, だれ, どれ, いつ, v.v.
 
-| Kanji| Reading     | Meaning | Example (JP)             | Example (EN)                    |
-|------|-------------|---------|--------------------------|---------------------------------|
-| 何   | なに        | what    | 何する？                 | What will you do?               |
-| 誰   | だれ        | who     | あなた、誰？             | Who are you?                    |
-|      | どれ        | which   | どれがいいと思いますか？ | Which one do you think is good? |
-|      | いつ        | when    | 次の電車はいつですか？   | When is the next train?         |
+Những từ này được gọi là từ nghi vấn. Chúng được dùng để đặt các câu hỏi dạng “wh-” (ai, cái gì, khi nào, ở đâu, v.v.). Đôi khi chúng cũng xuất hiện như một phần của các cấu trúc ngữ pháp lớn hơn hoặc trong những cụm cố định.
 
-There are many other question words, they all work similarly so we won't be listing all of them. If you recall the lesson on こそあど words, the ど part of the こそあど set refers to these words.
+| Kanji| Cách đọc    | Nghĩa      | Ví dụ (JP)               | Ví dụ (VI)                       |
+|------|-------------|------------|--------------------------|----------------------------------|
+| 何   | なに        | cái gì     | 何する？                 | Bạn sẽ làm gì?                   |
+| 誰   | だれ        | ai         | あなた、誰？             | Bạn là ai?                       |
+|      | どれ        | cái nào    | どれがいいと思いますか？ | Bạn nghĩ cái nào là tốt?          |
+|      | いつ        | khi nào    | 次の電車はいつですか？   | Chuyến tàu tiếp theo là khi nào? |
 
-When asking questions, one thing to keep in mind is to **never** mark these words with the particle は. The only exception is some set expressions like 何はともあれ but you can literally count these on one hand.
+Còn rất nhiều từ để hỏi khác, và chúng đều hoạt động tương tự nhau nên chúng ta không liệt kê hết ở đây. Nếu bạn nhớ bài học về nhóm từ こそあど, thì chữ ど trong こそあど chính là đại diện cho các từ để hỏi này.
+
+Khi đặt câu hỏi, có một điều quan trọng cần nhớ là **không bao giờ** đánh dấu các từ để hỏi bằng trợ từ は. Ngoại lệ duy nhất là một số thành ngữ cố định như 何はともあれ, nhưng số lượng таких cụm này rất ít.
 
 <pre>
 昨日は誰<b>が</b>来たの？
-Who came (here) yesterday?
+Hôm qua ai đã đến?
 </pre>
+

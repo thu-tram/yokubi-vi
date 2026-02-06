@@ -1,86 +1,88 @@
-# Still, already, and yet with もう, まだ, and また
 
-With positive statements, もう expresses "already". With negative statements, it works together with the negation to express "not anymore".
+# "Vẫn", "đã", "chưa" với もう, まだ, và また
 
-Basically, もう means that there's a change of state from the statement being false or irrelevant to the statement being true: "already" and "not anymore".
+Với câu khẳng định, もう mang nghĩa "đã". Với câu phủ định, nó kết hợp với phủ định để tạo nghĩa "không còn nữa".
+
+Nói đơn giản, もう biểu thị sự thay đổi trạng thái: từ chỗ chưa đúng / chưa xảy ra sang đã đúng / đã xảy ra, hoặc từ còn đúng sang không còn đúng. Vì vậy nó tương ứng với "đã" và "không còn nữa".
 
 <pre>
 <b>もう</b>こんな時間だ
-It's this late! (lit. It's already this time)
+Muộn đến thế này rồi! (nghĩa đen: đã đến giờ này rồi)
 
 <b>もう</b>食べたよ
-I already ate
+Tôi ăn rồi.
 
 <b>もう</b>食べないの？
-You won't eat anymore?
+Bạn không ăn nữa à?
 </pre>
 
-もう can also appear as an emphatic expression of frustration
+もう cũng có thể dùng như một thán từ để thể hiện sự bực bội hoặc chán nản.
 
 <pre>
 <b>もう</b>いいよ
-I've had enough (lit. it's already at a sufficient level)
+Thôi đủ rồi.
 
 <b>もう</b>！
-(angry frustrated noises)
+(âm thanh thể hiện bực tức)
 </pre>
 
-In statements about the near future, もう can mean "soon" instead. This usually goes along with an adverb expressing soonness, but sometimes it's just implied.
+Trong những câu nói về tương lai gần, もう có thể mang nghĩa "sắp". Thường đi kèm với trạng từ chỉ sự sớm, nhưng đôi khi chỉ cần ngữ cảnh là đủ.
 
 <pre>
 どうやら<b>もう</b>来るみたい
-Well it seems like he'll arrive soon
+Có vẻ như anh ấy sắp đến.
 </pre>
 
-Another use of もう expresses "more" of an amount.
+Một cách dùng khác của もう là để diễn đạt "thêm nữa".
 
 <pre>
 <b>もう</b>一杯！
-One more drink!
+Thêm một ly nữa!
 
 <b>もう</b>ちょっと
-A bit more
+Thêm một chút nữa.
 </pre>
 
-まだ expresses the idea of "still" or "yet" and it is the opposite of もう. It's used when a state stays the same.
+まだ diễn đạt ý "vẫn còn" hoặc "chưa", và đối lập với もう. Nó được dùng khi một trạng thái vẫn giữ nguyên.
 
 <pre>
 <b>まだ</b>食べるの？
-Are you still going to eat (more)? / Are you going to continue eating?
+Bạn vẫn còn ăn nữa à? / Bạn định ăn tiếp à?
 
 <b>まだ</b>負けないな！
-I haven't lost yet!
+Tôi vẫn chưa thua đâu!
 
 <b>まだまだ</b>
-Not yet!
+Chưa đâu! / Chưa xong đâu!
 </pre>
 
-まだまだ is an adverb and set expression that also works as a more emphatic まだ
+まだまだ là một trạng từ và cụm cố định, mang nghĩa nhấn mạnh hơn so với まだ.
 
 <div class="warning">
-Cultural note: if someone says your Japanese is good, you answer まだまだ because you still have a long way to go.
+Ghi chú văn hoá: Khi ai đó khen tiếng Nhật của bạn giỏi, bạn thường trả lời まだまだ (ý là mình vẫn còn kém, còn phải học nhiều).
 </div>
 
-もう is used for "yet" in positive questions, since もう highlights a change.
+Trong câu hỏi khẳng định, "yet" (chưa?) trong tiếng Anh thường được diễn đạt bằng もう, vì もう nhấn mạnh sự thay đổi trạng thái.
 
 <pre>
 <b>もう</b>書きましたか？
-Did you write it yet?
+Bạn viết xong chưa?
 
 <b>もう</b>眠いの？
-Are you already sleepy?
+Bạn buồn ngủ rồi à?
 </pre>
 
-また expresses the idea of "again".
+また diễn đạt ý "lại", "một lần nữa".
 
 <pre>
 <b>また</b>来た
-He came again.
+Anh ấy lại đến.
 
 <b>また</b>来ないな
-Looks like he's not coming again.
+Có vẻ như anh ấy sẽ không đến nữa.
 </pre>
 
 <div class="warning">
-Try not to confuse また with まだ (you will 100% confuse また with まだ).
+Cố gắng đừng nhầm また với まだ (nhưng chắc chắn bạn sẽ nhầm chúng với nhau).
 </div>
+

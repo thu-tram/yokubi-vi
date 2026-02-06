@@ -1,45 +1,49 @@
-# Wrongness with だめ, いけない, ならない, and how to say "must"
 
-だめ is a word that means something like "no good", "useless", or "no use". It can be used to say that a statement would be bad, after connecting that previous statement with ては or conditionals like たら, etc.
+# Diễn tả sự “không được phép” với だめ, いけない, ならない, và cách nói “phải / bắt buộc”
+
+だめ là một từ mang nghĩa như “không được”, “không ổn”, “vô ích”. Nó có thể dùng để nói rằng một hành động hay tình huống nào đó là xấu, thường sau khi nối mệnh đề phía trước bằng ては hoặc các dạng điều kiện như たら, v.v.
 
 <pre>
 あまり迷惑をかけ<b>てはダメ</b>ですよ。  
-Inconveniencing others too much <b>is not good</b>. (lit: "if you inconvenience others too much, it is not good")
+Làm phiền người khác quá nhiều <b>là không được</b>. (nghĩa đen: “nếu làm phiền người khác quá nhiều thì không tốt”)
 
 日本だっ<b>たらダメ</b>なんだろうけど、ここでは大丈夫みたい。  
-Had it been Japan it <b>would've been bad</b>, but here it seems fine.
+Nếu là ở Nhật thì <b>chắc là không được</b>, nhưng ở đây có vẻ ổn.
 </pre>
 
-ならない and いけない are similar to だめ, but they feel stronger and have an implication that something is prohibited, either by someone's decision or social expectations.
+ならない và いけない tương tự như だめ, nhưng sắc thái mạnh hơn và mang ý nghĩa rằng hành động đó bị cấm, do quy định, quyết định của ai đó, hoặc chuẩn mực xã hội.
 
 <pre>
 他人のものを、盗ん<b>ではならない</b>。
-Stealing other people's stuff <b>is unacceptable</b>. (lit: "it is unbecoming")
+Trộm đồ của người khác <b>là không được phép</b>. (nghĩa đen: “là điều không thể chấp nhận”)
 </pre>
 
-All three of these "not good" groups (だめ, ならない, いけない) are often used with a negative conditional statement (〜なければならない, 〜なくてはいけない, 〜ないとダメ, and any other similar combination) to convey a meaning of "must do". Since Aてはならない means "must not do A", then logically (not A)てはならない means "must not *not* do A" hence "must do A".
+Cả ba nhóm từ mang nghĩa “không được” này (だめ, ならない, いけない) rất thường được dùng cùng với dạng điều kiện phủ định (〜なければならない, 〜なくてはいけない, 〜ないとダメ, và các kết hợp tương tự) để diễn đạt ý “phải làm”.  
 
-This is how you say "must do X" or "have to do X" in Japanese. It sounds like a mouthful, but you'll get used to it in no time.
+Vì Aてはならない nghĩa là “không được làm A”, nên về mặt logic, (không A)てはならない sẽ thành “không được không làm A”, tức là “phải làm A”.
+
+Đây chính là cách diễn đạt “phải làm X” hoặc “bắt buộc phải làm X” trong tiếng Nhật. Nghe có vẻ rườm rà lúc đầu, nhưng sẽ quen nhanh.
 
 <pre>
 やら<b>なければならない</b>ことはたくさんある。
-There are a lot of things <b>I must do</b>. (lit: "things that if I don't do it won't be acceptable")
+Có rất nhiều việc <b>tôi phải làm</b>. (nghĩa đen: “những việc mà nếu không làm thì sẽ không được”)
 </pre>
 
 <div class="warning">
-Style-wise, the combination of 〜ないと + ならない is seen as poor form and some people will consider it incorrect. You will come across it relatively often even in books, but it's advisable to avoid using it and instead opt for 〜ないといけない.
+Về mặt phong cách, việc kết hợp 〜ないと với ならない bị xem là không đẹp và một số người cho rằng không đúng. Bạn vẫn sẽ gặp cách dùng này khá thường xuyên, kể cả trong sách, nhưng nên tránh và dùng 〜ないといけない thay thế.
 </div>
 
-なければ is commonly contracted to なきゃ and ては is commonly contracted to ちゃ (では is じゃ).
+なければ thường được rút gọn thành なきゃ, và ては thường rút gọn thành ちゃ (では thành じゃ).
 
 <pre>
 死ん<b>じゃ</b>ダメ！
-You <b>must</b> not die! (lit: "dying is not good")
+Bạn <b>không được</b> chết! (nghĩa đen: “chết là không tốt”)
 </pre>
 
-When implied by context, at the end of a statement, the part after the conditional is regularly dropped because these expressions are so incredibly common that everyone understands what comes after anyway.
+Khi ngữ cảnh đã rõ, phần đứng sau mệnh đề điều kiện ở cuối câu thường bị lược bỏ, vì các cấu trúc này quá quen thuộc nên người nghe tự hiểu phần còn lại.
 
 <pre>
 冷めないうちに食べ<b>ないと</b>。
-You <b>must</b> eat before it gets cold.
+Bạn <b>phải</b> ăn trước khi nó nguội.
 </pre>
+

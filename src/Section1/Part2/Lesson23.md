@@ -1,100 +1,102 @@
-# Demonstratives with こそあど words
 
-Demonstratives are words that mean things like "this", "that", etc.
+# Từ chỉ định với nhóm từ こそあど
 
-Japanese is different from English on this front in two ways. First, its demonstratives are much more regular, and second, its demonstratives map to three "locations" instead of two. This is easier shown than explained, so let's look at examples:
+Từ chỉ định là những từ mang nghĩa như “cái này”, “cái kia”, v.v.
+
+Tiếng Nhật khác tiếng Anh ở điểm này theo hai cách. Thứ nhất, hệ thống từ chỉ định của tiếng Nhật có quy tắc rất rõ ràng. Thứ hai, chúng phân chia theo ba “vị trí” thay vì hai như tiếng Anh. Cách này dễ nhìn qua ví dụ hơn là giải thích:
 
 <pre>
 <b>こ</b>れ
-this (something that is near the speaker)
+cái này (vật ở gần người nói)
 
 <b>そ</b>れ
-that (something that is near the listener)
+cái đó (vật ở gần người nghe)
 
 <b>あ</b>れ
-that over there (something that is distant from both speaker and listener)
+cái kia đằng kia (vật ở xa cả người nói lẫn người nghe)
 
 <b>ど</b>れ
-which 
+cái nào 
 
 <b>これ</b>はペンです
-<b>This</b> is a pen
+<b>Cái này</b> là cây bút
 
 <b>それ</b>は猫ですか？
-Is <b>that</b> a cat? (the cat is close to the listener)
+<b>Cái đó</b> là con mèo à? (con mèo ở gần người nghe)
 
 <b>あれ</b>は何？
-What is <b>that</b>? (pointing at something away from both you and the listener)
+<b>Cái kia</b> là gì? (chỉ vào vật ở xa cả hai người)
 
 <b>どれ</b>がいい？  
-<b>Which</b> is good?
+<b>Cái nào</b> tốt?
 </pre>
 
-The above four words are "demonstrative pronouns". Two of them translate into English as "that", but they have different connotations in Japanese. それ is for things that are near the listener. あれ is for things that are far from both the speaker and the listener.
+Bốn từ trên được gọi là “đại từ chỉ định”. Trong đó có hai từ đều dịch là “cái đó” trong tiếng Anh, nhưng trong tiếng Nhật chúng mang sắc thái khác nhau. それ dùng cho vật ở gần người nghe. あれ dùng cho vật ở xa cả người nói lẫn người nghe.
 
-In case you hadn't noticed the pattern, as this lesson title points out, we sometimes call them all together こそあど because they differ between them only by the first kana syllable.
+Như tiêu đề bài học gợi ý, nhóm từ này thường được gọi chung là こそあど, vì chúng chỉ khác nhau ở âm tiết đầu.
 
-Even though the split between the two "that" exists, the way these words are used is very similar to how they are used in English.
+Mặc dù có sự phân biệt giữa hai kiểu “cái đó”, cách sử dụng các từ này nhìn chung khá giống với tiếng Anh.
 
-There is another group of very similar こそあど demonstratives that grammatically work differently, but when translated into English they are hard to explain, so let's look at examples first:
+Ngoài ra còn có một nhóm từ こそあど rất giống, nhưng cách hoạt động về mặt ngữ pháp thì khác. Khi dịch sang tiếng Anh cũng khó giải thích, nên ta xem ví dụ trước:
 
 <pre>
 この&lt;noun&gt;
-this &lt;noun&gt;
+&lt;danh từ&gt; này
 
 その&lt;noun&gt;
-that &lt;noun&gt;
+&lt;danh từ&gt; đó
 
 あの&lt;noun&gt;
-that &lt;noun&gt; over there
+&lt;danh từ&gt; kia
 
 どの&lt;noun&gt;
-which &lt;noun&gt;
+&lt;danh từ&gt; nào
 </pre>
 
-These words cannot exist standalone, and they **must** attach to the noun that comes after them. The meaning is the same as the other group, but their usage is slightly different. 
+Những từ này không thể đứng một mình, và **bắt buộc** phải đứng trước danh từ theo sau. Ý nghĩa cơ bản giống với nhóm trước, nhưng cách dùng hơi khác.
 
-Imagine you are holding a book and you want to say "This is a book". "Book" is the focus of the sentence, so you would say これは本です. You are simply stating "this \= book" using a copula. However, if you want to say something **about** this book, you would instead say この本は面白いです. **This book** is interesting. "This" and "book" become a single unit. In English both "This is a book" and "This book is interesting" use the same "this" word, but in Japanese one uses これ and the other uses この. 
+Giả sử bạn đang cầm một quyển sách và muốn nói “Đây là một quyển sách.” Lúc này “quyển sách” là trọng tâm của câu, nên bạn sẽ nói これは本です (cái này = sách). Nhưng nếu bạn muốn nói **về** quyển sách đó, bạn sẽ nói この本は面白いです. Quyển sách này thì thú vị. “Cái này” và “quyển sách” trở thành một cụm thống nhất. Trong tiếng Anh, cả “This is a book” và “This book is interesting” đều dùng “this”, nhưng trong tiếng Nhật, trường hợp đầu dùng これ, còn trường hợp sau dùng この.
 
-The same applies for all the other こそあど words with の. 
+Điều này cũng áp dụng cho tất cả các từ こそあど đi với の khác.
 
-There are many other words that fall into the こそあど type of structure. We won't cover all of them here, but they are usually fairly regular insofar as they all follow the rule:
+Có rất nhiều từ khác cũng thuộc kiểu cấu trúc こそあど. Ta không liệt kê hết ở đây, nhưng hầu hết đều tuân theo quy tắc:
 
 <pre>
-こ = close to the speaker  
-そ = close to the listener  
-あ = far from both  
-ど = question word
+こ = gần người nói  
+そ = gần người nghe  
+あ = xa cả hai  
+ど = từ để hỏi
 </pre>
 
-あ is the only row that has slightly irregular pronunciation, but you'll know when you come across them. Here are some examples:
+Hàng あ là hàng duy nhất có cách phát âm hơi bất quy tắc, nhưng bạn sẽ nhận ra khi gặp chúng. Một số ví dụ:
 
 |                   |                    |            |         |
 |-------------------|--------------------|------------|---------|
 | ここ              | そこ               | あそこ     | どこ    |
-| here (this place) | there (that place) | over there | where?  |
+| ở đây             | ở đó               | đằng kia   | ở đâu?  |
 
 <br />
 
 |                 |                 |                |                  |
 |-----------------|-----------------|----------------|------------------|
 | こちら          | そちら          | あちら         | どちら           |
-| this direction  | that direction  | that direction | which direction? |
+| hướng này       | hướng đó        | hướng kia      | hướng nào?       |
 
 <br />
 
 |                 |                |                |                  |
 |-----------------|----------------|----------------|------------------|
 | こう            | そう           | ああ           | どう             |
-| in this manner  | in that manner | in that manner | in which manner? |
+| theo cách này   | theo cách đó   | theo cách kia  | theo cách nào?   |
 
 <br />
 
 |           |           |            |            |
 |-----------|-----------|------------|------------|
 | こいつ    | そいつ    | あいつ     | どいつ     |
-| this dude | that dude | that dude  | which dude |
+| thằng này | thằng đó  | thằng kia  | thằng nào  |
 
-Note: The こちら group can also be used as a polite way to refer to people in a polite setting, because it adds indirectness. On the other hand, the こいつ group can often sound rude so don't call people こいつ.
+Ghi chú: Nhóm こちら cũng có thể dùng như cách gọi người một cách lịch sự, vì nó tạo cảm giác gián tiếp. Ngược lại, nhóm こいつ thường mang sắc thái thô lỗ, nên tránh dùng để gọi người.
 
-Just like in English, physical distance is not the only determiner for these words. They can also be used to refer to something that is distant in time. They can even be affected by the degree of familiarity on the topic between the speaker and the listener. Something mentioned earlier in a conversation might be referred to as あの\<thing\>, but something that has just been mentioned is more likely to be その\<thing\> instead. Just like in English we sometimes don't know if we should say "this" or "that", even in Japanese people don't always agree so the distinction is not always strict in these situations.  
+Cũng giống như tiếng Anh, khoảng cách vật lý không phải là yếu tố duy nhất quyết định việc dùng các từ này. Chúng cũng có thể dùng cho khoảng cách về thời gian. Ngoài ra, mức độ quen thuộc với chủ đề giữa người nói và người nghe cũng ảnh hưởng. Một thứ đã được nhắc đến trước đó trong cuộc trò chuyện có thể được gọi là あの〜, còn một thứ vừa mới nhắc đến thì thường là その〜. Tương tự như trong tiếng Anh, đôi khi chúng ta cũng phân vân giữa “this” và “that”, và trong tiếng Nhật cũng vậy — sự phân biệt không phải lúc nào cũng tuyệt đối.
+

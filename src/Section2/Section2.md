@@ -1,26 +1,26 @@
-# ABSOLUTE TERRITORY
+# Địa vực
 
-At this point, you should begin reading, skimming later lessons to see what the guide has to say about the unfamiliar grammar you encounter. The remainder of this guide is half guidance, half reference.
+Từ thời điểm này trở đi, bạn nên bắt đầu đọc, và thỉnh thoảng lướt qua các bài học phía sau để xem hướng dẫn này nói gì về những điểm ngữ pháp mà bạn gặp phải. Phần còn lại của hướng dẫn này sẽ vừa mang tính hướng dẫn, vừa mang tính tra cứu.
 
-Language learning takes time, even if you put in a lot of effort. You have to apply yourself, but you won't see big results until you do it for a long enough time. Think about what that means. The very first time you start reading, everything is going to feel really weird and you're not going to "get it". That's okay. It'd be weird if you didn't react that way. But reading (or using other forms of input, including listening) is the only way to make that weird feeling go away.
+Việc học ngôn ngữ cần thời gian, ngay cả khi bạn bỏ ra rất nhiều công sức. Bạn phải cố gắng, nhưng sẽ không thấy kết quả lớn cho đến khi bạn học đủ lâu. Hãy nghĩ về điều đó. Ngay lần đầu tiên bạn bắt đầu đọc, mọi thứ sẽ cảm thấy rất kỳ lạ và bạn sẽ không “hiểu” được gì cả. Điều đó hoàn toàn bình thường. Nếu bạn không phản ứng như vậy thì mới là lạ. Nhưng việc đọc (hoặc các hình thức tiếp nhận khác như nghe) là con đường duy nhất để cảm giác kỳ lạ đó dần biến mất.
 
-And this goes for every little part of reading. New words, grammar patterns, ways that Japanese people communicate, and figures of speech. They all feel weird and alien at first and don't make sense. But eventually, once you are exposed to them enough, you'll kinda start to "get it". That's why you've gotta start reading. You have to start the process of getting your brain familiarized with it in ways that we don't consciously understand yet.
+Và điều này áp dụng cho mọi khía cạnh nhỏ của việc đọc. Từ mới, mẫu ngữ pháp, cách người Nhật giao tiếp, hay cách nói ẩn dụ. Ban đầu tất cả đều xa lạ và khó hiểu. Nhưng dần dần, khi bạn tiếp xúc đủ nhiều, bạn sẽ bắt đầu “nắm được”. Đó là lý do bạn phải bắt đầu đọc. Bạn cần khởi động quá trình làm cho bộ não quen với tiếng Nhật theo những cách mà hiện tại chúng ta chưa hoàn toàn ý thức được.
 
-This guide can't teach you Japanese. Nobody can teach you Japanese. The only way to learn Japanese is to understand messages that are written or said in Japanese. But why is the focus on "understanding messages" in particular? 
+Hướng dẫn này không thể dạy bạn tiếng Nhật. Không ai có thể “dạy” bạn tiếng Nhật. Cách duy nhất để học tiếng Nhật là hiểu được những thông điệp được viết ra hoặc nói ra bằng tiếng Nhật. Nhưng tại sao lại nhấn mạnh vào “hiểu thông điệp”?
 
-Two reasons:
+Có hai lý do:
 
-- If something is way out of your depth, you won't learn anything from it. If you don't understand what's being said, you won't learn anything new about the vocabulary and grammar used in it.  
-- It's totally possible to consume something and understand its individual parts but have no idea what it "means". You can break 食べてきました down into its individual parts, and that helps you see the syntax, but unless you understand **what** it's saying, not just **how** it's said, you won't acquire anything from the message. Understanding the content or meaning of the message itself is a precondition to learning from it.
+- Nếu thứ gì đó vượt quá trình độ của bạn quá nhiều, bạn sẽ không học được gì từ nó. Nếu bạn không hiểu nội dung đang được nói, bạn cũng sẽ không học được thêm gì về từ vựng hay ngữ pháp trong đó.  
+- Hoàn toàn có thể tiếp xúc với một thứ gì đó, hiểu từng mảnh riêng lẻ, nhưng lại không biết nó “có nghĩa là gì”. Bạn có thể tách 食べてきました thành các thành phần để thấy cấu trúc, nhưng nếu bạn không hiểu **nó đang nói gì**, chứ không chỉ **nó được nói như thế nào**, thì bạn sẽ không tiếp thu được gì từ thông điệp đó. Việc hiểu nội dung hay ý nghĩa của thông điệp là điều kiện tiên quyết để học được từ nó.
 
-A lot of people start learning a language and focus on picking apart messages one word or phrase at a time, like it's a puzzle. This can make things seem less confusing, but if you insist on doing it all the time, you'll miss the big picture and fail to comprehend a lot of messages.
+Nhiều người khi bắt đầu học ngôn ngữ thường tập trung vào việc mổ xẻ câu chữ từng từ, từng cụm, giống như giải một câu đố. Điều này có thể làm mọi thứ bớt rối, nhưng nếu bạn luôn làm như vậy, bạn sẽ bỏ lỡ bức tranh tổng thể và không hiểu được nhiều thông điệp.
 
-This is made worse when you think that your grammar guide teaches you everything that you need to know. In reality, guides can't teach you all the high level stuff unless you're some kind of linguistics savant.
+Vấn đề càng nặng hơn nếu bạn nghĩ rằng sách ngữ pháp có thể dạy bạn mọi thứ bạn cần biết. Trên thực tế, không có hướng dẫn nào có thể dạy hết những thứ ở cấp độ cao, trừ khi bạn là một thiên tài ngôn ngữ học.
 
-Once you figure out "Huh, 食べてきました seems to be used in \<situation X\> a lot", that's when it's time to break it down and try to see what individual parts contribute, comparing them to similar phrases you already know. If you always start with the individual parts, you'll miss the general idea, and fail to associate the phrase with the situation.
+Khi bạn nhận ra: “À, 食べてきました có vẻ hay được dùng trong \<tình huống X\>”, đó mới là lúc nên tách nó ra và xem từng phần đóng góp điều gì, đồng thời so sánh với những cách nói tương tự mà bạn đã biết. Nếu lúc nào bạn cũng bắt đầu từ từng phần nhỏ, bạn sẽ bỏ lỡ ý nghĩa chung và không gắn được cả cụm với tình huống sử dụng.
 
-That association is what lets your brain acquire the language and get a fluent handle on it. Noticing what things mean when they're used is the thing that you need to do if you want to learn japanese. No textbook, not even the best one, and no grammar guide, not even this one, can give you that. It's all up to you.
+Chính sự liên kết đó mới giúp não bộ tiếp thu ngôn ngữ và dần sử dụng nó một cách trôi chảy. Việc chú ý xem các cách nói có nghĩa gì khi chúng được dùng mới là điều quan trọng nếu bạn muốn học tiếng Nhật. Không sách giáo khoa nào, kể cả sách tốt nhất, và không hướng dẫn ngữ pháp nào, kể cả cái này, có thể làm thay bạn điều đó. Mọi thứ phụ thuộc vào bạn.
 
-Don't think. Feel. 
+Đừng suy nghĩ quá nhiều. Hãy cảm nhận.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/shgRN32ubag?si=DeSEOrwryaSpnG37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
