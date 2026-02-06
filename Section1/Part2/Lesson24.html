@@ -1,0 +1,270 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 24: Thể bị động và cặp động từ tự động / tha động - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="thể-bị-động-và-cặp-động-từ-tự-động--tha-động"><a class="header" href="#thể-bị-động-và-cặp-động-từ-tự-động--tha-động">Thể bị động và cặp động từ tự động / tha động</a></h1>
+<p>Động từ bị động (passive) tồn tại để biến tân ngữ của động từ thành chủ ngữ. Khác với てある, thể bị động mô tả <strong>hành động đang xảy ra</strong>, chứ không phải trạng thái còn lại sau khi hành động đó hoàn tất.</p>
+<p>Một ví dụ đơn giản trong tiếng Anh là: “The cake is eaten by me.”<br />
+Dạng chủ động tương ứng là: “I eat the cake.”<br />
+Trong câu bị động, “the cake” trở thành chủ ngữ, và hành động “ăn” được nhìn từ góc độ của chiếc bánh.</p>
+<p>Động từ godan và ichidan tạo thể bị động theo cách khác nhau.</p>
+<ul>
+<li>Với động từ godan: lấy dạng phủ định (dạng ない) rồi thay ない bằng れる.</li>
+<li>Với động từ ichidan: lấy thân động từ rồi thêm られる.</li>
+</ul>
+<p>Khi chuyển sang thể bị động, cả động từ godan lẫn ichidan đều trở thành động từ ichidan và chia theo quy tắc của ichidan.</p>
+<div class="table-wrapper"><table><thead><tr><th>Chủ động</th><th>Bị động</th></tr></thead><tbody>
+<tr><td>食べる</td><td>食べ<strong>られる</strong></td></tr>
+<tr><td>ăn</td><td>bị ăn</td></tr>
+</tbody></table>
+</div><br />
+<div class="table-wrapper"><table><thead><tr><th>Chủ động</th><th>Bị động</th></tr></thead><tbody>
+<tr><td>殺す</td><td>殺<strong>される</strong></td></tr>
+<tr><td>giết</td><td>bị giết</td></tr>
+</tbody></table>
+</div><pre>
+殺さ<b>れた</b>人間の死体
+Xác của những người đã bị giết.
+
+魚が食べ<b>られた</b>
+Con cá đã bị ăn.
+</pre>
+<p>Người hoặc vật thực hiện hành động được gọi là “tác nhân”. Nếu muốn nêu rõ tác nhân trong câu bị động, ta dùng に hoặc によって; với một số động từ, から cũng có thể dùng được. Có những quy tắc chi tiết cho việc chọn に hay によって, nhưng ở giai đoạn này bạn chỉ cần nhận diện mẫu câu là đủ.</p>
+<pre>
+魚が猫<b>に</b>食べられた
+Con cá bị ăn <b>bởi</b> một con mèo.
+</pre>
+<p>Trong ngữ pháp, có khái niệm “tính chuyển động” (transitivity) của động từ, tức là động từ đó có nhận tân ngữ trực tiếp hay không. Như đã học ở <a href="../Part1/Lesson3.html">Lesson 3</a>, tân ngữ trực tiếp được đánh dấu bằng を, còn chủ ngữ được đánh dấu bằng が.</p>
+<pre>
+<b>彼を</b>殺した
+Tôi đã giết <b>anh ta</b>. (tha động)
+
+<b>彼が</b>死ぬ
+<b>Anh ta</b> chết. (tự động)
+</pre>
+<p>Lưu ý: Đừng nhầm rằng cứ thấy が là tự động từ, và cứ thấy を là tha động từ. Tha động từ vẫn có chủ ngữ. Câu 私が魚を食べる vẫn dùng động từ 食べる là tha động từ, dù trong câu có が.</p>
+<p>“Cặp động từ tự động / tha động” là những cặp động từ tiếng Nhật cùng diễn tả một loại hành động, nhưng một cái là tha động từ, cái còn lại là tự động từ.</p>
+<div class="table-wrapper"><table><thead><tr><th>Tha động từ</th><th>Tự động từ</th></tr></thead><tbody>
+<tr><td>(XがYを)上げる</td><td>(Xが)上がる</td></tr>
+<tr><td>nâng một thứ gì đó</td><td>một thứ gì đó tăng / lên</td></tr>
+</tbody></table>
+</div><br />
+<div class="table-wrapper"><table><thead><tr><th>Tha động từ</th><th>Tự động từ</th></tr></thead><tbody>
+<tr><td>(XがYを)出す</td><td>(Xが)出る</td></tr>
+<tr><td>đưa / lấy ra cái gì đó</td><td>ra ngoài / thoát ra</td></tr>
+</tbody></table>
+</div>
+<p>Trong tiếng Anh, các cặp tự động / tha động như vậy khá hiếm (raise / rise là ví dụ thường được nhắc đến), vì trong nhiều trường hợp cùng một động từ tiếng Anh có thể dùng cho cả hai:<br />
+“I blew up a car” (hành động có tân ngữ)<br />
+“A car blew up” (hành động tự xảy ra)</p>
+<p>Điều quan trọng là phải phân biệt giữa <strong>tự động từ</strong> và <strong>tha động từ ở thể bị động</strong>.<br />
+Tự động từ vẫn mô tả một hành động do chủ ngữ chủ động thực hiện.<br />
+Tha động từ ở thể bị động thì mô tả một hành động mà chủ ngữ <strong>bị tác động</strong>, do ảnh hưởng từ người hoặc vật khác.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section1/Part2/Lesson23.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section1/Part2/Lesson25.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section1/Part2/Lesson23.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section1/Part2/Lesson25.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

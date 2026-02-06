@@ -1,0 +1,251 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Câu hỏi thường gặp - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="frequently-asked-questions"><a class="header" href="#frequently-asked-questions">Frequently Asked Questions</a></h1>
+<p>This is a list of questions that people regularly ask <strong>about the guide</strong>. These are <strong>not</strong> questions about learning Japanese, but rather about the Yokubi project.</p>
+<h3 id="why-did-you-steal-someone-elses-work"><a class="header" href="#why-did-you-steal-someone-elses-work">Why did you steal someone else's work?</a></h3>
+<p>It is not a secret that Yokubi is almost entirely based on <a href="https://sakubi.neocities.org/">sakubi</a>. Most of the lessons, topics, and a lot of the phrasings have been straight up copied, rephrased, and rearranged but the core of the guide is still the same.</p>
+<p>However, I <strong>did not</strong> steal sakubi. Sakubi is an open project, given by the Sakubi author (a good friend of mine) to the community as is. It is released under CC0 licensing as <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a>. On top of that, the Sakubi project is abandoned and hasn't received updates since 2018. If you still don't trust me, I even talked to the original author and got his blessing with Yokubi.</p>
+<p><strong>Yokubi is the official spiritual successor of Sakubi</strong></p>
+<h3 id="what-are-the-changes-with-sakubi"><a class="header" href="#what-are-the-changes-with-sakubi">What are the changes with Sakubi?</a></h3>
+<p>I originally tried to keep track of all the changes, both minor and major, with the original guide. But the more I wrote, the more I wanted to change, to a point where the structure is now significantly different. Yet, I can list <strong>some</strong> of the changes. This list is not a complete list, but should give you a good idea of the amount of work that went into this.</p>
+<h4 id="major-changes"><a class="header" href="#major-changes">Major Changes</a></h4>
+<ul>
+<li>Lessons have been split into individual pages under an mdbook format rather than a single standalone web page. This makes it easier to browse and share individual lessons with other learners.</li>
+<li>Dropped words like "one form" and "five forms" in favor of ichidan and godan terminology for verbs</li>
+<li>A few lessons and grammar points have been split into separate lessons. Sakubi has 54 lessons. Yokubi has 63.</li>
+<li>Added a new lesson on negative state of being</li>
+<li>Added a lesson 0 on the anatomy of Japanese sentences</li>
+<li>Several lessons have been reshuffled and re-ordered to have more reasonable priority sorting of importance</li>
+<li>Added a section on する verbs</li>
+<li>Added a lesson on ようとする and てみる (rather than an optional section)</li>
+<li>Added a specific lesson for たり〜たり</li>
+<li>Grouped together some "Parts". Sakubi split Section 1 and 2 into several parts. Yokubi has 2 sections with 2 parts each.</li>
+<li>Removed the notion of "intermissions" and "hidden/optional lessons". An appendix index is being planned instead (This is not finished yet)</li>
+<li>Almost every single example sentence has been re-sourced (from native media) and re-sorted by difficulty/appropriateness. Aside a few exceptions, example sentences will not show grammar points that haven't been covered yet.</li>
+</ul>
+<h4 id="minor-changes"><a class="header" href="#minor-changes">Minor Changes</a></h4>
+<ul>
+<li>Changed some tone and voice. A lot of first person writing has been changed to a more appealing format.</li>
+<li>Reworded a lot of grammar explanations to be less jargony</li>
+<li>Changed some links to some videos and resources for better (newer) alternatives</li>
+<li>Removed a lot of questionable statements that were incorrect or very opinionated / hard to verify the correctness of</li>
+<li>Fixed a lot of typos and straight up mistakes</li>
+</ul>
+<h3 id="who-owns-yokubi"><a class="header" href="#who-owns-yokubi">Who owns Yokubi?</a></h3>
+<p>Yokubi as a project was started by <a href="https://morg.systems">Morg</a>, and the project lives in the public on <a href="https://github.com/Morgawr/yokubi">github</a>. However, the project itself is a community project open to discussion, feedback, and contributions from anyone. A lot of people have helped with ideas, fixes, suggestions, proofreading, testing, etc. If you want to join them too, you can file issues on github, or just join our <a href="https://discord.gg/KZj4dVFDzu">discord server</a>.</p>
+<h3 id="what-makes-yokubi-better-than-other-grammar-guides"><a class="header" href="#what-makes-yokubi-better-than-other-grammar-guides">What makes Yokubi better than other grammar guides?</a></h3>
+<p>I am very opinionated in how I want this guide to be. There are a lot of other amazing grammar guides (and textbooks) out there if you want to learn Japanese. Yokubi (and Sakubi) aren't the "best" or "the ultimate" guide or anything like that. They are just one way of approaching things. Just like its predecessor, Yokubi focuses on (usually) short, straight to the point, and very direct explanations. It does <strong>not</strong> hold your hand the whole way. It <strong>expects</strong> the reader to put in some work and active effort. To look things up, and to achieve independence of their own learning. It also <strong>expects</strong> the learner to focus more on immersion and natural content, rather than worry about specific grammar explanations to the tiniest of details.</p>
+<p>If you believe this matches your idea of Japanese learning, then start from the <a href="./Before-you-begin.html">Before you begin</a> page and get learning. If not, there are other guides out there too. <strong>Yokubi is not expected to work for everyone</strong>.</p>
+<h3 id="what-does-yokubi-mean"><a class="header" href="#what-does-yokubi-mean">What does yokubi mean?</a></h3>
+<p>Just like <a href="https://imabi.org/">Imabi - 今日</a> and <a href="https://sakubi.neocities.org/">Sakubi - 昨日</a> are puns on the words 今日 (today) and 昨日 (yesterday), Yokubi is a pun on the word 翌日, as in the following day. It also doubles as an inside joke I have among friends, where "yoku" (よく) is used <strong>incorrectly</strong> as a shorthand version of よくある文法 or よくある言葉 (= "common grammar" or "common word").</p>
+<p>And just like that, Yokubi is the <strong>common</strong> grammar guide.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="ClosingWords.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="Credits.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="ClosingWords.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="Credits.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="js/lunr.stemmer.support.js"></script>
+        <script src="js/tinyseg.js"></script>
+        <script src="js/lunr.jp.js"></script>
+        <script src="js/lunr.multi.js"></script>
+        <script src="js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

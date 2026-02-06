@@ -1,0 +1,254 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 58: Hướng đi của hành động với ていく và てくる - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="tính-định-hướng-với-ていく-và-てくる"><a class="header" href="#tính-định-hướng-với-ていく-và-てくる">Tính định hướng với ていく và てくる</a></h1>
+<p>Chúng ta đã nhắc sơ qua về khái niệm “tính định hướng” trong <a href="../../Section1/Part1/Lesson11.html">Lesson 11</a> thông qua các trợ động từ cho – nhận như てあげる, てもらう và てくれる. Bây giờ ta sẽ đi sâu hơn một chút và giới thiệu thêm hai trợ động từ nữa: ていく và てくる.</p>
+<p>Khi không dùng với tư cách trợ động từ, Vていく và Vてくる đơn giản mang nghĩa đúng như mặt chữ: “làm V rồi đi đâu đó” hoặc “làm V rồi đến đâu đó”. Tuy nhiên, khi dùng như trợ động từ, ý nghĩa của chúng trở nên sâu hơn và không chỉ là phép cộng đơn giản của từng phần.</p>
+<p>Trợ động từ ていく diễn tả một sự việc đang diễn ra và sẽ “tiếp tục diễn tiến” theo hướng rời xa người nói, về mặt không gian hoặc thời gian (hiện tại → tương lai). ていく trong văn nói đôi khi được rút gọn thành てく.</p>
+<pre>
+それはどんどんと大きくなっ<b>ていく</b>。
+Nó <b>cứ</b> lớn dần lên.
+</pre>
+<p>Tương tự, trợ động từ てくる diễn tả một sự việc đã bắt đầu ở đâu đó xa và đang tiếp diễn theo hướng tiến lại gần người nói, về mặt không gian hoặc thời gian (quá khứ → hiện tại), và có thể còn tiếp tục nữa.</p>
+<pre>
+声が背後から聞こえ<b>てくる</b>。
+Tôi nghe thấy một giọng nói <b>vọng lại</b> từ phía sau.
+</pre>
+<p>Cách dùng của ていく và てくる rất tinh tế và phức tạp, và bài này chỉ mới chạm tới bề mặt của vấn đề, đặc biệt khi kết hợp với các thì khác nhau.</p>
+<p>Trước mắt, hãy xem các ví dụ sau. Theo thời gian và trải nghiệm, bạn sẽ dần quen với các sắc thái và cách dùng phổ biến.</p>
+<pre>
+これまで見えなかったものが見えるようになっ<b>てきた</b>。
+Những thứ trước giờ không thấy được đã bắt đầu trở nên nhìn thấy.
+
+周囲が騒がしくなっ<b>てきた</b>。
+Xung quanh bắt đầu trở nên ồn ào.
+
+顔色がだんだん悪くなっ<b>てきている</b>。
+Sắc mặt cô ấy đang dần dần trở nên tệ hơn.
+
+時間はあっという間に過ぎ<b>ていった</b>。
+Thời gian trôi qua trong chớp mắt.
+
+この世界は、少しずつ変わっ<b>ていっている</b>。
+Thế giới này đang từng chút một thay đổi.
+</pre>
+<p>Một số động từ <strong>bắt buộc</strong> phải đi kèm với trợ động từ chỉ hướng thì câu mới tự nhiên hoặc đúng nghĩa. Ví dụ, động từ 引っ越す nghĩa là “chuyển nhà”, nhưng trong tiếng Nhật bản thân nó không mang rõ sắc thái “di chuyển” hay “chuyển dịch trạng thái” như trong tiếng Anh. Khi muốn nói “tôi vừa chuyển đến đây” và nhấn mạnh sự thay đổi trạng thái, ta cần dùng thêm trợ động từ chỉ hướng. Các động từ như 送る (gửi) hay 歩く (đi bộ) cũng có cách dùng tương tự.</p>
+<pre>
+親の都合で、この街に引っ越し<b>てきた</b>
+Vì hoàn cảnh của bố mẹ, tôi đã chuyển đến thị trấn này.
+
+メールを送っ<b>てきた</b>人物は、結局何者だったのか。
+Rốt cuộc người đã gửi email đó là ai?
+
+一人の少女がこちらに歩い<b>てきた</b>。
+Một cô gái đi bộ về phía tôi.
+</pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section2/Part4/Lesson57.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section2/Part4/Lesson59.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section2/Part4/Lesson57.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section2/Part4/Lesson59.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

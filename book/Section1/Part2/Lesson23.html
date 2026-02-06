@@ -1,0 +1,290 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 23: Từ chỉ thị với nhóm こそあど - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="từ-chỉ-định-với-nhóm-từ-こそあど"><a class="header" href="#từ-chỉ-định-với-nhóm-từ-こそあど">Từ chỉ định với nhóm từ こそあど</a></h1>
+<p>Từ chỉ định là những từ mang nghĩa như “cái này”, “cái kia”, v.v.</p>
+<p>Tiếng Nhật khác tiếng Anh ở điểm này theo hai cách. Thứ nhất, hệ thống từ chỉ định của tiếng Nhật có quy tắc rất rõ ràng. Thứ hai, chúng phân chia theo ba “vị trí” thay vì hai như tiếng Anh. Cách này dễ nhìn qua ví dụ hơn là giải thích:</p>
+<pre>
+<b>こ</b>れ
+cái này (vật ở gần người nói)
+
+<b>そ</b>れ
+cái đó (vật ở gần người nghe)
+
+<b>あ</b>れ
+cái kia đằng kia (vật ở xa cả người nói lẫn người nghe)
+
+<b>ど</b>れ
+cái nào 
+
+<b>これ</b>はペンです
+<b>Cái này</b> là cây bút
+
+<b>それ</b>は猫ですか？
+<b>Cái đó</b> là con mèo à? (con mèo ở gần người nghe)
+
+<b>あれ</b>は何？
+<b>Cái kia</b> là gì? (chỉ vào vật ở xa cả hai người)
+
+<b>どれ</b>がいい？  
+<b>Cái nào</b> tốt?
+</pre>
+<p>Bốn từ trên được gọi là “đại từ chỉ định”. Trong đó có hai từ đều dịch là “cái đó” trong tiếng Anh, nhưng trong tiếng Nhật chúng mang sắc thái khác nhau. それ dùng cho vật ở gần người nghe. あれ dùng cho vật ở xa cả người nói lẫn người nghe.</p>
+<p>Như tiêu đề bài học gợi ý, nhóm từ này thường được gọi chung là こそあど, vì chúng chỉ khác nhau ở âm tiết đầu.</p>
+<p>Mặc dù có sự phân biệt giữa hai kiểu “cái đó”, cách sử dụng các từ này nhìn chung khá giống với tiếng Anh.</p>
+<p>Ngoài ra còn có một nhóm từ こそあど rất giống, nhưng cách hoạt động về mặt ngữ pháp thì khác. Khi dịch sang tiếng Anh cũng khó giải thích, nên ta xem ví dụ trước:</p>
+<pre>
+この&lt;noun&gt;
+&lt;danh từ&gt; này
+
+その&lt;noun&gt;
+&lt;danh từ&gt; đó
+
+あの&lt;noun&gt;
+&lt;danh từ&gt; kia
+
+どの&lt;noun&gt;
+&lt;danh từ&gt; nào
+</pre>
+<p>Những từ này không thể đứng một mình, và <strong>bắt buộc</strong> phải đứng trước danh từ theo sau. Ý nghĩa cơ bản giống với nhóm trước, nhưng cách dùng hơi khác.</p>
+<p>Giả sử bạn đang cầm một quyển sách và muốn nói “Đây là một quyển sách.” Lúc này “quyển sách” là trọng tâm của câu, nên bạn sẽ nói これは本です (cái này = sách). Nhưng nếu bạn muốn nói <strong>về</strong> quyển sách đó, bạn sẽ nói この本は面白いです. Quyển sách này thì thú vị. “Cái này” và “quyển sách” trở thành một cụm thống nhất. Trong tiếng Anh, cả “This is a book” và “This book is interesting” đều dùng “this”, nhưng trong tiếng Nhật, trường hợp đầu dùng これ, còn trường hợp sau dùng この.</p>
+<p>Điều này cũng áp dụng cho tất cả các từ こそあど đi với の khác.</p>
+<p>Có rất nhiều từ khác cũng thuộc kiểu cấu trúc こそあど. Ta không liệt kê hết ở đây, nhưng hầu hết đều tuân theo quy tắc:</p>
+<pre>
+こ = gần người nói  
+そ = gần người nghe  
+あ = xa cả hai  
+ど = từ để hỏi
+</pre>
+<p>Hàng あ là hàng duy nhất có cách phát âm hơi bất quy tắc, nhưng bạn sẽ nhận ra khi gặp chúng. Một số ví dụ:</p>
+<div class="table-wrapper"><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody>
+<tr><td>ここ</td><td>そこ</td><td>あそこ</td><td>どこ</td></tr>
+<tr><td>ở đây</td><td>ở đó</td><td>đằng kia</td><td>ở đâu?</td></tr>
+</tbody></table>
+</div><br />
+<div class="table-wrapper"><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody>
+<tr><td>こちら</td><td>そちら</td><td>あちら</td><td>どちら</td></tr>
+<tr><td>hướng này</td><td>hướng đó</td><td>hướng kia</td><td>hướng nào?</td></tr>
+</tbody></table>
+</div><br />
+<div class="table-wrapper"><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody>
+<tr><td>こう</td><td>そう</td><td>ああ</td><td>どう</td></tr>
+<tr><td>theo cách này</td><td>theo cách đó</td><td>theo cách kia</td><td>theo cách nào?</td></tr>
+</tbody></table>
+</div><br />
+<div class="table-wrapper"><table><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody>
+<tr><td>こいつ</td><td>そいつ</td><td>あいつ</td><td>どいつ</td></tr>
+<tr><td>thằng này</td><td>thằng đó</td><td>thằng kia</td><td>thằng nào</td></tr>
+</tbody></table>
+</div>
+<p>Ghi chú: Nhóm こちら cũng có thể dùng như cách gọi người một cách lịch sự, vì nó tạo cảm giác gián tiếp. Ngược lại, nhóm こいつ thường mang sắc thái thô lỗ, nên tránh dùng để gọi người.</p>
+<p>Cũng giống như tiếng Anh, khoảng cách vật lý không phải là yếu tố duy nhất quyết định việc dùng các từ này. Chúng cũng có thể dùng cho khoảng cách về thời gian. Ngoài ra, mức độ quen thuộc với chủ đề giữa người nói và người nghe cũng ảnh hưởng. Một thứ đã được nhắc đến trước đó trong cuộc trò chuyện có thể được gọi là あの〜, còn một thứ vừa mới nhắc đến thì thường là その〜. Tương tự như trong tiếng Anh, đôi khi chúng ta cũng phân vân giữa “this” và “that”, và trong tiếng Nhật cũng vậy — sự phân biệt không phải lúc nào cũng tuyệt đối.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section1/Part2/Lesson22.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section1/Part2/Lesson24.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section1/Part2/Lesson22.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section1/Part2/Lesson24.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

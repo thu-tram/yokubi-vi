@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 43: Diễn đạt sự giống nhau và tin đồn với みたい, らしい, ぽい và そう - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="diễn-tả-sự-giống-nhau-và-tin-đồn-với-みたい-らしい-ぽい-và-そう"><a class="header" href="#diễn-tả-sự-giống-nhau-và-tin-đồn-với-みたい-らしい-ぽい-và-そう">Diễn tả sự giống nhau và tin đồn với みたい, らしい, ぽい, và そう</a></h1>
+<p>Trong tiếng Nhật có rất nhiều cách để nói “X giống Y” hoặc “X trông như Y”.</p>
+<p>Một trong số đó là hậu tố tính từ な là みたい. Hình thức của nó trông giống dạng たい của 見る → 見たい, nhưng trong tiếng Nhật hiện đại, đây là hai thứ hoàn toàn khác nhau và không nên nhầm lẫn.</p>
+<p>みたい (luôn luôn viết bằng kana và <strong>không bao giờ</strong> viết bằng 見たい) là một tính từ な và chia giống như tính từ な. Nghĩa của nó là “có vẻ như”, “trông như”.</p>
+<pre>
+あの人、日本人<b>みたい</b>
+Người kia có vẻ là người Nhật / Trông như người Nhật
+
+ヒーロー<b>みたいな</b>人
+Một người giống như anh hùng
+</pre>
+<p>Mặc dù みたい về bản chất là tính từ な, nhưng khi dùng như trạng từ thì đôi khi nó lại biến đổi giống tính từ い. Cách dùng này mang tính khẩu ngữ/slang, nhưng khá phổ biến trong phim ảnh, truyện, v.v., nên bạn sẽ gặp thường xuyên.</p>
+<pre>
+子供<b>みたいに</b>ブランコに乗っている
+子供<b>みたく</b>ブランコに乗っている
+Anh ấy đang ngồi xích đu như một đứa trẻ
+</pre>
+<p>Cả hai câu đều đúng, nhưng câu đầu trang trọng và chuẩn hơn.</p>
+<p>らしい là một tính từ phụ trợ gắn vào danh từ hoặc động từ/tính từ để diễn đạt rằng “có vẻ là đúng” dựa trên tình huống hoặc thông tin có được. Nó phù hợp với các trường hợp dịch là “có vẻ là X”, hơn là “kiểu X”.</p>
+<pre>
+日本人<b>らしい</b>名前。
+Một cái tên có vẻ là của người Nhật.
+</pre>
+<p>らしい cũng có thể mang nghĩa “nghe nói là”, dùng để truyền đạt thông tin nghe từ người khác.</p>
+<pre>
+出発は明日の昼頃になる<b>らしい</b>。
+<b>Nghe nói</b> là sẽ khởi hành vào khoảng trưa ngày mai.
+</pre>
+<p>ぽい / っぽい là hậu tố tính từ い, diễn tả cảm nhận chủ quan rằng “trông có vẻ như vậy” dựa trên bề ngoài hoặc những đặc trưng mang tính khuôn mẫu. Thường dịch là “na ná”, “kiểu kiểu”, “giống X”. Sắc thái thân mật.</p>
+<pre>
+今、僕の名前、女<b>っぽい</b>って思ったでしょ？
+Bạn vừa nghĩ tên tôi nghe giống con gái<b>-ish</b>, đúng không?
+</pre>
+<p>Có hai cách dùng khác nhau của hậu tố そう.</p>
+<p>Cách thứ nhất gắn vào masu-stem của động từ hoặc tính từ, mang nghĩa “trông có vẻ…”. Dùng để diễn tả ấn tượng chủ quan, thường dựa trên bề ngoài. Khi gắn vào, そう biến cụm đó thành tính từ な.</p>
+<pre>
+おいし<b>そう</b>なスープです。
+Một bát súp trông có vẻ ngon.
+</pre>
+<div class="warning">
+Đừng nhầm từ かわいそう (đáng thương) với dạng そう của かわいい (dễ thương). Thực tế không tồn tại dạng かわいい + そう. Nếu muốn nói “trông có vẻ dễ thương”, bạn có thể dùng かわいくみえる.
+</div>
+<p>Cách dùng thứ hai của そう gắn vào dạng hoàn chỉnh của từ đứng trước, nên với danh từ và tính từ な sẽ trở thành だそう. Cách này mang nghĩa “nghe nói là” và tương tự với cách dùng らしい để truyền đạt tin đồn, nhưng cảm giác trang trọng hơn một chút.</p>
+<pre>
+2000人以上が死んだ<b>そう</b>です。
+<b>Nghe nói</b> hơn 2000 người đã chết.
+</pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section2/Part3/Lesson42.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section2/Part3/Lesson44.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section2/Part3/Lesson42.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section2/Part3/Lesson44.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

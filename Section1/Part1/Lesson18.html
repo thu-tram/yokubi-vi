@@ -1,0 +1,263 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 18: Sự tồn tại với いる và ある, cùng với である - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="sự-tồn-tại-với-いる-và-ある-cùng-với-である"><a class="header" href="#sự-tồn-tại-với-いる-và-ある-cùng-với-である">Sự tồn tại với いる và ある cùng với である</a></h1>
+<p>Hai động từ いる và ある dùng để diễn đạt sự tồn tại. Sự khác nhau giữa chúng nằm ở việc chủ thể có phải là “sinh vật” hay không. Động vật và con người dùng いる, còn bàn ghế hay bánh mì thì dùng ある. Những thứ như xe hơi, có thể di chuyển nhưng không phải sinh vật, đôi khi có thể dùng cả hai tùy theo ngữ cảnh và trọng tâm câu nói. Đừng hiểu nhầm rằng đây là vấn đề “có sống hay không”. Không phải vậy. Ví dụ, bão dùng いる vì chúng tự di chuyển. Robot trong phim khoa học viễn tưởng cũng thường dùng いる. Đôi khi con người cũng có thể đi với ある, đặc biệt trong tiếng Nhật cổ hoặc các cụm cố định.</p>
+<pre>
+家には猫が<b>いる</b>
+Trong nhà có một con mèo.
+
+店が<b>ある</b>
+Có một cửa hàng.
+</pre>
+<div class="warning">
+Cả ある và いる đều là động từ chỉ sự tồn tại, và khi đánh dấu địa điểm tồn tại, ta thường dùng に thay vì で.
+</div>
+<p>Đôi khi, khi muốn nói rằng mình “có / sở hữu” một thứ gì đó, người Nhật dùng ある hoặc いる. Về mặt nghĩa gốc, chúng không có nghĩa là “sở hữu”, nhưng cách diễn đạt này tương đương với “have” trong tiếng Anh. Chỉ khác nhau về cách nói.</p>
+<pre>
+デスクが<b>ある</b>
+Có một cái bàn / Tôi có một cái bàn
+
+私の家には猫が<b>いる</b>
+Tôi có một con mèo.
+</pre>
+<p>いる được chia như một động từ ichidan.</p>
+<div class="warning">
+Có một động từ khác cũng đọc là いる: 要る, nghĩa là “cần”. Động từ này lại chia theo kiểu godan, vì vậy ngoài dạng từ điển ra, bạn có thể dễ dàng phân biệt hai động từ này khi nhìn vào cách chia của chúng.
+</div>
+<p>ある được chia như một động từ godan, nhưng dạng phủ định của nó là bất quy tắc.</p>
+<div class="table-wrapper"><table><thead><tr><th></th></tr></thead><tbody>
+<tr><td>ある</td></tr>
+<tr><td><strong>ない</strong></td></tr>
+<tr><td>あった</td></tr>
+<tr><td>あります</td></tr>
+<tr><td>ありません</td></tr>
+</tbody></table>
+</div><pre>
+店は<b>ない</b>
+Không có cửa hàng.
+</pre>
+<p>Bây giờ khi đã biết ある, chúng ta có thể nói về nguồn gốc của だ: đó là である. である là dạng trang trọng của だ (là). Không giống như だ và です, である có thể dùng trong mệnh đề quan hệ bổ nghĩa cho danh từ:</p>
+<pre>
+*友達だ人  
+(vô nghĩa / sai ngữ pháp)
+
+友達<b>である</b>人
+Người là bạn (cách nói trang trọng)
+</pre>
+<p>Có thể bạn còn nhớ rằng chúng ta dùng ではない làm dạng phủ định của だ. Thực chất, ではない chính là dạng phủ định của である.</p>
+<pre>
+である
+であった
+で(は)ない
+</pre>
+<p><strong>Lưu ý</strong>: Dạng でない cũng tồn tại, nhưng vì một đặc điểm lịch sử của ngôn ngữ, việc thêm は đã trở thành dạng tiêu chuẩn khi phủ định である. Không có lý do đặc biệt nào khác ngoài “nó là như vậy”. Bạn vẫn có thể gặp でない, nhất là trong văn viết trang trọng hoặc một số cụm cố định.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section1/Part1/Lesson17.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section1/Part2.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section1/Part1/Lesson17.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section1/Part2.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>

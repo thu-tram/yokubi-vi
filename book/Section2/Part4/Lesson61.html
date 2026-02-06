@@ -1,0 +1,266 @@
+<!DOCTYPE HTML>
+<html lang="ja" class="navy sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bài 61: Ước chừng với ころ và くらい, và giới hạn với まで, ほど, すぎる - Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../style/custom.css">
+
+
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="../../toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('navy')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="../../toc.html"></iframe>
+            </noscript>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Yokubi - Tự học ngữ pháp Tiếng Nhật cơ bản</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="diễn-tả-xấp-xỉ-với-ころ-và-くらい-và-giới-hạn-với-まで-ほど-すぎる"><a class="header" href="#diễn-tả-xấp-xỉ-với-ころ-và-くらい-và-giới-hạn-với-まで-ほど-すぎる">Diễn tả xấp xỉ với ころ và くらい, và giới hạn với まで, ほど, すぎる</a></h1>
+<p>ころ là một danh từ mang nghĩa “khoảng thời gian xấp xỉ.” Bạn sẽ thường gặp mẫu Xのころに. Mẫu này có thể hiểu là liên từ “vào khoảng thời điểm X,” hoặc là danh từ “thời điểm khi X” kèm theo trợ từ に. Trong một số trường hợp, ころ có thể gắn trực tiếp vào danh từ dưới dạng hậu tố ごろ.</p>
+<pre>
+子供<b>のころに</b>見たアニメを思い出す。
+Tôi nhớ lại bộ anime đã xem <b>khi còn</b> là trẻ con.
+
+そういえば、去年の<b>今ごろ</b>だったかな？
+À phải rồi, hình như là <b>khoảng thời gian này</b> năm ngoái?
+</pre>
+<p>くらい dùng với số lượng hoặc mức độ (bao gồm cả thời gian) để làm cho chúng mang nghĩa xấp xỉ. Nó hoàn toàn có thể thay thế cho ぐらい, tùy sở thích người nói.</p>
+<pre>
+午後1時<b>ぐらい</b>で大丈夫？
+<b>Khoảng</b> 1 giờ chiều có ổn không?
+</pre>
+<p>Ngoài ra, くらい còn có thể mang nghĩa “đến mức mà” hoặc “tới mức độ mà”, nhấn mạnh rằng không vượt quá mức đó.</p>
+<pre>
+毎日食べたい<b>くらい</b>美味しかったです
+Ngon <b>đến mức</b> tôi muốn ăn mỗi ngày.
+</pre>
+<p>Khi đi kèm với trợ từ は, nó tạo sắc thái “ít nhất là.”</p>
+<pre>
+名前<b>くらいは</b>聞いたことがあるだろう。
+Chắc hẳn bạn <b>ít nhất</b> đã từng nghe qua cái tên đó.
+</pre>
+<p>まで về cơ bản có nghĩa là “đến” hoặc “cho đến.” Giới hạn được đánh dấu bởi まで được tính là nằm trong phạm vi.</p>
+<pre>
+世界が終わる日<b>まで</b>。
+<b>Cho đến</b> ngày thế giới kết thúc.
+</pre>
+<p>まで thường đi cùng với から thành cặp 〜から〜まで (từ 〜 đến 〜).</p>
+<pre>
+小さなこと<b>から</b>、大きなこと<b>まで</b>。
+<b>Từ</b> những chuyện nhỏ <b>đến</b> những chuyện lớn.
+</pre>
+<p>までに thay đổi nghĩa của まで thành “trước thời điểm” hay “chậm nhất là.”</p>
+<pre>
+明後日<b>までに</b>は終わらせます。
+Tôi sẽ hoàn thành nó <b>trước</b> ngày kia.
+</pre>
+<p>ほど về cơ bản dùng để so sánh, tương đương “như / bằng.” Ý nghĩa gốc của nó là “đến mức độ.”</p>
+<pre>
+私は彼ら<b>ほど</b>強くない。
+Tôi không mạnh <b>bằng</b> họ.
+</pre>
+<p>Trong câu khẳng định, khi ほど gắn với một “lượng,” nó mang nghĩa xấp xỉ.</p>
+<pre>
+中身はまだ半分<b>ほど</b>残っている。
+<b>Khoảng</b> một nửa bên trong vẫn còn.
+</pre>
+<p>すぎる là một động từ mang nghĩa “vượt quá” hoặc “quá mức.” Khi dùng như trợ động từ, nó có nghĩa “quá nhiều” hoặc diễn tả sự làm quá mức. Nó gắn vào dạng gốc ます.</p>
+<pre>
+美味しいものを食べ<b>すぎた</b>。
+Tôi đã ăn <b>quá nhiều</b> đồ ngon.
+</pre>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../Section2/Part4/Lesson60.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../../Section2/Part4/Lesson62.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../Section2/Part4/Lesson60.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../../Section2/Part4/Lesson62.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
+
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
+
+        <!-- Custom JS scripts -->
+        <script src="../../js/lunr.stemmer.support.js"></script>
+        <script src="../../js/tinyseg.js"></script>
+        <script src="../../js/lunr.jp.js"></script>
+        <script src="../../js/lunr.multi.js"></script>
+        <script src="../../js/load-lunr-plugin.js"></script>
+
+
+    </div>
+    </body>
+</html>
