@@ -1,4 +1,3 @@
-
 # Lời kết
 
 **Chúc mừng bạn**. Bạn đã đi hết phần nội dung chính của hướng dẫn. Tôi biết bạn sẽ làm được.
@@ -16,4 +15,3 @@ Phần cốt lõi có thể đã kết thúc, nhưng hành trình học vẫn c�
 <div class="warning">
 Mặc dù phần hướng dẫn <b>chính</b> đã hoàn thành, nhưng không phải toàn bộ nội dung từng có trong <a href=https://sakubi.neocities.org/>sakubi</a> đã được chuyển sang. Chúng tôi vẫn còn thiếu khá nhiều bài học bổ sung/ẩn/tùy chọn và các phần xen kẽ. Chúng tôi dự định sẽ tiếp tục bổ sung thêm nội dung theo thời gian. Nếu bạn muốn giúp đỡ, bạn có thể tham gia <a href=https://discord.gg/KZj4dVFDzu>cộng đồng discord</a> của chúng tôi. Mọi phản hồi đều được hoan nghênh.
 </div>
-

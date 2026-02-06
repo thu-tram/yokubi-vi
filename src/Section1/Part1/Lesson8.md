@@ -1,4 +1,3 @@
-
 # Tính từ い
 
 Tiếng Nhật có hai nhóm tính từ chính. Đừng lo, chúng không phức tạp như các nhóm động từ. Thực ra chúng khá đơn giản.

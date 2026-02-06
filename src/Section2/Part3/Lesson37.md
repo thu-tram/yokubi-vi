@@ -1,4 +1,3 @@
-
 # Cách diễn đạt đối lập với が, けど, しかし và ても/でも
 
 Không liên quan đến **trợ từ chủ ngữ** が, **liên từ** が dùng để nói rằng mặc dù mệnh đề phía trước là đúng, mệnh đề phía sau cũng đồng thời đúng. Khi dùng が, hai mệnh đề đều là câu hoàn chỉnh. Thường thì (nhưng không phải lúc nào) mệnh đề sau sẽ mang ý đối lập với mệnh đề trước. が thường được dịch là “nhưng” hoặc “mặc dù”, tuy nhiên đôi khi nó chỉ đơn giản mang nghĩa “và”, không hề có sự đối lập.
@@ -47,7 +46,7 @@ Kiểu nói này phổ biến đến mức trong nhiều tình huống, người
 
 けど cũng có thể xuất hiện dưới dạng けれど và けれども. Chúng **gần như** giống nhau, nhưng dạng càng dài thì càng mang cảm giác trang trọng.
 
-しかし là một thán từ/liên từ mang tính trang trọng. Người học tiếng Nhật (đặc biệt là người nói tiếng Anh) hay dùng quá nhiều từ này vì nó giống cách dùng “however/but” ở đầu câu trong tiếng Anh, nhưng trong tiếng Nhật thì nó không phổ biến đến vậy.
+しかし là một thán từ/liên từ mang tính trang trọng. Người học tiếng Nhật (đặc biệt là người nói Tiếng Việt) hay dùng quá nhiều từ này vì nó giống cách dùng “however/but” ở đầu câu trong Tiếng Việt, nhưng trong tiếng Nhật thì nó không phổ biến đến vậy.
 
 <pre>
 <b>しかし</b>、知らなかった。

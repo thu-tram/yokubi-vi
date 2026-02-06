@@ -1,4 +1,3 @@
-
 # "Vẫn", "đã", "chưa" với もう, まだ, và また
 
 Với câu khẳng định, もう mang nghĩa "đã". Với câu phủ định, nó kết hợp với phủ định để tạo nghĩa "không còn nữa".
@@ -62,7 +61,7 @@ Chưa đâu! / Chưa xong đâu!
 Ghi chú văn hoá: Khi ai đó khen tiếng Nhật của bạn giỏi, bạn thường trả lời まだまだ (ý là mình vẫn còn kém, còn phải học nhiều).
 </div>
 
-Trong câu hỏi khẳng định, "yet" (chưa?) trong tiếng Anh thường được diễn đạt bằng もう, vì もう nhấn mạnh sự thay đổi trạng thái.
+Trong câu hỏi khẳng định, "yet" (chưa?) trong Tiếng Việt thường được diễn đạt bằng もう, vì もう nhấn mạnh sự thay đổi trạng thái.
 
 <pre>
 <b>もう</b>書きましたか？

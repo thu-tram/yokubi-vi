@@ -1,4 +1,3 @@
-
 # Diễn tả sự giống nhau và tin đồn với みたい, らしい, ぽい, và そう
 
 Trong tiếng Nhật có rất nhiều cách để nói “X giống Y” hoặc “X trông như Y”.

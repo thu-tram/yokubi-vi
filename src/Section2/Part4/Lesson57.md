@@ -1,4 +1,3 @@
-
 # Trợ động từ diễn tả hối tiếc và sự yên tâm với てしまう và ておく
 
 てしまう diễn tả rằng một việc gì đó đã được “làm xong” hoặc “hoàn tất hoàn toàn”. Nó cũng được dùng khi mọi thứ “rốt cuộc trở thành như vậy”, đặc biệt sau những sai lầm. Một cách dễ nhớ là nghĩ đến ý “xong rồi” hoặc “thế là lỡ làm rồi”. Vì vậy, てしまう thường mang sắc thái hối tiếc.

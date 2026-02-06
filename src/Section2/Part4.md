@@ -1,5 +1,3 @@
-# Phần 4: Thêm gia vị và “những phần còn lại”
+# Phần 4: Còn lại
 
-七味(しちみ) được gọi như vậy vì nó gồm bảy (七) loại gia vị (味). Không phải sáu, cũng không phải tám. Chính xác là bảy. Chúng ta cũng muốn thêm gia vị cho “hương vị” tiếng Nhật của mình, và sẽ làm điều đó vừa đủ. Ở phần này, chúng ta sẽ khép lại mọi thứ và học cách thưởng thức sự phong phú trong “bảng vị” của tiếng Nhật.
-
-Và cả một số mảnh ghép còn sót lại nữa.
+Đi ăn xiên bẩn mà không có ớt, tương cà thì khá là (*rất là*) thiếu. Phần thứ 4 này có lẽ cũng đóng vai trò như ớt với tương cà trong món xiên bẩn mà bạn đã ăn (*Bé ngoan không nên ăn xiên bẩn nhé*).

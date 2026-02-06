@@ -1,4 +1,3 @@
-
 # Lịch sự cơ bản và dạng ます
 
 Bây giờ chúng ta nói về sự lịch sự. Trong tiếng Nhật, mức độ lịch sự thể hiện thành một đặc điểm ngữ pháp rõ ràng. Điều này có nghĩa là khi bạn nói lịch sự, cách bạn xây dựng câu, chia động từ, và thậm chí lựa chọn từ vựng sẽ khác với khi bạn nói thân mật. Có nhiều mức độ lịch sự khác nhau, nhưng ở đây chúng ta chỉ đề cập đến mức cơ bản.

@@ -1,4 +1,3 @@
-
 # Diễn đạt sự đồng thời với ながら, あいだ, うちに và つつ
 
 
@@ -6,7 +5,7 @@ Bài học này tập trung vào cách nói rằng một việc xảy ra **trong
 
 ながら diễn đạt hai hành động xảy ra đồng thời cùng lúc. Chủ ngữ của hai hành động **phải** là cùng một người/vật. Ví dụ: “Tôi vừa xem TV vừa ăn khoai tây chiên” là được, nhưng “Tôi xem TV trong khi em trai tôi chơi game” thì không dùng ながら. ながら được gắn vào dạng thân ます của động từ.
 
-ながら có cấu trúc AながらB, trong đó hành động B là hành động “chính”, còn hành động A là hành động “phụ” được thực hiện đồng thời. Trong tiếng Anh (và tiếng Việt), sắc thái này không dễ nhận ra, nên hãy xem hai ví dụ sau:
+ながら có cấu trúc AながらB, trong đó hành động B là hành động “chính”, còn hành động A là hành động “phụ” được thực hiện đồng thời. Trong Tiếng Việt (và tiếng Việt), sắc thái này không dễ nhận ra, nên hãy xem hai ví dụ sau:
 
 <pre>
 画面を見<b>ながら</b>勉強しよう

@@ -1,7 +1,6 @@
-
 # So sánh với より và の方が
 
-より được dùng để so sánh trực tiếp hai đối tượng, tương tự “than” trong câu “Tôi thông minh hơn bạn.” Khi dùng より, tiếng Nhật không cần thêm từ mang nghĩa “hơn” như trong tiếng Anh (“more” hay “-er”). Đôi khi より còn đi kèm với も để nhấn mạnh.
+より được dùng để so sánh trực tiếp hai đối tượng, tương tự “than” trong câu “Tôi thông minh hơn bạn.” Khi dùng より, tiếng Nhật không cần thêm từ mang nghĩa “hơn” như trong Tiếng Việt (“more” hay “-er”). Đôi khi より còn đi kèm với も để nhấn mạnh.
 
 <pre>
 彼は誰<b>より</b>も強いよ
@@ -40,7 +39,7 @@ Về mặt nghĩa, 方 ở đây biểu thị “phía” của sự so sánh. C
 
 Có một số cách nói cố định sử dụng 方が.
 
-\<verb\>方がいい có nghĩa là “làm \<verb\> thì tốt hơn.” Trong cấu trúc này, động từ thường được chia quá khứ nếu đó là lời khuyên mang tính cá nhân hơn là một chân lý chung.
+\<động từ\>方がいい có nghĩa là “làm \<động từ\> thì tốt hơn.” Trong cấu trúc này, động từ thường được chia quá khứ nếu đó là lời khuyên mang tính cá nhân hơn là một chân lý chung.
 
 <pre>
 やめ<b>た方がいい</b>と思います

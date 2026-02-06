@@ -1,4 +1,3 @@
-
 # Trợ từ で, では và じゃ
 
 Thông thường, で dùng để đánh dấu “hoàn cảnh”, “phương tiện” của một hành động, hoặc “địa điểm” nơi hành động đó diễn ra.

@@ -1,4 +1,3 @@
-
 # な-adjectives
 
 Bây giờ chúng ta sẽ xem xét な-adjectives, được gọi tên theo chữ な đứng sau chúng. な-adjectives là những từ đơn giản, hình thức giống như danh từ, nhưng có thể dùng để bổ nghĩa cho danh từ khác bằng cách nối với chữ な.
@@ -69,7 +68,7 @@ Một số hướng dẫn cũng nói đến cái gọi là の-adjectives, thự
 <pre>
 英語の本  
 English-language books. (NOT "books of english")  
-Sách tiếng Anh
+Sách Tiếng Việt
 
 普通<b>の</b>人  
 A normal person.  

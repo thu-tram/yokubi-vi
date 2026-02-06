@@ -1,4 +1,3 @@
-
 # Tham chiếu thời gian với 後, 前, 先, và 時
 
 後 là một danh từ mang nghĩa “sau.” Mẫu X後で là một liên từ cho biết một việc xảy ra sau X, nhưng không nhất thiết là ngay lập tức.

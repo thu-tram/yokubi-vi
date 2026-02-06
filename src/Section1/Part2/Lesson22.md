@@ -1,4 +1,3 @@
-
 # Hành động kéo dài và trạng thái với ている và てある
  
 Bây giờ ta xem ている và てある. Chúng sử dụng いる / ある như các động từ trợ.

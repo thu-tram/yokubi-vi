@@ -1,11 +1,10 @@
-
 # Danh từ, đại từ
 
-Tiếng Nhật có danh từ (名詞) và đại từ (代名詞), giống như tiếng Anh. Tuy nhiên, đại từ trong tiếng Nhật không “đặc biệt” như trong tiếng Anh, và phần lớn thời gian chúng hoạt động giống hệt như danh từ thông thường.
+Tiếng Nhật có danh từ (名詞) và đại từ (代名詞), giống như Tiếng Việt. Tuy nhiên, đại từ trong tiếng Nhật không “đặc biệt” như trong Tiếng Việt, và phần lớn thời gian chúng hoạt động giống hệt như danh từ thông thường.
 
 Trong đa số trường hợp, tiếng Nhật không phân biệt số ít và số nhiều. Danh từ và động từ không cần phải hòa hợp với nhau về số lượng, ngôi hay giống. Tiếng Nhật có thể biểu thị rõ ràng một nhóm bằng cách gắn một số hậu tố vào danh từ, nhưng những hậu tố này không phải là “số nhiều” đúng nghĩa. Chúng thường được dùng để truyền tải thêm thông tin mà dạng số nhiều thông thường không thể hiện được.
 
-Tiếng Nhật có rất nhiều đại từ nhân xưng (tôi, bạn, họ) hơn tiếng Anh, nhưng hệ thống đại từ chỉ định (này, kia, những cái này, những cái kia) lại đơn giản và ít bất quy tắc hơn. Ngoài ra, đại từ tiếng Nhật không thay đổi hình thức theo cách (case) như trong tiếng Anh (ví dụ he và him). Bạn chỉ cần gắn thêm hậu tố vào chúng.
+Tiếng Nhật có rất nhiều đại từ nhân xưng (tôi, bạn, họ) hơn Tiếng Việt, nhưng hệ thống đại từ chỉ định (này, kia, những cái này, những cái kia) lại đơn giản và ít bất quy tắc hơn. Ngoài ra, đại từ tiếng Nhật không thay đổi hình thức theo cách (case) như trong Tiếng Việt (ví dụ he và him). Bạn chỉ cần gắn thêm hậu tố vào chúng.
 
 Dưới đây là một vài ví dụ. Bạn không cần cố ghi nhớ danh sách từ này. Hãy học từ vựng thông qua việc sử dụng bên ngoài hướng dẫn này.
 
@@ -29,7 +28,7 @@ Như đã đề cập trước đó, tiếng Nhật không cần phân biệt s�
 
 達 thường được dùng cho sinh vật sống. Cách dùng với “pen” ở trên được xem là khẩu ngữ hoặc ít nhất là không trang trọng. Ví dụ này được đưa ra để cho thấy cách dùng đó vẫn tồn tại trong thực tế.
 
-Tiếng Nhật có từ ghép, hoạt động giống như trong tiếng Anh.
+Tiếng Nhật có từ ghép, hoạt động giống như trong Tiếng Việt.
 
 <pre>
 町・まち town, khu phố  
@@ -37,7 +36,7 @@ Tiếng Nhật có từ ghép, hoạt động giống như trong tiếng Anh.
 町中・まちなか trung tâm thị trấn, giữa thị trấn
 </pre>
 
-Tiếng Nhật cũng có tiền tố và hậu tố giống như tiếng Anh. Chúng khác với từ ghép ở chỗ chúng không thể tồn tại độc lập mà phải gắn vào một từ khác.
+Tiếng Nhật cũng có tiền tố và hậu tố giống như Tiếng Việt. Chúng khác với từ ghép ở chỗ chúng không thể tồn tại độc lập mà phải gắn vào một từ khác.
 
 <pre>
 研究・けんきゅう nghiên cứu  

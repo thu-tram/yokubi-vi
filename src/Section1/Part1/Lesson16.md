@@ -1,4 +1,3 @@
-
 # Động từ bất quy tắc và động từ する
 
 Bây giờ chúng ta đã học qua các loại thân (stem) động từ phổ biến, nên có thể nói đến các động từ bất quy tắc. Tiếng Nhật chỉ có hai động từ bất quy tắc chính, nhưng chúng lại xuất hiện rất thường xuyên. Cách chia của chúng hoàn toàn không theo quy tắc. Lưu ý rằng cũng có một số ngoại lệ và trường hợp đặc biệt ở các động từ khác (chúng ta đã thấy 問うた trước đó), nhưng hai động từ này khác hẳn và tạo thành một nhóm riêng.

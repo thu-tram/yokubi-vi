@@ -1,7 +1,6 @@
-
 # Đại từ phản thân với 自分
 
-Trong tiếng Anh, khi chỉ có một người tên Jim, bạn không nói "Jim broke Jim's watch" (Jim làm vỡ đồng hồ của Jim). Thay vào đó, bạn nói "Jim broke his watch" hoặc "Jim broke his own watch" (Jim làm vỡ chính chiếc đồng hồ của mình). Tương tự, bạn không nói "Jim hurt Jim" hay "Jim hurt him", mà nói "Jim hurt himself" (Jim tự làm đau mình).
+Trong Tiếng Việt, khi chỉ có một người tên Jim, bạn không nói "Jim broke Jim's watch" (Jim làm vỡ đồng hồ của Jim). Thay vào đó, bạn nói "Jim broke his watch" hoặc "Jim broke his own watch" (Jim làm vỡ chính chiếc đồng hồ của mình). Tương tự, bạn không nói "Jim hurt Jim" hay "Jim hurt him", mà nói "Jim hurt himself" (Jim tự làm đau mình).
 
 "His own" và "himself" có tính chất "phản thân" (reflexive). Khi cần diễn đạt ý phản thân trong tiếng Nhật, ta dùng 自分.
 

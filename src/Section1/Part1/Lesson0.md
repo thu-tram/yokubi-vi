@@ -4,13 +4,14 @@ Khi bạn bắt đầu học một ngôn ngữ mới — đặc biệt là một
 
 Nếu bạn không thể phân tích được một câu, bạn sẽ không hiểu được ý nghĩa của nó. Và nếu không hiểu được ý nghĩa, bạn sẽ không thể tiếp thu ngôn ngữ xuất hiện trong câu đó. Bài học này sẽ cung cấp cho bạn một cái nhìn nhanh và ngắn gọn về những điều cần biết để bắt đầu có khả năng “phân tích câu” cơ bản.
 
-Tiếng Nhật là một ngôn ngữ có trật tự SOV (Chủ ngữ – Tân ngữ – Động từ), khác với tiếng Anh là SVO (Chủ ngữ – Động từ – Tân ngữ).
+Tiếng Nhật là một ngôn ngữ có trật tự SOV (Chủ ngữ – Tân ngữ – Động từ), khác với Tiếng Việt (hay Tiếng Anh) là SVO (Chủ ngữ – Động từ – Tân ngữ).
 
 Ví dụ:
 
+<pre>
 English: I eat (an) apple
-
 Japanese: I apple eat
+</pre>
 
 Ban đầu bạn có thể thấy cách sắp xếp này khá kỳ lạ, nhưng bạn sẽ quen rất nhanh khi tiếp xúc với tiếng Nhật nhiều hơn. Ngoài ra, có khá nhiều ngoại lệ — trật tự này không phải là luật cứng, mà chỉ là xu hướng chung.
 
@@ -22,12 +23,9 @@ Lý do là vì tiếng Nhật là một ngôn ngữ vận hành theo “chủ đ
 
 Ví dụ:
 
-English: “I ate an apple then drank some water. What did you do?”
+<pre>
+English: "I ate an apple then drank some water. What did you do?"
+Japanese: "<b>About me</b>, apple ate. Later, water drank. <b>About you</b>?"
+</pre>
 
-Japanese: “<b>Nói về tôi</b>, ăn táo. Sau đó, uống nước. <b>Nói về bạn</b>?”
-
-Nghe có vẻ giống cách nói ngược đời hoặc kiểu “người nguyên thủy”, nhưng đó chỉ là vì việc ép cấu trúc tiếng Nhật sang tiếng Anh trông rất buồn cười. Đây là ví dụ duy nhất trong toàn bộ hướng dẫn mà chúng tôi cố tình viết tiếng Anh một cách không tự nhiên để so sánh với tiếng Nhật. Bạn không nên suy nghĩ về tiếng Nhật theo kiểu này. Bạn cần học cách suy nghĩ bằng tiếng Nhật, bởi vì tiếng Nhật không phải là tiếng Anh.
-
----
-
-Nếu bạn muốn, mình có thể tiếp tục dịch các chương tiếp theo theo cùng phong cách này.
+Nghe có vẻ giống cách nói ngược đời hoặc kiểu “người nguyên thủy”, nhưng đó chỉ là vì việc ép cấu trúc tiếng Nhật sang Tiếng Việt trông rất buồn cười. Đây là ví dụ duy nhất trong toàn bộ hướng dẫn mà chúng tôi cố tình viết Tiếng Việt một cách không tự nhiên để so sánh với tiếng Nhật. Bạn không nên suy nghĩ về tiếng Nhật theo kiểu này. Bạn cần học cách suy nghĩ bằng tiếng Nhật, bởi vì tiếng Nhật không phải là Tiếng Việt.

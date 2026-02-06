@@ -1,4 +1,3 @@
-
 # Động từ quá khứ
 
 Để tạo dạng quá khứ của động từ, bạn gắn た hoặc だ vào một “thân” (stem) nhất định.

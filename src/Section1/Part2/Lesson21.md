@@ -1,4 +1,3 @@
-
 # Mở rộng với も và と
 
 も là trợ từ mang nghĩa “bao gồm”. Có thể hiểu gần giống như “cũng”, “nữa”, đôi khi là “thậm chí”.
@@ -27,7 +26,7 @@ Mặc dù も thường “che” を, đôi khi bạn vẫn có thể gặp を
 Tôi <b>cũng</b> không ăn. (giống như những người khác)
 </pre>
 
-Trợ từ と cũng có thể mang ý nghĩa “bao gồm”, nhưng cách hoạt động hoàn toàn khác với も. Tuy trong tiếng Anh có thể dịch tương tự, nhưng đừng nhầm lẫn hai cái này.
+Trợ từ と cũng có thể mang ý nghĩa “bao gồm”, nhưng cách hoạt động hoàn toàn khác với も. Tuy trong Tiếng Việt có thể dịch tương tự, nhưng đừng nhầm lẫn hai cái này.
 
 と thường dùng để liệt kê.
 
@@ -56,7 +55,7 @@ Chơi <b>với</b> mọi người
 Chơi <b>cùng nhau</b> với mọi người
 </pre>
 
-Trong tiếng Việt (và tiếng Anh), hai câu này gần như giống nhau, nhưng:
+Trong tiếng Việt (và Tiếng Việt), hai câu này gần như giống nhau, nhưng:
 
 - Câu với と: chủ thể chơi **với** mọi người như một người riêng biệt (chủ thể + nhóm mọi người).
 - Câu với で: chủ thể là một phần của “mọi người”, và tất cả cùng chơi với nhau như một nhóm.

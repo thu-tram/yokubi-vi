@@ -1,9 +1,8 @@
-
 # Nói “nếu” và “khi” với bốn dạng câu điều kiện
 
 Trong tiếng Nhật, thứ tự của câu điều kiện là: nêu điều kiện trước, rồi đến hành động/kết quả sau. Câu điều kiện là một cách để nối hai mệnh đề kiểu “A làm B” thành cấu trúc “Nếu A làm B thì C làm D”. Dĩ nhiên, các kiểu như “Nếu A là B thì C làm D” hay các tổ hợp khác cũng đều có thể dùng.
 
-Giá như chỉ cần một dạng điều kiện thì mọi thứ đã đơn giản, nhưng “điểm vui” của tiếng Nhật là có rất nhiều cách diễn đạt những ý tương tự, và câu điều kiện là một trong những trường hợp như vậy. Đáng tiếc là mỗi dạng lại có cách dùng và sắc thái riêng, rất khó giải thích chính xác bằng ngữ pháp tiếng Anh, nên bạn sẽ phải dựa nhiều vào trực giác và tiếp xúc thực tế.
+Giá như chỉ cần một dạng điều kiện thì mọi thứ đã đơn giản, nhưng “điểm vui” của tiếng Nhật là có rất nhiều cách diễn đạt những ý tương tự, và câu điều kiện là một trong những trường hợp như vậy. Đáng tiếc là mỗi dạng lại có cách dùng và sắc thái riêng, rất khó giải thích chính xác bằng ngữ pháp Tiếng Việt, nên bạn sẽ phải dựa nhiều vào trực giác và tiếp xúc thực tế.
 
 Có bốn dạng điều kiện chính: たら, ば, と và なら. Chúng nằm trên một phổ nghĩa từ “nếu” đến “khi”, và đôi khi còn mang nghĩa “vừa … thì …” (giống như “As I woke up, I heard a weird sound outside”). Thực tế còn nhiều cách khác để tạo câu điều kiện, nhưng bốn dạng này là trọng tâm của bài.
 

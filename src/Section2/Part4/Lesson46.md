@@ -1,4 +1,3 @@
-
 # "Chỉ" với だけ, のみ, ばかり, và しか
 
 だけ, のみ và ばかり đều là những cách khác nhau để diễn đạt nghĩa "chỉ" hoặc "duy nhất". しか thì tương tự, nhưng chỉ có thể dùng trong câu phủ định.
@@ -31,7 +30,7 @@ Tôi không nghĩ là toàn những chuyện xấu.
 Toàn là những thứ tôi không hiểu.
 </pre>
 
-Cấu trúc \<verb\>てばかりいる thường dùng để thể hiện thái độ phê phán rằng ai đó cứ làm mãi một việc duy nhất, đến mức không tốt.
+Cấu trúc \<động từ\>てばかりいる thường dùng để thể hiện thái độ phê phán rằng ai đó cứ làm mãi một việc duy nhất, đến mức không tốt.
 
 <pre>
 彼は寝て<b>ばかり</b>いる

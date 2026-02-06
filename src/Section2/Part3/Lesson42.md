@@ -1,4 +1,3 @@
-
 # Liên kết mệnh đề với のに, ように, ために, せいで, và おかげで
 
 のに có liên quan đến ので, nhưng ý nghĩa thì ngược lại. Nếu ので mang nghĩa “vì X nên Y”, thì のに mang nghĩa “mặc dù X nhưng Y”. Tương tự như ので, cách nói này mang sắc thái khá “khách quan” so với các kiểu đối lập khác. Ngoài ra, のに cũng thường được dùng ở cuối câu như một cách nhấn mạnh cảm giác thất vọng hoặc không hài lòng.
@@ -33,7 +32,7 @@ Anh ấy đang chạy<b> để</b> xác nhận điều đó.
 
 Trong nhiều trường hợp, ために và ように có thể thay thế cho nhau với nghĩa “vì mục đích”, nhưng không phải lúc nào cũng vậy.
 
-ために cũng có thể mang nghĩa “vì lợi ích của / vì …” hơn là “vì mục đích”. Sắc thái tiếng Anh khác nhau, nhưng trong tiếng Nhật thì ranh giới không phải lúc nào cũng rõ ràng. Ngoài ra, に đôi khi có thể được lược bỏ.
+ために cũng có thể mang nghĩa “vì lợi ích của / vì …” hơn là “vì mục đích”. Sắc thái Tiếng Việt khác nhau, nhưng trong tiếng Nhật thì ranh giới không phải lúc nào cũng rõ ràng. Ngoài ra, に đôi khi có thể được lược bỏ.
 
 <pre>
 あなたの<b>ため</b>なら、なんでもするよ。

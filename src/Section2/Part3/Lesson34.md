@@ -1,4 +1,3 @@
-
 # か, も và でも khi gắn với từ để hỏi
 
 Ngoài chức năng đánh dấu câu hỏi, か còn có thể được dùng để biến từ để hỏi thành danh từ mang nghĩa chung chung.
@@ -48,7 +47,7 @@ Có chuyện gì xảy ra không? (nghĩa đen: Có cái gì đó tồn tại kh
 
 Lưu ý rằng với cấu trúc từ để hỏi + か, người ta thường bỏ trợ từ が phía sau (何かが → 何か), có thể vì như vậy phát âm dễ hơn.
 
-Tương tự, chúng ta cũng có thể dùng も để biến từ để hỏi thành danh từ mang nghĩa “bao gồm / loại trừ”. Hãy nghĩ tới các từ như “anything” hoặc “nothing” trong tiếng Anh.
+Tương tự, chúng ta cũng có thể dùng も để biến từ để hỏi thành danh từ mang nghĩa “bao gồm / loại trừ”. Hãy nghĩ tới các từ như “anything” hoặc “nothing” trong Tiếng Việt.
 
 |        |                              |
 |--------|------------------------------|

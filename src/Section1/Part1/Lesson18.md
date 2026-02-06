@@ -1,4 +1,3 @@
-
 # Sự tồn tại với いる và ある cùng với である
 
 Hai động từ いる và ある dùng để diễn đạt sự tồn tại. Sự khác nhau giữa chúng nằm ở việc chủ thể có phải là “sinh vật” hay không. Động vật và con người dùng いる, còn bàn ghế hay bánh mì thì dùng ある. Những thứ như xe hơi, có thể di chuyển nhưng không phải sinh vật, đôi khi có thể dùng cả hai tùy theo ngữ cảnh và trọng tâm câu nói. Đừng hiểu nhầm rằng đây là vấn đề “có sống hay không”. Không phải vậy. Ví dụ, bão dùng いる vì chúng tự di chuyển. Robot trong phim khoa học viễn tưởng cũng thường dùng いる. Đôi khi con người cũng có thể đi với ある, đặc biệt trong tiếng Nhật cổ hoặc các cụm cố định.
@@ -15,7 +14,7 @@ Có một cửa hàng.
 Cả ある và いる đều là động từ chỉ sự tồn tại, và khi đánh dấu địa điểm tồn tại, ta thường dùng に thay vì で.
 </div>
 
-Đôi khi, khi muốn nói rằng mình “có / sở hữu” một thứ gì đó, người Nhật dùng ある hoặc いる. Về mặt nghĩa gốc, chúng không có nghĩa là “sở hữu”, nhưng cách diễn đạt này tương đương với “have” trong tiếng Anh. Chỉ khác nhau về cách nói.
+Đôi khi, khi muốn nói rằng mình “có / sở hữu” một thứ gì đó, người Nhật dùng ある hoặc いる. Về mặt nghĩa gốc, chúng không có nghĩa là “sở hữu”, nhưng cách diễn đạt này tương đương với “have” trong Tiếng Việt. Chỉ khác nhau về cách nói.
 
 <pre>
 デスクが<b>ある</b>

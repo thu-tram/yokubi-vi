@@ -1,4 +1,3 @@
-
 # Phủ định nâng cao với なくて, ないで, ず và ずに
 
 Chúng ta đã nói sơ qua về sự khác nhau giữa なくて và ないで trong [Bài 11](../../Section1/Part1/Lesson11.md). Bây giờ hãy đi sâu hơn một chút.

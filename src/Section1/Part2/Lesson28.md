@@ -1,9 +1,8 @@
-
 # Ôn tập động từ
 
 Chúng ta đã đi qua toàn bộ các dạng gốc cơ bản của động từ godan, nên đây là thời điểm tốt để nhìn lại những gì đã học. Đừng cố học thuộc bảng này. Chỉ cần biết rằng các khái niệm này tồn tại là đủ. Nếu nhìn thấy chóng mặt thì cứ thoải mái bỏ qua. Nếu cảm thấy không tiếp thu nổi, hãy chuyển sang phần tiếp theo.
 
-Những tên gọi ở đây chỉ là cách mô tả/nhắc nhớ đơn giản cho từng dạng, không phải thuật ngữ ngữ pháp chính thức. Tên tiếng Nhật và thuật ngữ chuẩn sẽ được ghi kèm cho ai tò mò, nhưng bạn không cần nhớ. Trong các phần sau của hướng dẫn, nếu có nhắc đến các dạng này thì sẽ dùng tên tiếng Anh đơn giản, không dùng tên tiếng Nhật.
+Những tên gọi ở đây chỉ là cách mô tả/nhắc nhớ đơn giản cho từng dạng, không phải thuật ngữ ngữ pháp chính thức. Tên tiếng Nhật và thuật ngữ chuẩn sẽ được ghi kèm cho ai tò mò, nhưng bạn không cần nhớ. Trong các phần sau của hướng dẫn, nếu có nhắc đến các dạng này thì sẽ dùng tên Tiếng Việt đơn giản, không dùng tên tiếng Nhật.
 
 | Dạng            | Tên gọi                 | Thuật ngữ tiếng Nhật                             |
 |-----------------|-------------------------|--------------------------------------------------|

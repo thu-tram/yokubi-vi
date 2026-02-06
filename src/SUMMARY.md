@@ -5,7 +5,6 @@
 [Preamble](./Preamble.md)
 
 ---
-
 # NGƯỜI MỚI BẮT ĐẦU HOÀN TOÀN
 - [Phần 1: Bắt đầu](./Section1/Part1.md)
   - [Bài 0: Cấu trúc cơ bản của câu tiếng Nhật](./Section1/Part1/Lesson0.md)
@@ -38,7 +37,7 @@
   - [Bài 26: Diễn đạt ý muốn và mong muốn với たい và ほしい](./Section1/Part2/Lesson26.md)
   - [Bài 27: Diễn đạt "nếu" và "khi" với bốn loại điều kiện](./Section1/Part2/Lesson27.md)
   - [Bài 28: Ôn tập động từ](./Section1/Part2/Lesson28.md)
-
+  
 # LÃNH ĐỊA TUYỆT ĐỐI
 - [Phần 2: Giới thiệu](./Section2/Section2.md)
 - [Phần 3: Mở rộng câu](./Section2/Part3.md)

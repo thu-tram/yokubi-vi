@@ -45,8 +45,8 @@ Nếu bạn vẫn không biết phải làm gì, hoặc quay lại đây trong t
 - Bắt đầu học hiragana và katakana bên ngoài hướng dẫn này.
 - Bắt đầu học từ vựng bên ngoài hướng dẫn này.
 - Hiểu rằng không phải mọi kanji riêng lẻ đều là một từ tiếng Nhật hoàn chỉnh.
-- Tự nhắc mình rằng tiếng Nhật không phải là bản sao từng từ một của tiếng Anh.
-- Nhiều khái niệm sẽ không thể hiểu theo kiểu dịch sát tiếng Anh.
+- Tự nhắc mình rằng tiếng Nhật không phải là bản sao từng từ một của Tiếng Việt.
+- Nhiều khái niệm sẽ không thể hiểu theo kiểu dịch sát Tiếng Việt.
 - Bạn không thể tiếp thu một ngôn ngữ nếu không tiếp xúc với nó.
 - Cho đến khi bạn tiếp xúc đủ nhiều với tiếng Nhật, một số thứ đơn giản là sẽ chưa “vỡ ra”.
 - Luôn tiếp tục tiến lên. Đó là cách bạn có được ngôn ngữ.

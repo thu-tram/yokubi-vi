@@ -1,4 +1,3 @@
-
 # Liệt kê và lặp lại hành động với 〜たり〜たり và ては
 
 Trong [Bài 36](../Part3/Lesson36.md) chúng ta đã thấy rằng có thể tạo **danh sách không đầy đủ** các động từ bằng trợ từ liệt kê とか.

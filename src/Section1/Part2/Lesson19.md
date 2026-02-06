@@ -1,11 +1,10 @@
-
 # Câu hỏi với か
 
 Trong tiếng Nhật, câu hỏi được tạo ra bằng ngữ điệu, và đôi khi còn kết thúc bằng か hoặc の tùy theo mức độ lịch sự.
 
 Bài này sẽ nói về câu hỏi yes/no (có/không) với か. Các câu hỏi dạng “wh-” (ai, cái gì, ở đâu, v.v.) và câu hỏi với の sẽ được học sau.
 
-Khi đọc văn bản viết, vì không có ngữ điệu, người viết thường dùng dấu hỏi ？ giống như trong tiếng Anh để thể hiện đây là câu hỏi. Tuy nhiên, bạn cần biết rằng dấu hỏi không bắt buộc. Câu hỏi có thể chỉ kết thúc bằng か (hoặc thậm chí là の) và dấu chấm 。. Tiếng Nhật không có quy tắc dấu câu cứng nhắc như tiếng Anh.
+Khi đọc văn bản viết, vì không có ngữ điệu, người viết thường dùng dấu hỏi ？ giống như trong Tiếng Việt để thể hiện đây là câu hỏi. Tuy nhiên, bạn cần biết rằng dấu hỏi không bắt buộc. Câu hỏi có thể chỉ kết thúc bằng か (hoặc thậm chí là の) và dấu chấm 。. Tiếng Nhật không có quy tắc dấu câu cứng nhắc như Tiếng Việt.
 
 <pre>
 暑い？

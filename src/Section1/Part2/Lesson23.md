@@ -1,9 +1,8 @@
-
 # Từ chỉ định với nhóm từ こそあど
 
 Từ chỉ định là những từ mang nghĩa như “cái này”, “cái kia”, v.v.
 
-Tiếng Nhật khác tiếng Anh ở điểm này theo hai cách. Thứ nhất, hệ thống từ chỉ định của tiếng Nhật có quy tắc rất rõ ràng. Thứ hai, chúng phân chia theo ba “vị trí” thay vì hai như tiếng Anh. Cách này dễ nhìn qua ví dụ hơn là giải thích:
+Tiếng Nhật khác Tiếng Việt ở điểm này theo hai cách. Thứ nhất, hệ thống từ chỉ định của tiếng Nhật có quy tắc rất rõ ràng. Thứ hai, chúng phân chia theo ba “vị trí” thay vì hai như Tiếng Việt. Cách này dễ nhìn qua ví dụ hơn là giải thích:
 
 <pre>
 <b>こ</b>れ
@@ -31,13 +30,13 @@ cái nào
 <b>Cái nào</b> tốt?
 </pre>
 
-Bốn từ trên được gọi là “đại từ chỉ định”. Trong đó có hai từ đều dịch là “cái đó” trong tiếng Anh, nhưng trong tiếng Nhật chúng mang sắc thái khác nhau. それ dùng cho vật ở gần người nghe. あれ dùng cho vật ở xa cả người nói lẫn người nghe.
+Bốn từ trên được gọi là “đại từ chỉ định”. Trong đó có hai từ đều dịch là “cái đó” trong Tiếng Việt, nhưng trong tiếng Nhật chúng mang sắc thái khác nhau. それ dùng cho vật ở gần người nghe. あれ dùng cho vật ở xa cả người nói lẫn người nghe.
 
 Như tiêu đề bài học gợi ý, nhóm từ này thường được gọi chung là こそあど, vì chúng chỉ khác nhau ở âm tiết đầu.
 
-Mặc dù có sự phân biệt giữa hai kiểu “cái đó”, cách sử dụng các từ này nhìn chung khá giống với tiếng Anh.
+Mặc dù có sự phân biệt giữa hai kiểu “cái đó”, cách sử dụng các từ này nhìn chung khá giống với Tiếng Việt.
 
-Ngoài ra còn có một nhóm từ こそあど rất giống, nhưng cách hoạt động về mặt ngữ pháp thì khác. Khi dịch sang tiếng Anh cũng khó giải thích, nên ta xem ví dụ trước:
+Ngoài ra còn có một nhóm từ こそあど rất giống, nhưng cách hoạt động về mặt ngữ pháp thì khác. Khi dịch sang Tiếng Việt cũng khó giải thích, nên ta xem ví dụ trước:
 
 <pre>
 この&lt;noun&gt;
@@ -55,7 +54,7 @@ Ngoài ra còn có một nhóm từ こそあど rất giống, nhưng cách ho�
 
 Những từ này không thể đứng một mình, và **bắt buộc** phải đứng trước danh từ theo sau. Ý nghĩa cơ bản giống với nhóm trước, nhưng cách dùng hơi khác.
 
-Giả sử bạn đang cầm một quyển sách và muốn nói “Đây là một quyển sách.” Lúc này “quyển sách” là trọng tâm của câu, nên bạn sẽ nói これは本です (cái này = sách). Nhưng nếu bạn muốn nói **về** quyển sách đó, bạn sẽ nói この本は面白いです. Quyển sách này thì thú vị. “Cái này” và “quyển sách” trở thành một cụm thống nhất. Trong tiếng Anh, cả “This is a book” và “This book is interesting” đều dùng “this”, nhưng trong tiếng Nhật, trường hợp đầu dùng これ, còn trường hợp sau dùng この.
+Giả sử bạn đang cầm một quyển sách và muốn nói “Đây là một quyển sách.” Lúc này “quyển sách” là trọng tâm của câu, nên bạn sẽ nói これは本です (cái này = sách). Nhưng nếu bạn muốn nói **về** quyển sách đó, bạn sẽ nói この本は面白いです. Quyển sách này thì thú vị. “Cái này” và “quyển sách” trở thành một cụm thống nhất. Trong Tiếng Việt, cả “This is a book” và “This book is interesting” đều dùng “this”, nhưng trong tiếng Nhật, trường hợp đầu dùng これ, còn trường hợp sau dùng この.
 
 Điều này cũng áp dụng cho tất cả các từ こそあど đi với の khác.
 
@@ -98,5 +97,5 @@ Hàng あ là hàng duy nhất có cách phát âm hơi bất quy tắc, nhưng 
 
 Ghi chú: Nhóm こちら cũng có thể dùng như cách gọi người một cách lịch sự, vì nó tạo cảm giác gián tiếp. Ngược lại, nhóm こいつ thường mang sắc thái thô lỗ, nên tránh dùng để gọi người.
 
-Cũng giống như tiếng Anh, khoảng cách vật lý không phải là yếu tố duy nhất quyết định việc dùng các từ này. Chúng cũng có thể dùng cho khoảng cách về thời gian. Ngoài ra, mức độ quen thuộc với chủ đề giữa người nói và người nghe cũng ảnh hưởng. Một thứ đã được nhắc đến trước đó trong cuộc trò chuyện có thể được gọi là あの〜, còn một thứ vừa mới nhắc đến thì thường là その〜. Tương tự như trong tiếng Anh, đôi khi chúng ta cũng phân vân giữa “this” và “that”, và trong tiếng Nhật cũng vậy — sự phân biệt không phải lúc nào cũng tuyệt đối.
+Cũng giống như Tiếng Việt, khoảng cách vật lý không phải là yếu tố duy nhất quyết định việc dùng các từ này. Chúng cũng có thể dùng cho khoảng cách về thời gian. Ngoài ra, mức độ quen thuộc với chủ đề giữa người nói và người nghe cũng ảnh hưởng. Một thứ đã được nhắc đến trước đó trong cuộc trò chuyện có thể được gọi là あの〜, còn một thứ vừa mới nhắc đến thì thường là その〜. Tương tự như trong Tiếng Việt, đôi khi chúng ta cũng phân vân giữa “this” và “that”, và trong tiếng Nhật cũng vậy — sự phân biệt không phải lúc nào cũng tuyệt đối.
 

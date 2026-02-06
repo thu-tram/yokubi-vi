@@ -1,4 +1,3 @@
-
 # Tạo ra và trở thành với なる và する
 
 Chúng ta đã gặp なる trong một số ví dụ ở các bài trước. Bây giờ hãy xem kỹ hơn cách nó hoạt động.

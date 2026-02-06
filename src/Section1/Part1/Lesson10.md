@@ -1,4 +1,3 @@
-
 # Dạng て
 
 Nếu bạn thấy bài này khó, cũng đừng lo. Chúng ta chỉ đang học những nền tảng cơ bản, và bạn chưa cần phải ghi nhớ hay thấm hết mọi thứ ngay lúc này.

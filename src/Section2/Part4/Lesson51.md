@@ -1,4 +1,3 @@
-
 # Suy nghĩ và cảm nhận với と思う và と考える
 
 Hai động từ 思う và 考える đều thường được dịch là "nghĩ". Tuy nhiên, 考える liên quan đến kiểu suy nghĩ có tính phân tích, cân nhắc, hoặc suy luận có hệ thống, còn 思う thì thiên về cảm giác, ý nghĩ nảy ra một cách tự nhiên trong đầu (đôi khi không chủ ý). Bạn có thể hình dung 考える giống với "xem xét", "cân nhắc", "đánh giá", dù không phải lúc nào cũng mang sắc thái nghiêm trọng.

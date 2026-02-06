@@ -1,9 +1,8 @@
-
 # Trợ từ に, へ và から
 
 Các trợ từ này chủ yếu liên quan đến địa điểm. から biểu thị điểm bắt đầu của một hành động, còn へ và に biểu thị điểm đến hoặc hướng của hành động.
 
-から tương đương với “from” trong tiếng Anh, kể cả khi dùng theo nghĩa trừu tượng.
+から tương đương với “from” trong Tiếng Việt, kể cả khi dùng theo nghĩa trừu tượng.
 
 <pre>
 誰か<b>が</b>外<b>から</b>俺の部屋<b>へ</b>ノック<b>を</b>した。  
@@ -11,7 +10,7 @@ Someone knocked on my door from outside.
 Có ai đó gõ cửa phòng tôi từ bên ngoài.
 </pre>
 
-Trong câu tiếng Anh thậm chí không đánh dấu vai trò của từng danh từ. Trợ từ trong tiếng Nhật giúp việc này rõ ràng hơn, ít nhất là đối với người học.
+Trong câu Tiếng Việt thậm chí không đánh dấu vai trò của từng danh từ. Trợ từ trong tiếng Nhật giúp việc này rõ ràng hơn, ít nhất là đối với người học.
 
 Trong tiếng Nhật, chủ ngữ có thể bị lược bỏ nếu đã hiểu từ ngữ cảnh hoặc không quan trọng. Nhiều câu ví dụ sẽ không có đại từ rõ ràng, nên khi dịch sang tiếng Việt, chúng ta sẽ thêm đại từ ngẫu nhiên cho dễ đọc. Hãy nhớ rằng nếu bản dịch dùng “anh ấy” hay “cô ấy” thì trong câu tiếng Nhật gốc thường không hề xác định giới tính.
 
@@ -55,7 +54,7 @@ I gave him the letter.
 Tôi đưa lá thư cho anh ấy.
 </pre>
 
-Đôi khi に còn thay thế cho tân ngữ trực tiếp trong những động từ mà tiếng Anh xem là ngoại động từ, nhưng tiếng Nhật thì không.
+Đôi khi に còn thay thế cho tân ngữ trực tiếp trong những động từ mà Tiếng Việt xem là ngoại động từ, nhưng tiếng Nhật thì không.
 
 <pre>
 電車<b>に</b>乗る  

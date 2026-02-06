@@ -1,9 +1,8 @@
-
 # Thể bị động và cặp động từ tự động / tha động
 
 Động từ bị động (passive) tồn tại để biến tân ngữ của động từ thành chủ ngữ. Khác với てある, thể bị động mô tả **hành động đang xảy ra**, chứ không phải trạng thái còn lại sau khi hành động đó hoàn tất.
 
-Một ví dụ đơn giản trong tiếng Anh là: “The cake is eaten by me.”  
+Một ví dụ đơn giản trong Tiếng Việt là: “The cake is eaten by me.”  
 Dạng chủ động tương ứng là: “I eat the cake.”  
 Trong câu bị động, “the cake” trở thành chủ ngữ, và hành động “ăn” được nhìn từ góc độ của chiếc bánh.
 
@@ -66,7 +65,7 @@ Lưu ý: Đừng nhầm rằng cứ thấy が là tự động từ, và cứ t
 | (XがYを)出す           | (Xが)出る           |
 | đưa / lấy ra cái gì đó | ra ngoài / thoát ra |
 
-Trong tiếng Anh, các cặp tự động / tha động như vậy khá hiếm (raise / rise là ví dụ thường được nhắc đến), vì trong nhiều trường hợp cùng một động từ tiếng Anh có thể dùng cho cả hai:  
+Trong Tiếng Việt, các cặp tự động / tha động như vậy khá hiếm (raise / rise là ví dụ thường được nhắc đến), vì trong nhiều trường hợp cùng một động từ Tiếng Việt có thể dùng cho cả hai:  
 “I blew up a car” (hành động có tân ngữ)  
 “A car blew up” (hành động tự xảy ra)
 

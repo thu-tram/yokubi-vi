@@ -1,4 +1,3 @@
-
 # Cách dùng khẩu ngữ của だって
 
 Ngoài cách dùng trích dẫn đơn giản của (だ)って, còn có hai cách dùng khác. Một trong số đó là sự mở rộng từ cách dùng trích dẫn, nhưng cách còn lại thì về mặt lịch sử không liên quan.

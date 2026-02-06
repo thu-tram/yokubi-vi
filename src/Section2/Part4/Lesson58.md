@@ -1,4 +1,3 @@
-
 # Tính định hướng với ていく và てくる
 
 Chúng ta đã nhắc sơ qua về khái niệm “tính định hướng” trong [Lesson 11](../../Section1/Part1/Lesson11.md) thông qua các trợ động từ cho – nhận như てあげる, てもらう và てくれる. Bây giờ ta sẽ đi sâu hơn một chút và giới thiệu thêm hai trợ động từ nữa: ていく và てくる.
@@ -40,7 +39,7 @@ Thời gian trôi qua trong chớp mắt.
 Thế giới này đang từng chút một thay đổi.
 </pre>
 
-Một số động từ **bắt buộc** phải đi kèm với trợ động từ chỉ hướng thì câu mới tự nhiên hoặc đúng nghĩa. Ví dụ, động từ 引っ越す nghĩa là “chuyển nhà”, nhưng trong tiếng Nhật bản thân nó không mang rõ sắc thái “di chuyển” hay “chuyển dịch trạng thái” như trong tiếng Anh. Khi muốn nói “tôi vừa chuyển đến đây” và nhấn mạnh sự thay đổi trạng thái, ta cần dùng thêm trợ động từ chỉ hướng. Các động từ như 送る (gửi) hay 歩く (đi bộ) cũng có cách dùng tương tự.
+Một số động từ **bắt buộc** phải đi kèm với trợ động từ chỉ hướng thì câu mới tự nhiên hoặc đúng nghĩa. Ví dụ, động từ 引っ越す nghĩa là “chuyển nhà”, nhưng trong tiếng Nhật bản thân nó không mang rõ sắc thái “di chuyển” hay “chuyển dịch trạng thái” như trong Tiếng Việt. Khi muốn nói “tôi vừa chuyển đến đây” và nhấn mạnh sự thay đổi trạng thái, ta cần dùng thêm trợ động từ chỉ hướng. Các động từ như 送る (gửi) hay 歩く (đi bộ) cũng có cách dùng tương tự.
 
 <pre>
 親の都合で、この街に引っ越し<b>てきた</b>

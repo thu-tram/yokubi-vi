@@ -1,4 +1,3 @@
-
 # Thể khả năng và できる
 
 Thể khả năng (potential form) tồn tại để diễn đạt rằng một việc gì đó “có thể làm được”.  
@@ -28,7 +27,7 @@ Với động từ bất quy tắc する, ta dùng động từ khác là で�
 Hôm qua tôi <b>không thể</b> học.
 </pre>
 
-Để làm mọi thứ còn rối hơn giữa thể bị động và thể khả năng, ta cần nói đến một điểm đặc biệt của thể khả năng trong tiếng Nhật mà tiếng Anh không có.
+Để làm mọi thứ còn rối hơn giữa thể bị động và thể khả năng, ta cần nói đến một điểm đặc biệt của thể khả năng trong tiếng Nhật mà Tiếng Việt không có.
 
 Với động từ ở thể khả năng, khái niệm “chủ ngữ” và “tân ngữ” của tha động từ có thể trở nên không rõ ràng về mặt ngữ pháp. Hãy xem ví dụ:
 

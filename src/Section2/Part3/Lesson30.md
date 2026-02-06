@@ -1,4 +1,3 @@
-
 # Trích dẫn với と, って, và という
 
 Có hai loại mệnh đề quan hệ cơ bản. Loại thứ nhất là mệnh đề bổ nghĩa cho danh từ, chúng ta đã học ở [Lesson 14](../../Section1/Part1/Lesson14.md). Loại thứ hai là mệnh đề được lồng vào trong câu, thường gọi là “mệnh đề trích dẫn”, giống như phần được gạch chân trong câu: “He said that <ins>the war would end soon</ins>.”
@@ -16,7 +15,7 @@ Tôi nghe nói là có thể nhìn thấy.
 Tôi nói là tôi không sợ.
 </pre>
 
-Trong tiếng Anh, người ta phân biệt trích dẫn trực tiếp và gián tiếp bằng dấu câu. Ví dụ:
+Trong Tiếng Việt, người ta phân biệt trích dẫn trực tiếp và gián tiếp bằng dấu câu. Ví dụ:
 
 <pre>
 "I will eat the cake," he said. (trích dẫn trực tiếp)  

@@ -1,4 +1,3 @@
-
 # Từ để hỏi: なに, だれ, どれ, いつ, v.v.
 
 Những từ này được gọi là từ nghi vấn. Chúng được dùng để đặt các câu hỏi dạng “wh-” (ai, cái gì, khi nào, ở đâu, v.v.). Đôi khi chúng cũng xuất hiện như một phần của các cấu trúc ngữ pháp lớn hơn hoặc trong những cụm cố định.

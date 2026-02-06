@@ -1,4 +1,3 @@
-
 # Diễn tả xấp xỉ với ころ và くらい, và giới hạn với まで, ほど, すぎる
 
 ころ là một danh từ mang nghĩa “khoảng thời gian xấp xỉ.” Bạn sẽ thường gặp mẫu Xのころに. Mẫu này có thể hiểu là liên từ “vào khoảng thời điểm X,” hoặc là danh từ “thời điểm khi X” kèm theo trợ từ に. Trong một số trường hợp, ころ có thể gắn trực tiếp vào danh từ dưới dạng hậu tố ごろ.

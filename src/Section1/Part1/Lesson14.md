@@ -1,4 +1,3 @@
-
 # Đi sâu vào mệnh đề quan hệ
 
 <div class="warning">
@@ -8,7 +7,7 @@ Phần "I'm late" (tôi đến muộn) trong câu "I'm sorry I'm late" (xin lỗ
 Những câu ghép như "I'm late because the traffic was bad" (tôi đến muộn vì giao thông tệ) chứa nhiều mệnh đề.
 </div>
 
-Mệnh đề quan hệ là những phát biểu được lồng vào bên trong một phát biểu khác. Nếu ta có cấu trúc "A là B", mệnh đề quan hệ cho phép mở rộng thành kiểu "A là (B mà là C)", rồi tiếp tục thành "A là (B mà là (C mà làm D))". Trong tiếng Anh, dạng này có thể trông khá rối, nhưng trong tiếng Nhật thì rất phổ biến.
+Mệnh đề quan hệ là những phát biểu được lồng vào bên trong một phát biểu khác. Nếu ta có cấu trúc "A là B", mệnh đề quan hệ cho phép mở rộng thành kiểu "A là (B mà là C)", rồi tiếp tục thành "A là (B mà là (C mà làm D))". Trong Tiếng Việt, dạng này có thể trông khá rối, nhưng trong tiếng Nhật thì rất phổ biến.
 
 Trong bài này, chúng ta sẽ tập trung vào mệnh đề quan hệ bổ nghĩa cho danh từ. Đây là những phần như "I used to live in" trong câu "That is the house <ins>I used to live in</ins>" (Đó là ngôi nhà mà tôi từng sống).
 

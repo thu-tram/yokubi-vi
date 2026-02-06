@@ -1,4 +1,3 @@
-
 # Tạo danh sách với や, とか, など, と, か và に
 
 Trong tiếng Nhật, danh sách các vật hay khái niệm được tạo ra bằng cách gắn vào mỗi mục một trợ từ “liệt kê” cụ thể, thể hiện bản chất của danh sách đó. Có hai loại danh sách chính: danh sách **đầy đủ** (liệt kê toàn bộ) và danh sách **không đầy đủ** (liệt kê ví dụ).

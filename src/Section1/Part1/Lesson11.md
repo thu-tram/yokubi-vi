@@ -1,4 +1,3 @@
-
 # Dạng て làm trợ động từ và các động từ cho / nhận
 
 Ngoài việc nối hai mệnh đề thành một câu, dạng て còn có thể hoạt động như một **trợ động từ**. Khi dùng theo mẫu \<động từ 1\>て\<động từ 2\>, động từ thứ hai sẽ bổ sung hoặc điều chỉnh ý nghĩa cốt lõi của động từ thứ nhất. Thông thường, động từ thứ hai mang ý nghĩa trừu tượng và đôi khi chỉ mang tính ngữ pháp.
@@ -24,7 +23,7 @@ Trong khi đó, 私が助けてもらう lại có nghĩa là “tôi được g
 
 Mẫu **XてY** không chỉ đơn giản là gắn động từ Y vào sau X, mà có thể tạo ra cả một cụm động từ mới với ngữ pháp và ý nghĩa khác.
 
-Cách dùng て như một trợ động từ này rất quan trọng, và là một trong những điểm cốt lõi tạo nên những cấu trúc rất “chất Nhật”, thường khó dịch chính xác sang tiếng Anh.
+Cách dùng て như một trợ động từ này rất quan trọng, và là một trong những điểm cốt lõi tạo nên những cấu trúc rất “chất Nhật”, thường khó dịch chính xác sang Tiếng Việt.
 
 Ngoài てあげる và てもらう, còn có một động từ thứ ba là てくれる, hoàn thiện “vòng tròn” cho / nhận:
 
@@ -58,7 +57,7 @@ Bố đã dạy (tôi).
 
 Những phần trong ngoặc thường được lược bỏ, vì chỉ cần dùng てくれる hay てもらう là người Nhật đã có thể ngầm hiểu “hướng” của hành động (hướng về phía ai).  
 
-Trong tiếng Anh, ta nói “He taught **me**”, còn trong tiếng Nhật có thể chỉ cần nói “彼が教えてくれた”. Phần “me” đã được bao hàm trong てくれる.
+Trong Tiếng Việt, ta nói “He taught **me**”, còn trong tiếng Nhật có thể chỉ cần nói “彼が教えてくれた”. Phần “me” đã được bao hàm trong てくれる.
 
 Sau này, chúng ta sẽ còn gặp những cách dùng trợ động từ て khác để thể hiện hướng chuyển động, như ていく và てくる.
 

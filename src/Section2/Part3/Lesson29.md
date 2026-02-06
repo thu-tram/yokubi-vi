@@ -1,4 +1,3 @@
-
 # Trợ từ kết câu với ね, な, よ, ぞ, ぜ, わ
 
 Một số trợ từ có thể đứng ở cuối câu để thể hiện cảm xúc của người nói hoặc tạo thêm sắc thái cho câu. Những mô tả trong bài này không mang tính dịch sát nghĩa, mà chỉ nhằm diễn tả cảm giác, sắc thái chung. Đây là một chủ đề rất tinh tế và chỉ có thể nắm vững thông qua việc tiếp xúc thường xuyên với tiếng Nhật.

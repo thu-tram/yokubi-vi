@@ -1,4 +1,3 @@
-
 # Nhờ vả lịch sự với なさい và cấm đoán bằng な
 
 なさい dùng để yêu cầu ai đó làm một việc. Nó mang cảm giác người nói mong đợi người nghe sẽ thực hiện hành động đó, nhưng vẫn là một cách nói nhẹ nhàng và lịch sự. Cách nói này có sắc thái gián tiếp, mềm mỏng, và đôi khi được cảm nhận là hơi nữ tính, tuy nhìn chung vẫn khá trung tính về giới. Người nói thường ở vị trí cao hơn người nghe, và nó rất hay được dùng bởi giáo viên hoặc các bà mẹ khi nhắc nhở trẻ em. Bạn cũng có thể gặp なさい trong những cụm cố định quen thuộc như おやすみなさい, khi đó nó không mang thêm sắc thái đặc biệt nào.

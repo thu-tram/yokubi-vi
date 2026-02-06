@@ -16,6 +16,4 @@ Hướng dẫn ngữ pháp này cố gắng cho bạn một mức độ tiếp x
 
 Và nếu có thứ gì đó quá khó, cứ bỏ qua. Bạn không học để ghi nhớ nhằm vượt qua một bài kiểm tra. Bạn cũng không học để có thể nhận diện mọi cấu trúc với độ chính xác 100% khi tiếp xúc với tiếng Nhật.
 
-Bạn chỉ đang cố gắng đưa những thứ này vào đầu mình. Nếu chưa làm được, không sao cả, sau này bạn sẽ tự nhiên nắm được.
-
-Đừng ngoái lại.
+Bạn chỉ đang cố gắng đưa những thứ này vào đầu mình. Nếu chưa làm được, không sao cả, sau này bạn sẽ tự nhiên hiểu được thôi.

@@ -1,4 +1,3 @@
-
 # Thêm một chút nữa: Một số trợ từ và trợ động từ bổ sung
 
 Như một bài học cuối cùng, chúng ta sẽ nói về một vài trợ từ và trợ động từ nữa mà chưa có cơ hội đưa vào các bài trước.
@@ -31,7 +30,7 @@ Nó cũng có thể dùng để liệt kê các khả năng hoặc ví dụ, tư
 Nếu là trong giấc mơ thì tôi có thể mang ra những thứ như trà hay bánh kẹo.
 </pre>
 
-こそ là trợ từ nhấn mạnh, gần giống như việc nhấn trọng âm trong tiếng Anh. Nói cách khác, nó nhấn mạnh trực tiếp vào từ mà nó đi kèm. Thường nó “đè lên” các trợ từ khác như が, は, を, v.v.
+こそ là trợ từ nhấn mạnh, gần giống như việc nhấn trọng âm trong Tiếng Việt. Nói cách khác, nó nhấn mạnh trực tiếp vào từ mà nó đi kèm. Thường nó “đè lên” các trợ từ khác như が, は, を, v.v.
 
 <pre>
 こういう時<b>こそ</b>冷静にならないと

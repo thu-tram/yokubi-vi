@@ -1,4 +1,3 @@
-
 # Diễn tả sự “không được phép” với だめ, いけない, ならない, và cách nói “phải / bắt buộc”
 
 だめ là một từ mang nghĩa như “không được”, “không ổn”, “vô ích”. Nó có thể dùng để nói rằng một hành động hay tình huống nào đó là xấu, thường sau khi nối mệnh đề phía trước bằng ては hoặc các dạng điều kiện như たら, v.v.

@@ -1,4 +1,3 @@
-
 # Yêu cầu nhẹ với てください và dạng mệnh lệnh
 
 Dạng て cũng có thể được dùng để tạo câu mệnh lệnh đơn giản. Khi thêm ください sau dạng て, ta đang lịch sự yêu cầu ai đó làm việc gì (cho mình), về bản chất là đưa ra một mệnh lệnh nhẹ nhàng. Cách dùng này phổ biến đến mức đôi khi có thể bỏ hẳn ください mà câu vẫn mang ý mệnh lệnh. Khi bỏ ください, câu trở nên thân mật hơn và có thể nghe trực tiếp hơn (thậm chí hơi thô).

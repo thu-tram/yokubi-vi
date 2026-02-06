@@ -1,9 +1,8 @@
-
 # Đếm số lượng
 
 Bây giờ chúng ta nói về cách đếm số lượng. Khi muốn diễn đạt số lượng hay số đếm, bạn thường không thể đặt con số “trần” ở giữa câu. Bạn cần ghép con số đó với một từ đặc biệt dùng để chỉ loại đối tượng đang đếm. Những từ này được gọi là “trợ từ đếm” (counter), và có **rất nhiều** loại. Một số thì cực kỳ chuyên biệt và thay đổi tùy theo vật được đếm, nhưng cũng có những loại khá chung và quy tắc không nghiêm ngặt như bạn có thể nghĩ.
 
-Điều này giống như trong tiếng Anh: bạn không thể nói “I eat 3 breads”, mà phải nói “I eat 3 **loaves** of bread” hoặc “3 **slices** of bread”. Tiếng Nhật hoạt động theo cách tương tự cho hầu hết các danh từ có thể đếm.
+Điều này giống như trong Tiếng Việt: bạn không thể nói “I eat 3 breads”, mà phải nói “I eat 3 **loaves** of bread” hoặc “3 **slices** of bread”. Tiếng Nhật hoạt động theo cách tương tự cho hầu hết các danh từ có thể đếm.
 
 Trợ từ đếm phổ biến nhất là つ, tuy nhiên つ có một điểm đặc biệt là chỉ dùng cho các số từ 1 đến 9. Nếu cần đếm nhiều hơn 9 “vật chung chung”, bạn phải dùng một trợ từ khác (thường là 個, nhưng không phải lúc nào cũng dùng 個 cho mọi thứ).
 

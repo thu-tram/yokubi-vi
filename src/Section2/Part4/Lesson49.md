@@ -1,4 +1,3 @@
-
 # Nhiều cách dùng của とする
 
 とする có bốn cách dùng chính. Cách dùng thứ nhất là để nói rằng ai đó đang giả định / cho rằng một điều gì đó là đúng, và được dùng với mệnh đề. Có thể hiểu gần giống như "giả sử rằng" hoặc "coi như là".

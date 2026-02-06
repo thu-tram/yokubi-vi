@@ -1,7 +1,6 @@
-
 # Động từ
 
-Tiếng Nhật có cả động từ thường và động từ bất quy tắc (動詞). Tuy nhiên, khác với tiếng Anh — nơi có rất nhiều dạng chia bất quy tắc như (“read” → “read”, “speak” → “spoke”, v.v.) — thì phần lớn động từ tiếng Nhật là động từ có quy tắc và tuân theo những mẫu chia rất chặt chẽ.
+Tiếng Nhật có cả động từ thường và động từ bất quy tắc (動詞). Tuy nhiên, khác với Tiếng Việt — nơi có rất nhiều dạng chia bất quy tắc như (“read” → “read”, “speak” → “spoke”, v.v.) — thì phần lớn động từ tiếng Nhật là động từ có quy tắc và tuân theo những mẫu chia rất chặt chẽ.
 
 Tiếng Nhật có hai nhóm động từ có quy tắc chính: ichidan (一段) và godan (五段), và chúng được chia theo những cách khác nhau. Ichidan nghĩa là “một hàng”, còn godan nghĩa là “năm hàng”. Cách gọi này liên quan đến cách chúng biến đổi âm khi chia. “Hàng” ở đây ám chỉ bảng chữ cái kana (五十音図), nhưng bạn không cần ghi nhớ bảng đó ở thời điểm này.
 

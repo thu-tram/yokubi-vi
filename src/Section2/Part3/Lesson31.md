@@ -1,7 +1,6 @@
-
 # Trạng từ
 
-Trạng từ là những từ dùng để bổ nghĩa cho động từ, tính từ, và thậm chí cả những trạng từ khác. Chúng cung cấp thêm thông tin, chẳng hạn như cách thức một hành động được thực hiện. Trong tiếng Anh, từ "liberally" trong câu "Please add sugar liberally" là một trạng từ.
+Trạng từ là những từ dùng để bổ nghĩa cho động từ, tính từ, và thậm chí cả những trạng từ khác. Chúng cung cấp thêm thông tin, chẳng hạn như cách thức một hành động được thực hiện. Trong Tiếng Việt, từ "liberally" trong câu "Please add sugar liberally" là một trạng từ.
 
 Tiếng Nhật có những "trạng từ thực sự" (副詞), có thể dùng trực tiếp mà không cần trợ từ hay dấu hiệu đặc biệt nào, và có thể đặt ở (gần như) bất kỳ vị trí nào trong câu.
 

@@ -1,4 +1,3 @@
-
 # Câu hỏi với の và のだ mang tính giải thích
 
 Một trợ từ dùng để hỏi khác tương tự か là の. Những câu hỏi dùng の mang sắc thái khác với câu hỏi dùng か. Phần sắc thái này sẽ được giải thích sau, trước hết hãy tập trung vào cấu trúc.

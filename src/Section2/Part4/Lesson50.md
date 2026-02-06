@@ -1,4 +1,3 @@
-
 # Thử làm gì đó với てみる
 
 Trợ động từ てみる bắt nguồn từ động từ 見る (xem, nhìn), và điều này cũng giúp ta dễ nhớ ý nghĩa của nó. Nó mang nghĩa đại khái là "thử làm gì đó và xem kết quả ra sao". Tuy nhiên, khi dùng với nghĩa này, nó **không bao giờ** được viết bằng kanji.
@@ -18,7 +17,7 @@ Xin hãy thử tưởng tượng xem.
 
 Ở bài trước, chúng ta đã thấy một mẫu ngữ pháp khác cũng có thể dịch là "cố gắng làm gì đó": ようとする.
 
-Trong tiếng Nhật, hai mẫu ngữ pháp này rất khác nhau, nhưng khi dịch sang tiếng Anh thì dễ gây nhầm lẫn. てみる giả định rằng hành động sẽ được thực hiện, và điều quan trọng là kết quả sau khi làm. Trong khi đó, ようとする nhấn mạnh rằng bản thân việc "cố gắng thực hiện hành động" là phần khó, và thường mang hàm ý rằng chủ thể có thể sẽ không làm được hành động đó.
+Trong tiếng Nhật, hai mẫu ngữ pháp này rất khác nhau, nhưng khi dịch sang Tiếng Việt thì dễ gây nhầm lẫn. てみる giả định rằng hành động sẽ được thực hiện, và điều quan trọng là kết quả sau khi làm. Trong khi đó, ようとする nhấn mạnh rằng bản thân việc "cố gắng thực hiện hành động" là phần khó, và thường mang hàm ý rằng chủ thể có thể sẽ không làm được hành động đó.
 
 Hãy xem sự khác biệt giữa hai câu sau:
 

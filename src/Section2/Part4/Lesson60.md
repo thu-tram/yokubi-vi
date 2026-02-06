@@ -1,4 +1,3 @@
-
 # Kỳ vọng và suy đoán với わけ, はず, べき, ものだ, và かもしれない
 
 わけ là một danh từ mang nghĩa “lý do” (theo nghĩa “tại sao”). Nó xuất hiện trong rất nhiều cụm cố định. Không thể liệt kê hết ở đây, nên chỉ giới thiệu một vài cách dùng phổ biến.
@@ -36,7 +35,7 @@ Nếu vậy thì dù tìm bao nhiêu đi nữa cũng không thể tìm ra cô �
 
 Vì わけ là một cách nói khá mạnh, nên thường được kết hợp với という thành というわけ để làm mềm sắc thái.
 
-はず diễn tả rằng người nói mong đợi một điều gì đó là đúng hoặc sẽ trở thành sự thật. Gần với “should” trong tiếng Anh, nhưng không hoàn toàn giống. はず ngụ ý rằng sự kỳ vọng này dựa trên suy luận, chứ không phải đoán mò.
+はず diễn tả rằng người nói mong đợi một điều gì đó là đúng hoặc sẽ trở thành sự thật. Gần với “should” trong Tiếng Việt, nhưng không hoàn toàn giống. はず ngụ ý rằng sự kỳ vọng này dựa trên suy luận, chứ không phải đoán mò.
 
 <pre>
 こんな<b>はず</b>じゃなかった、こんな<b>はず</b>じゃなかった

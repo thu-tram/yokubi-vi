@@ -1,4 +1,3 @@
-
 # Diễn đạt lý do với から, そして, ので, và で
 
 から không chỉ là trợ từ chỉ nguồn gốc “từ”. Nó còn được dùng như một liên từ để nối hai mệnh đề, trong đó phần sau から là kết quả hoặc hệ quả của phần trước から.

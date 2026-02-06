@@ -1,4 +1,3 @@
-
 # Danh từ chung và danh hóa với 事, 物, ところ và の
 
 事(こと) và 物(もの) đều có nghĩa là “thứ / cái”. 事 thường dùng cho những thứ trừu tượng như hành động hay trạng thái, còn 物 thường dùng cho những thứ hữu hình như đồ vật. Về mặt ngữ pháp, cả hai đều là danh từ, nên giống như các danh từ khác, chúng có thể được bổ nghĩa bởi động từ và tính từ.
@@ -42,7 +41,7 @@ Một mẫu khác là \<động từ\>たことがある, nghĩa đen là “vi�
 Tôi <b>đã từng</b> nghe chuyện đó ở đâu đó rồi.
 </pre>
 
-Riêng こと rất hay được dùng để danh hóa động từ. Trong tiếng Anh cũng có hiện tượng tương tự với dạng “-ing”: “To play soccer” là một hành động, còn “the act of play**ing** soccer” là một “thứ” trừu tượng.
+Riêng こと rất hay được dùng để danh hóa động từ. Trong Tiếng Việt cũng có hiện tượng tương tự với dạng “-ing”: “To play soccer” là một hành động, còn “the act of play**ing** soccer” là một “thứ” trừu tượng.
 
 Trong tiếng Nhật, ta cũng có thể dùng の để đạt hiệu quả tương tự. Có một số trường hợp こと và の không thể thay thế cho nhau, nhưng phần lớn khi danh hóa hành động thì cách dùng của chúng khá giống nhau.
 

@@ -1,4 +1,3 @@
-
 # Thêm các dạng câu hỏi với っけ, かな, かい, だい, じゃない, và じゃん
 
 っけ được dùng khi người nói đã quên điều gì đó hoặc đang cố nhớ lại một thông tin mà trước đây mình biết. Thông thường (dù không phải lúc nào cũng vậy), nó là một câu hỏi hướng về chính bản thân người nói.
@@ -21,7 +20,7 @@ Nó ở đâu nhỉ?
 Cái này gọi là gì nhỉ?
 </pre>
 
-Tương tự như っけ, còn có かな. Nó thường được phát âm với ngữ điệu đi lên như một câu hỏi, nhưng cũng là câu hỏi tự hướng vào bản thân. Nó thể hiện sự băn khoăn, không chắc chắn hoặc do dự của người nói, giống với "mình tự hỏi" trong tiếng Anh. Không cần nói cũng biết, nó xuất phát từ việc kết hợp trợ từ nghi vấn か và trợ từ kết câu な.
+Tương tự như っけ, còn có かな. Nó thường được phát âm với ngữ điệu đi lên như một câu hỏi, nhưng cũng là câu hỏi tự hướng vào bản thân. Nó thể hiện sự băn khoăn, không chắc chắn hoặc do dự của người nói, giống với "mình tự hỏi" trong Tiếng Việt. Không cần nói cũng biết, nó xuất phát từ việc kết hợp trợ từ nghi vấn か và trợ từ kết câu な.
 
 <pre>
 話したいことがあるんだけど、いい<b>かな</b>？

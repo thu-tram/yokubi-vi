@@ -1,4 +1,3 @@
-
 # Thể sai khiến (Causative form)
 
 せる là một dạng trợ động từ mang nghĩa "sai khiến". Nó diễn tả hành động khiến ai đó làm gì, hoặc cho phép ai đó làm gì. Đúng vậy, nó được dùng cho cả hai trường hợp: **bắt buộc** và **cho phép**.
