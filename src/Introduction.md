@@ -10,6 +10,4 @@ Hướng dẫn này là phiên bản được viết và sắp xếp lại hoàn
 
 Yokubi là một dự án **mã nguồn mở**.
 
- [github](https://github.com/Morgawr/yokubi) và gửi issue hoặc pull request.
-
 Bạn nên (**cần**) đọc trang [Trước khi bắt đầu](./Before-you-begin.md) và [Preamble](./Preamble.md) để hiểu cách sử dụng hướng dẫn này.
